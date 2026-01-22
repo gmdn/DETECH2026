@@ -1,0 +1,5 @@
+9. Biochim Biophys Acta Proteins Proteom. 2024 Apr 17;1872(4):141018. doi: 10.1016/j.bbapap.2024.141018. Online ahead of print.
+
+The molecular interplay between human and bacterial amyloids: Implications in neurodegenerative diseases.
+
+Neurodegenerative disorders such as Parkinson's (PD) and Alzheimer's diseases (AD) are linked with the assembly and accumulation of proteins into structured scaffold called amyloids. These diseases pose significant challenges due to their complex and multifaceted nature. While the primary focus has been on endogenous amyloids, recent evidence suggests that bacterial amyloids may contribute to the development and exacerbation of such disorders. The gut-brain axis is emerging as a communication pathway between bacterial and human amyloids. This review delves into the novel role and potential mechanism of bacterial amyloids in modulating human amyloid formation and the progression of AD and PD.

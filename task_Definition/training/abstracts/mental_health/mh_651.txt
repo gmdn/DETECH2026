@@ -1,0 +1,5 @@
+651. Schizophr Res. 2018 Feb;192:398-403. doi: 10.1016/j.schres.2017.04.017. Epub 2017 Apr 22.
+
+Analysis of microbiota in first episode psychosis identifies preliminary associations with symptom severity and treatment response.
+
+The effects of gut microbiota on the central nervous system, along its possible role in mental disorders, have received increasing attention. Here we investigated differences in fecal microbiota between 28 patients with first-episode psychosis (FEP) and 16 healthy matched controls and explored whether such differences were associated with response after up to 12months of treatment. Numbers of Lactobacillus group bacteria were elevated in FEP-patients and significantly correlated with severity along different symptom domains. A subgroup of FEP patients with the strongest microbiota differences also showed poorer response after up to 12months of treatment. The present findings support the involvement of microbiota alterations in psychotic illness and may provide the basis for exploring the benefit of their modulation on treatment response and remission.

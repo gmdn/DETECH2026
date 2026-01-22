@@ -1,0 +1,6 @@
+422. FEMS Microbiol Lett. 2021 Aug 19;368(15):fnab096. doi: 10.1093/femsle/fnab096.
+
+Probiotics-targeting new milestones from gut health to mental health.
+
+Conventional probiotic food research was primarily focused on their benefits for gut health. Recently with the confirmation that the gut microbiota has a bidirectional connection with the brain, it is being proposed that modification of the microbiota can possibly extirpate neurological diseases. Development of probiotic foods and formulations for neural health benefits has garnered interest, with a renewed focus. In this context, this review discusses the evidences collected on the anxiolytic and antidepressant effects of probiotics, especially during the time span of 2015-till now. Although, more clinical trials are necessary to elucidate the exact mechanism of probiotic mode of action but several of the established probiotic strains have been investigated and it appears that few of them have demonstrated their potential as 'psychobiotics'.
+The formulation of new psychobiotic-based therapeutics is in the spotlight. It is expected that in near future, biological effect of probiotics on neurological conditions will open up an entirely new avenue for personalized medication and healthcare in mental health, and they can be tailored according to the gut-microbiota of specific individuals

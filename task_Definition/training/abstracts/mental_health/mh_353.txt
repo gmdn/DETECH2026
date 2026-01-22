@@ -1,0 +1,5 @@
+353. Microorganisms. 2022 Mar 31;10(4):763. doi: 10.3390/microorganisms10040763.
+
+The Gut Microbiome May Help Address Mental Health Disparities in Hispanics: A Narrative Review.
+
+The gut-brain axis is the biological connection between the enteric and the central nervous systems. Given the expansion of the microbial sciences with the new human microbiome field facilitated by the decrease in sequencing costs, we now know more about the role of gut microbiota in human health. In this short review, particular focus is given to the gut-brain axis and its role in psychiatric diseases such as anxiety and depression. Additionally, factors that contribute to changes in the gut-brain axis, including the gut microbiome, nutrition, the host's genome, and ethnic difference, are highlighted. Emphasis is given to the lack of studies on Hispanic populations, despite the fact this ethnic group has a higher prevalence of anxiety and depression in the US.

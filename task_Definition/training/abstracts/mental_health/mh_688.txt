@@ -1,0 +1,5 @@
+688. Genome Med. 2016 Apr 6;8(1):36. doi: 10.1186/s13073-016-0292-1.
+
+Mood by microbe: towards clinical translation.
+
+There is a growing realization that the gut-brain axis plays a key role in maintaining brain health and the stress response. Recently, the gut microbiota has emerged as a master regulator of this axis. Thus, opportunities to exploit the microbiome to treat stress-related psychiatric disorders are materializing. Clinical validation of such strategies is now warranted.

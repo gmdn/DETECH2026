@@ -1,0 +1,482 @@
+num_article,doi,mention,concept
+32,10.1016/j.neubiorev.2024.105562,fermented foods,<Fermented food>
+32,10.1016/j.neubiorev.2024.105562,microbiota-gut-brain axis,<Microbiota-gut-brain axis>
+32,10.1016/j.neubiorev.2024.105562,mental health,<Mental health>
+32,10.1016/j.neubiorev.2024.105562,whole food supplementation strategies,<Whole food supplementation strategy>
+32,10.1016/j.neubiorev.2024.105562,gut microbes,<Gut microorganism>
+32,10.1016/j.neubiorev.2024.105562,psychobiotics,<Psychobiotic>
+32,10.1016/j.neubiorev.2024.105562,behaviour,<Behavior>
+32,10.1016/j.neubiorev.2024.105562,whole food microbiota modulating intervention,<Whole food>
+32,10.1016/j.neubiorev.2024.105562,whole food microbiota modulating intervention,<Microbiota>
+32,10.1016/j.neubiorev.2024.105562,whole food microbiota modulating intervention,<Intervention>
+32,10.1016/j.neubiorev.2024.105562,microbes,<Microorganism>
+32,10.1016/j.neubiorev.2024.105562,microbial metabolites,<Microbial metabolite>
+32,10.1016/j.neubiorev.2024.105562,bioactives,<Bioactive>
+32,10.1016/j.neubiorev.2024.105562,benefits,<Benefit>
+32,10.1016/j.neubiorev.2024.105562,fermentation,<Fermentation>
+32,10.1016/j.neubiorev.2024.105562,gut microbiota,<Gut microbiota>
+32,10.1016/j.neubiorev.2024.105562,gut,<Gut>
+32,10.1016/j.neubiorev.2024.105562,brain,<Brain>
+32,10.1016/j.neubiorev.2024.105562,communication pathways,<Pathway>
+32,10.1016/j.neubiorev.2024.105562,immune system,<Immune system>
+32,10.1016/j.neubiorev.2024.105562,human studies,<Human study>
+32,10.1016/j.neubiorev.2024.105562,mental health-promoting potential,<Mental health>
+32,10.1016/j.neubiorev.2024.105562,therapeutic merit,<Therapy>
+210,10.3928/02793695-20230215-02,brain,<Brain>
+210,10.3928/02793695-20230215-02,gut,<Gut>
+210,10.3928/02793695-20230215-02,psychiatric disorders,<Psychiatric disorder>
+210,10.3928/02793695-20230215-02,treatment,<Treatment>
+210,10.3928/02793695-20230215-02,immune interconnections,<Immune system>
+210,10.3928/02793695-20230215-02,gut microbiota,<Gut microbiota>
+210,10.3928/02793695-20230215-02,psychiatric symptoms and disorders,<Psychiatric symptom>
+210,10.3928/02793695-20230215-02,psychiatric symptoms and disorders,<Psychiatric disorder>
+210,10.3928/02793695-20230215-02,psychiatric disorders,<Psychiatric disorder>
+210,10.3928/02793695-20230215-02,treatments,<Treatment>
+103,10.1016/j.artmed.2023.102677,gut microbiota,<Gut microbiota>
+103,10.1016/j.artmed.2023.102677,mental health,<Mental health>
+103,10.1016/j.artmed.2023.102677,food,<Food>
+103,10.1016/j.artmed.2023.102677,gut-brain axis,<Gut-brain axis>
+103,10.1016/j.artmed.2023.102677,gut microbiota metabolism,<Gut microbiota metabolism>
+103,10.1016/j.artmed.2023.102677,mental diseases,<Mental disease>
+140,10.3389/fncir.2023.1170395,brain,<Brain>
+140,10.3389/fncir.2023.1170395,nutritional psychiatry,<Nutritional psychiatry>
+140,10.3389/fncir.2023.1170395,benefits,<Benefit>
+140,10.3389/fncir.2023.1170395,fresh foods,<Fresh food>
+140,10.3389/fncir.2023.1170395,brain health,<Brain health>
+140,10.3389/fncir.2023.1170395,food components,<Food component>
+140,10.3389/fncir.2023.1170395,gut microbiota,<Gut microbiota>
+140,10.3389/fncir.2023.1170395,mental health,<Mental health>
+140,10.3389/fncir.2023.1170395,spaceflight food system,<Food>
+140,10.3389/fncir.2023.1170395,food system,<Food>
+353,10.3390/microorganisms10040763,gut microbiome,<Gut microbiome>
+353,10.3390/microorganisms10040763,mental health disparities,<Mental health>
+353,10.3390/microorganisms10040763,gut-brain axis,<Gut-brain axis>
+353,10.3390/microorganisms10040763,biological connection,<Biology>
+353,10.3390/microorganisms10040763,enteric and the central nervous systems,<Enteric nervous system>
+353,10.3390/microorganisms10040763,enteric and the central nervous systems,<Central nervous system>
+353,10.3390/microorganisms10040763,microbial sciences,<Microorganism>
+353,10.3390/microorganisms10040763,human microbiome field,<Human>
+353,10.3390/microorganisms10040763,human microbiome field,<Microbiome>
+353,10.3390/microorganisms10040763,sequencing costs,<Sequencing>
+353,10.3390/microorganisms10040763,gut microbiota,<Gut microbiota>
+353,10.3390/microorganisms10040763,human health,<Human>
+353,10.3390/microorganisms10040763,human health,<Health>
+353,10.3390/microorganisms10040763,psychiatric diseases,<Psychiatric diseases>
+353,10.3390/microorganisms10040763,anxiety,<Anxiety>
+353,10.3390/microorganisms10040763,depression,<Depression>
+353,10.3390/microorganisms10040763,nutrition,<Nutrition>
+353,10.3390/microorganisms10040763,host,<Host>
+353,10.3390/microorganisms10040763,genome,<Genome>
+286,10.3390/ijerph191911882,biodiversity effect,<Biodiversity>
+286,10.3390/ijerph191911882,biodiversity effect,<Effect>
+286,10.3390/ijerph191911882,human mental health,<Human>
+286,10.3390/ijerph191911882,human mental health,<Mental health>
+286,10.3390/ijerph191911882,microbiota alterations,<Microbiota alteration>
+286,10.3390/ijerph191911882,natural environment,<Natural environment>
+286,10.3390/ijerph191911882,biodiversity hypothesis,<Biodiversity>
+286,10.3390/ijerph191911882,human physical and mental health,<Human>
+286,10.3390/ijerph191911882,human physical and mental health,<Physical health>
+286,10.3390/ijerph191911882,human physical and mental health,<Mental health>
+286,10.3390/ijerph191911882,halobiont environment,<Holobiont>
+286,10.3390/ijerph191911882,neuropsychiatric disorders,<Neuropsychiatric disorder>
+286,10.3390/ijerph191911882,depression,<Depression>
+286,10.3390/ijerph191911882,anxiety,<Anxiety>
+286,10.3390/ijerph191911882,autism,<Autism spectrum disorder>
+286,10.3390/ijerph191911882,dementia,<Dementia>
+286,10.3390/ijerph191911882,multiple sclerosis,<Multiple sclerosis>
+286,10.3390/ijerph191911882,green prescription,<Green prescription>
+286,10.3390/ijerph191911882,patients,<Patient>
+286,10.3390/ijerph191911882,ecological biodiversity,<Ecological biodiversity>
+286,10.3390/ijerph191911882,human microbiota,<Human>
+286,10.3390/ijerph191911882,human microbiota,<Microbiota>
+286,10.3390/ijerph191911882,environment,<Environment>
+286,10.3390/ijerph191911882,microbes,<Microorganism>
+286,10.3390/ijerph191911882,humans,<Human>
+286,10.3390/ijerph191911882,human studies,<Human study>
+286,10.3390/ijerph191911882,gut microbiota,<Gut microbiota>
+286,10.3390/ijerph191911882,pathophysiology,<Pathophysiology>
+286,10.3390/ijerph191911882,biodiversity,<Biodiversity>
+286,10.3390/ijerph191911882,mental health effects,<Mental health>
+286,10.3390/ijerph191911882,mental health effects,<Effect>
+286,10.3390/ijerph191911882,biophysiological mechanisms,<Biophysiological mechanism>
+286,10.3390/ijerph191911882,psychological mechanisms,<Psychological mechanism>
+286,10.3390/ijerph191911882,biodiversity measurement,<Biodiversity>
+286,10.3390/ijerph191911882,effects,<Effect>
+318,10.1038/s41598-022-16251-x,effects,<Effect>
+318,10.1038/s41598-022-16251-x,probiotics,<Probiotic>
+318,10.1038/s41598-022-16251-x,animal models,<Animal model>
+318,10.1038/s41598-022-16251-x,human neuroimaging,<Human>
+318,10.1038/s41598-022-16251-x,human neuroimaging,<Neuroimaging>
+318,10.1038/s41598-022-16251-x,lesion studies,<Lesion>
+318,10.1038/s41598-022-16251-x,gut microbiota,<Gut microbiota>
+318,10.1038/s41598-022-16251-x,interaction,<Interaction>
+318,10.1038/s41598-022-16251-x,central and the enteric nervous systems,<Central nervous system>
+318,10.1038/s41598-022-16251-x,central and the enteric nervous systems,<Enteric nervous system>
+318,10.1038/s41598-022-16251-x,gut-brain axis,<Gut-brain axis>
+318,10.1038/s41598-022-16251-x,GBA,<Gut-brain axis>
+318,10.1038/s41598-022-16251-x,brain regions,<Brain region>
+318,10.1038/s41598-022-16251-x,emotional and cognitive processes,<Emotional process>
+318,10.1038/s41598-022-16251-x,emotional and cognitive processes,<Cognitive process>
+318,10.1038/s41598-022-16251-x,humans,<Human>
+318,10.1038/s41598-022-16251-x,placebo-controlled double-blinded design,<Placebo-controlled double-blind design>
+318,10.1038/s41598-022-16251-x,doses,<Dose>
+318,10.1038/s41598-022-16251-x,placebo,<Placebo>
+318,10.1038/s41598-022-16251-x,risk-taking behavior,<Risk-taking behavior>
+318,10.1038/s41598-022-16251-x,probiotics group,<Probiotic>
+318,10.1038/s41598-022-16251-x,placebo group,<Placebo>
+318,10.1038/s41598-022-16251-x,microbiota-gut-brain axis,<Microbiota-gut-brain axis>
+318,10.1038/s41598-022-16251-x,neural mechanisms,<Neural mechanism>
+422,10.1093/femsle/fnab096,probiotics,<Probiotic>
+422,10.1093/femsle/fnab096,gut health,<Gut health>
+422,10.1093/femsle/fnab096,mental health,<Mental health>
+422,10.1093/femsle/fnab096,probiotic food research,<Probiotic food>
+422,10.1093/femsle/fnab096,benefits,<Benefit>
+422,10.1093/femsle/fnab096,gut microbiota,<Gut microbiota>
+422,10.1093/femsle/fnab096,brain,<Brain>
+422,10.1093/femsle/fnab096,microbiota,<Microbiota>
+422,10.1093/femsle/fnab096,neurological diseases,<Neurological disease>
+422,10.1093/femsle/fnab096,probiotic foods and formulations,<Probiotic food>
+422,10.1093/femsle/fnab096,probiotic foods and formulations,<Probiotic formulation>
+422,10.1093/femsle/fnab096,neural health benefits,<Neural health>
+422,10.1093/femsle/fnab096,neural health benefits,<Benefit>
+422,10.1093/femsle/fnab096,anxiolytic and antidepressant effects,<Anxiolytic effect>
+422,10.1093/femsle/fnab096,anxiolytic and antidepressant effects,<Antidepressant effect>
+422,10.1093/femsle/fnab096,clinical trials,<Clinical trial>
+422,10.1093/femsle/fnab096,mechanism,<Mechanism>
+422,10.1093/femsle/fnab096,probiotic mode of action,<Probiotic>
+422,10.1093/femsle/fnab096,probiotic strains,<Probiotic strain>
+422,10.1093/femsle/fnab096,psychobiotics,<Psychobiotic>
+422,10.1093/femsle/fnab096,psychobiotic-based therapeutics,<Psychobiotic>
+422,10.1093/femsle/fnab096,psychobiotic-based therapeutics,<Therapy>
+422,10.1093/femsle/fnab096,biological effect,<Biological effect>
+422,10.1093/femsle/fnab096,neurological conditions,<Neurological condition>
+422,10.1093/femsle/fnab096,medication,<Medication>
+422,10.1093/femsle/fnab096,healthcare,<Healthcare>
+422,10.1093/femsle/fnab096,gut-microbiota,<Gut microbiota>
+308,10.1016/j.brainresbull.2022.05.014,brain-body communication,<Brain>
+308,10.1016/j.brainresbull.2022.05.014,brain-body communication,<Body>
+308,10.1016/j.brainresbull.2022.05.014,health,<Health>
+308,10.1016/j.brainresbull.2022.05.014,diseases,<Disease>
+308,10.1016/j.brainresbull.2022.05.014,interaction,<Interaction>
+308,10.1016/j.brainresbull.2022.05.014,brain,<Brain>
+308,10.1016/j.brainresbull.2022.05.014,organs,<Organ>
+308,10.1016/j.brainresbull.2022.05.014,homeostasis,<Homeostasis>
+308,10.1016/j.brainresbull.2022.05.014,body,<Body>
+308,10.1016/j.brainresbull.2022.05.014,brain diseases,<Brain disease>
+308,10.1016/j.brainresbull.2022.05.014,psychiatric and neurodegenerative disorders,<Psychiatric disorder>
+308,10.1016/j.brainresbull.2022.05.014,psychiatric and neurodegenerative disorders,<Neurodegenerative disorder>
+308,10.1016/j.brainresbull.2022.05.014,dysbiosis,<Dysbiosis>
+308,10.1016/j.brainresbull.2022.05.014,gut microbiota,<Gut microbiota>
+308,10.1016/j.brainresbull.2022.05.014,microbes-derived compounds,<Microorganism>
+308,10.1016/j.brainresbull.2022.05.014,microbes-derived compounds,<Chemical compound>
+308,10.1016/j.brainresbull.2022.05.014,pathophysiology,<Pathophysiology>
+308,10.1016/j.brainresbull.2022.05.014,psychiatric disorders,<Psychiatric disorder>
+308,10.1016/j.brainresbull.2022.05.014,neurodegenerative disorders,<Neurodegenerative disorder>
+308,10.1016/j.brainresbull.2022.05.014,depression,<Depression>
+308,10.1016/j.brainresbull.2022.05.014,psychiatric symptom,<Psychiatric symptom>
+308,10.1016/j.brainresbull.2022.05.014,patients,<Patient>
+308,10.1016/j.brainresbull.2022.05.014,physical disorders,<Physical disorder>
+308,10.1016/j.brainresbull.2022.05.014,pain,<Pain>
+308,10.1016/j.brainresbull.2022.05.014,cardiovascular diseases,<Cardiovascular disease>
+461,10.1590/1516-4446-2020-0987,microbiota-gut-brain axis,<Microbiota-gut-brain axis>
+461,10.1590/1516-4446-2020-0987,neuropsychiatric disorders,<Neuropsychiatric disorder>
+461,10.1590/1516-4446-2020-0987,signaling mechanism,<Signaling mechanism>
+461,10.1590/1516-4446-2020-0987,gastrointestinal tract,<Gastrointestinal tract>
+461,10.1590/1516-4446-2020-0987,central nervous system,<Central nervous system>
+461,10.1590/1516-4446-2020-0987,intestinal ecosystem,<Intestinal ecosystem>
+461,10.1590/1516-4446-2020-0987,microbial cells,<Microbial cell>
+461,10.1590/1516-4446-2020-0987,small and large intestine,<Small intestine>
+461,10.1590/1516-4446-2020-0987,small and large intestine,<Large intestine>
+461,10.1590/1516-4446-2020-0987,interaction,<Interaction>
+461,10.1590/1516-4446-2020-0987,microbiota,<Microbiota>
+461,10.1590/1516-4446-2020-0987,intestinal epithelium,<Intestinal epithelium>
+461,10.1590/1516-4446-2020-0987,physiological change,<Physiological change>
+461,10.1590/1516-4446-2020-0987,brain,<Brain>
+461,10.1590/1516-4446-2020-0987,mood,<Mood>
+461,10.1590/1516-4446-2020-0987,behavior,<Behavior>
+461,10.1590/1516-4446-2020-0987,mental health,<Mental health>
+461,10.1590/1516-4446-2020-0987,intestinal microbiota,<Gut microbiota>
+461,10.1590/1516-4446-2020-0987,neurological and psychiatric disorders,<Neurological disorder>
+461,10.1590/1516-4446-2020-0987,neurological and psychiatric disorders,<Psychiatric disorder>
+461,10.1590/1516-4446-2020-0987,gut microbiota,<Gut microbiota>
+461,10.1590/1516-4446-2020-0987,Alzheimer disease,<Alzheimer's disease>
+461,10.1590/1516-4446-2020-0987,dementia,<Dementia>
+461,10.1590/1516-4446-2020-0987,anxiety,<Anxiety>
+461,10.1590/1516-4446-2020-0987,autism spectrum disorder,<Autism spectrum disorder>
+461,10.1590/1516-4446-2020-0987,bipolar disorder,<Bipolar disorder>
+461,10.1590/1516-4446-2020-0987,major depressive disorder,<Major depressive disorder>
+461,10.1590/1516-4446-2020-0987,Parkinson's disease,<Parkinson's disease>
+461,10.1590/1516-4446-2020-0987,schizophrenia,<Schizophrenia>
+461,10.1590/1516-4446-2020-0987,pathways,<Pathway>
+461,10.1590/1516-4446-2020-0987,intestinal metabolites,<Gut metabolite>
+461,10.1590/1516-4446-2020-0987,microbial origin,<Microorganism>
+461,10.1590/1516-4446-2020-0987,short-chain fatty acids,<Short-chain fatty acid>
+461,10.1590/1516-4446-2020-0987,tryptophan metabolites,<Tryptophan metabolite>
+461,10.1590/1516-4446-2020-0987,bacterial components,<Bacterium>
+461,10.1590/1516-4446-2020-0987,host,<Host>
+461,10.1590/1516-4446-2020-0987,immune system,<Immune system>
+461,10.1590/1516-4446-2020-0987,prebiotics,<Prebiotic>
+461,10.1590/1516-4446-2020-0987,probiotics,<Probiotic>
+461,10.1590/1516-4446-2020-0987,fecal microbiota transplantation,<Fecal microbiota transplantation>
+461,10.1590/1516-4446-2020-0987,adjuvant therapies,<Adjuvant therapy>
+461,10.1590/1516-4446-2020-0987,clinical evidence,<Clinical evidence>
+544,10.2144/fsoa-2020-0006,microbiome,<Microbiome>
+544,10.2144/fsoa-2020-0006,mindfulness,<Mindfulness>
+544,10.2144/fsoa-2020-0006,mental health,<Mental health>
+544,10.2144/fsoa-2020-0006,gut microbes,<Gut microorganism>
+544,10.2144/fsoa-2020-0006,gut-brain axis,<Gut-brain axis>
+544,10.2144/fsoa-2020-0006,axis,<Axis>
+544,10.2144/fsoa-2020-0006,effect,<Effect>
+544,10.2144/fsoa-2020-0006,gut microbiota,<Gut microbiota>
+544,10.2144/fsoa-2020-0006,biochemical processes,<Biochemical process>
+544,10.2144/fsoa-2020-0006,brain,<Brain>
+544,10.2144/fsoa-2020-0006,mindfulness initiatives,<Mindfulness>
+544,10.2144/fsoa-2020-0006,health,<Health>
+544,10.2144/fsoa-2020-0006,gut,<Gut>
+544,10.2144/fsoa-2020-0006,gut-brain connection,<Gut>
+544,10.2144/fsoa-2020-0006,gut-brain connection,<Brain>
+544,10.2144/fsoa-2020-0006,yoga,<Yoga>
+572,10.1159/000504496,gut microbiome,<Gut microbiome>
+572,10.1159/000504496,bipolar disorder,<Bipolar disorder>
+572,10.1159/000504496,pharmacotherapy management,<Pharmacotherapy>
+572,10.1159/000504496,"commensal, symbiotic, and pathogenic microorganisms",<Commensal microorganism>
+572,10.1159/000504496,"commensal, symbiotic, and pathogenic microorganisms",<Symbiotic microorganism>
+572,10.1159/000504496,"commensal, symbiotic, and pathogenic microorganisms",<Pathogenic microorganism>
+572,10.1159/000504496,host,<Host>
+572,10.1159/000504496,bacterial functions,<Bacterial function>
+572,10.1159/000504496,gut,<Gut>
+572,10.1159/000504496,host functioning,<Host>
+572,10.1159/000504496,medical conditions,<Medical condition>
+572,10.1159/000504496,gut microbiota,<Gut microbiota>
+572,10.1159/000504496,brain,<Brain>
+572,10.1159/000504496,mental health,<Mental health>
+572,10.1159/000504496,gut bacteria,<Gut bacterium>
+572,10.1159/000504496,mood,<Mood>
+572,10.1159/000504496,behavior,<Behavior>
+572,10.1159/000504496,patients,<Patient>
+572,10.1159/000504496,gastrointestinal illnesses,<Gastrointestinal illness>
+572,10.1159/000504496,inflammatory bowel disease,<Inflammatory bowel disease>
+572,10.1159/000504496,microbial community function,<Microorganism>
+572,10.1159/000504496,microbial communities,<Microorganism>
+572,10.1159/000504496,disease risk,<Disease>
+572,10.1159/000504496,disease risk,<Risk>
+572,10.1159/000504496,adverse effects,<Adverse effect>
+572,10.1159/000504496,medication,<Medication>
+572,10.1159/000504496,bipolar disorder risk,<Bipolar disorder>
+572,10.1159/000504496,bipolar disorder risk,<Risk>
+572,10.1159/000504496,medications,<Medication>
+572,10.1159/000504496,effect,<Effect>
+572,10.1159/000504496,microbiota,<Microbiota>
+572,10.1159/000504496,inflammation,<Inflammation>
+572,10.1159/000504496,mood symptoms,<Mood symptom>
+570,10.1016/j.neubiorev.2019.12.011,microbiome,<Microbiome>
+570,10.1016/j.neubiorev.2019.12.011,schizophrenia,<Schizophrenia>
+570,10.1016/j.neubiorev.2019.12.011,human microbiome,<Human>
+570,10.1016/j.neubiorev.2019.12.011,human microbiome,<Microbiome>
+570,10.1016/j.neubiorev.2019.12.011,gastrointestinal microbiota,<Gastrointestinal microbiota>
+570,10.1016/j.neubiorev.2019.12.011,interactions,<Interaction>
+570,10.1016/j.neubiorev.2019.12.011,gut,<Gut>
+570,10.1016/j.neubiorev.2019.12.011,gut microbiota,<Gut microbiota>
+570,10.1016/j.neubiorev.2019.12.011,central nervous system,<Central nervous system>
+570,10.1016/j.neubiorev.2019.12.011,pathogenesis,<Pathogenesis>
+570,10.1016/j.neubiorev.2019.12.011,CNS diseases,<Central nervous system disease>
+570,10.1016/j.neubiorev.2019.12.011,schizophrenia development chain,<Schizophrenia>
+570,10.1016/j.neubiorev.2019.12.011,intestinal microbiota,<Gut microbiota>
+570,10.1016/j.neubiorev.2019.12.011,risk,<Risk>
+549,10.1016/j.conb.2020.01.016,gut microbiota,<Gut microbiota>
+549,10.1016/j.conb.2020.01.016,mental health,<Mental health>
+549,10.1016/j.conb.2020.01.016,gut microbiota-brain axis,<Gut microbiota-brain axis>
+549,10.1016/j.conb.2020.01.016,animals,<Animal>
+549,10.1016/j.conb.2020.01.016,gut microbiome,<Gut microbiome>
+549,10.1016/j.conb.2020.01.016,humans,<Human>
+549,10.1016/j.conb.2020.01.016,mood disorders,<Mood disorder>
+549,10.1016/j.conb.2020.01.016,gut microbiota-brain communication,<Gut microbiota>
+549,10.1016/j.conb.2020.01.016,gut microbiota-brain communication,<Brain>
+549,10.1016/j.conb.2020.01.016,effect,<Effect>
+549,10.1016/j.conb.2020.01.016,probiotics,<Probiotic>
+549,10.1016/j.conb.2020.01.016,brain connectivity,<Brain connectivity>
+549,10.1016/j.conb.2020.01.016,mental health outcomes,<Mental health>
+549,10.1016/j.conb.2020.01.016,pregnancy related stress,<Pregnancy>
+549,10.1016/j.conb.2020.01.016,pregnancy related stress,<Stress>
+549,10.1016/j.conb.2020.01.016,mental disease,<Mental disease>
+549,10.1016/j.conb.2020.01.016,health,<Health>
+549,10.1016/j.conb.2020.01.016,cross-sectional design,<Cross-sectional design>
+549,10.1016/j.conb.2020.01.016,sample sizes,<Sample>
+549,10.1016/j.conb.2020.01.016,sample size,<Sample>
+549,10.1016/j.conb.2020.01.016,longitudinal studies,<Longitudinal study>
+549,10.1016/j.conb.2020.01.016,microbiota composition,<Microbiota>
+611,10.3389/fendo.2019.00081,microbes,<Microorganism>
+611,10.3389/fendo.2019.00081,mental health,<Mental health>
+611,10.3389/fendo.2019.00081,gut-brain axis,<Gut-brain axis>
+611,10.3389/fendo.2019.00081,probiotic applications,<Probiotic>
+611,10.3389/fendo.2019.00081,obese westerners,<Obesity>
+611,10.3389/fendo.2019.00081,gut,<Gut>
+611,10.3389/fendo.2019.00081,anxiety,<Anxiety>
+611,10.3389/fendo.2019.00081,depression,<Depression>
+611,10.3389/fendo.2019.00081,vagus nerve,<Vagus nerve>
+611,10.3389/fendo.2019.00081,body sites,<Body site>
+611,10.3389/fendo.2019.00081,microbiome,<Microbiome>
+611,10.3389/fendo.2019.00081,human,<Human>
+611,10.3389/fendo.2019.00081,gut microbiota,<Gut microbiota>
+611,10.3389/fendo.2019.00081,environmental pollutants,<Environmental pollutant>
+611,10.3389/fendo.2019.00081,microbes-host ecosystem,<Microorganism>
+611,10.3389/fendo.2019.00081,microbes-host ecosystem,<Host>
+611,10.3389/fendo.2019.00081,microbes-host ecosystem,<Ecosystem>
+611,10.3389/fendo.2019.00081,health and disease issues,<Health>
+611,10.3389/fendo.2019.00081,health and disease issues,<Disease>
+611,10.3389/fendo.2019.00081,brain,<Brain>
+611,10.3389/fendo.2019.00081,therapies,<Therapy>
+611,10.3389/fendo.2019.00081,therapeutic potential,<Therapy>
+611,10.3389/fendo.2019.00081,human studies,<Human study>
+625,10.12740/PP/OnlineFirst/81103,microbiology,<Microbiology>
+625,10.12740/PP/OnlineFirst/81103,psychiatry,<Psychiatry>
+625,10.12740/PP/OnlineFirst/81103,gut microbiota,<Gut microbiota>
+625,10.12740/PP/OnlineFirst/81103,psychiatric disorders,<Psychiatric disorder>
+625,10.12740/PP/OnlineFirst/81103,human,<Human>
+625,10.12740/PP/OnlineFirst/81103,genes,<Gene>
+625,10.12740/PP/OnlineFirst/81103,neurons,<Neuron>
+625,10.12740/PP/OnlineFirst/81103,bacteria,<Bacterium>
+625,10.12740/PP/OnlineFirst/81103,gut microbiome,<Gut microbiome>
+625,10.12740/PP/OnlineFirst/81103,central nervous system,<Central nervous system>
+625,10.12740/PP/OnlineFirst/81103,neuroscience,<Neuroscience>
+625,10.12740/PP/OnlineFirst/81103,mental disorders,<Mental disorder>
+625,10.12740/PP/OnlineFirst/81103,gut-brain axis,<Gut-brain axis>
+625,10.12740/PP/OnlineFirst/81103,microbes,<Microorganism>
+625,10.12740/PP/OnlineFirst/81103,animal studies,<Animal study>
+625,10.12740/PP/OnlineFirst/81103,gutbrain crosstalk,<Gut>
+625,10.12740/PP/OnlineFirst/81103,gutbrain crosstalk,<Brain>
+625,10.12740/PP/OnlineFirst/81103,gastrointestinal homeostasis,<Gastrointestinal homeostasis>
+625,10.12740/PP/OnlineFirst/81103,cognitive functions,<Cognitive function>
+625,10.12740/PP/OnlineFirst/81103,obesity,<Obesity>
+625,10.12740/PP/OnlineFirst/81103,inflammatory gastrointestinal disorders,<Inflammatory gastrointestinal disorder>
+625,10.12740/PP/OnlineFirst/81103,animals,<Animal>
+625,10.12740/PP/OnlineFirst/81103,depression,<Depression>
+625,10.12740/PP/OnlineFirst/81103,chronic stress,<Chronic stress>
+625,10.12740/PP/OnlineFirst/81103,therapeutic options,<Therapeutic option>
+651,10.1016/j.schres.2017.04.017,microbiota,<Microbiota>
+651,10.1016/j.schres.2017.04.017,first episode psychosis,<First-episode psychosis>
+651,10.1016/j.schres.2017.04.017,symptom severity,<Symptom severity>
+651,10.1016/j.schres.2017.04.017,treatment response,<Treatment response>
+651,10.1016/j.schres.2017.04.017,effects,<Effect>
+651,10.1016/j.schres.2017.04.017,gut microbiota,<Gut microbiota>
+651,10.1016/j.schres.2017.04.017,central nervous system,<Central nervous system>
+651,10.1016/j.schres.2017.04.017,mental disorders,<Mental disorder>
+651,10.1016/j.schres.2017.04.017,fecal microbiota,<Fecal microbiota>
+651,10.1016/j.schres.2017.04.017,patients,<Patient>
+651,10.1016/j.schres.2017.04.017,first-episode psychosis,<First-episode psychosis>
+651,10.1016/j.schres.2017.04.017,FEP,<First-episode psychosis>
+651,10.1016/j.schres.2017.04.017,controls,<Control>
+651,10.1016/j.schres.2017.04.017,treatment,<Treatment>
+651,10.1016/j.schres.2017.04.017,Lactobacillus group bacteria,<Lactobacillus>
+651,10.1016/j.schres.2017.04.017,Lactobacillus group bacteria,<Bacterium>
+651,10.1016/j.schres.2017.04.017,FEP-patients,<First-episode psychosis>
+651,10.1016/j.schres.2017.04.017,FEP-patients,<Patient>
+651,10.1016/j.schres.2017.04.017,symptom domains,<Symptom>
+651,10.1016/j.schres.2017.04.017,FEP patients,<First-episode psychosis>
+651,10.1016/j.schres.2017.04.017,FEP patients,<Patient>
+651,10.1016/j.schres.2017.04.017,microbiota differences,<Microbiota>
+651,10.1016/j.schres.2017.04.017,microbiota alterations,<Microbiota alteration>
+651,10.1016/j.schres.2017.04.017,psychotic illness,<Psychotic illness>
+651,10.1016/j.schres.2017.04.017,benefit,<Benefit>
+651,10.1016/j.schres.2017.04.017,remission,<Remission>
+661,10.1515/revneuro-2017-0001,microbiota abnormalities,<Microbiota abnormality>
+661,10.1515/revneuro-2017-0001,probiotics,<Probiotic>
+661,10.1515/revneuro-2017-0001,treatment,<Treatment>
+661,10.1515/revneuro-2017-0001,mood disorders,<Mood disorder>
+661,10.1515/revneuro-2017-0001,major depressive disorder,<Major depressive disorder>
+661,10.1515/revneuro-2017-0001,MDD,<Major depressive disorder>
+661,10.1515/revneuro-2017-0001,bipolar disorder,<Bipolar disorder>
+661,10.1515/revneuro-2017-0001,BD,<Bipolar disorder>
+661,10.1515/revneuro-2017-0001,disability,<Disability>
+661,10.1515/revneuro-2017-0001,treatment options,<Treatment>
+661,10.1515/revneuro-2017-0001,remission rates,<Remission>
+661,10.1515/revneuro-2017-0001,disease modifying treatment,<Disease>
+661,10.1515/revneuro-2017-0001,disease modifying treatment,<Treatment>
+661,10.1515/revneuro-2017-0001,disorders,<Disorder>
+661,10.1515/revneuro-2017-0001,gut microbiota,<Gut microbiota>
+661,10.1515/revneuro-2017-0001,etiopathology,<Etiopathology>
+661,10.1515/revneuro-2017-0001,central nervous system-based disorders,<Central nervous system>
+661,10.1515/revneuro-2017-0001,central nervous system-based disorders,<Disorder>
+661,10.1515/revneuro-2017-0001,gastrointestinal microbiota,<Gastrointestinal microbiota>
+661,10.1515/revneuro-2017-0001,benefits,<Benefit>
+661,10.1515/revneuro-2017-0001,psychobiotics,<Psychobiotic>
+661,10.1515/revneuro-2017-0001,bacterial-based interventions,<Bacterium>
+661,10.1515/revneuro-2017-0001,bacterial-based interventions,<Intervention>
+661,10.1515/revneuro-2017-0001,mental health benefit,<Mental health>
+661,10.1515/revneuro-2017-0001,mental health benefit,<Benefit>
+661,10.1515/revneuro-2017-0001,microbiota,<Microbiota>
+661,10.1515/revneuro-2017-0001,pathophysiology,<Pathophysiology>
+661,10.1515/revneuro-2017-0001,intervention studies,<Clinical trial>
+688,10.1186/s13073-016-0292-1,mood,<Mood>
+688,10.1186/s13073-016-0292-1,microbe,<Microorganism>
+688,10.1186/s13073-016-0292-1,gut-brain axis,<Gut-brain axis>
+688,10.1186/s13073-016-0292-1,brain health,<Brain health>
+688,10.1186/s13073-016-0292-1,stress response,<Stress response>
+688,10.1186/s13073-016-0292-1,gut microbiota,<Gut microbiota>
+688,10.1186/s13073-016-0292-1,axis,<Axis>
+688,10.1186/s13073-016-0292-1,microbiome,<Microbiome>
+688,10.1186/s13073-016-0292-1,treat,<Treat>
+688,10.1186/s13073-016-0292-1,stress-related psychiatric disorders,<Stress>
+688,10.1186/s13073-016-0292-1,stress-related psychiatric disorders,<Psychiatric disorder>
+688,10.1186/s13073-016-0292-1,clinical validation,<Clinical validation>
+681,10.1097/MD.0000000000005585,prebiotics,<Prebiotic>
+681,10.1097/MD.0000000000005585,host,<Host>
+681,10.1097/MD.0000000000005585,gut microbiota,<Gut microbiota>
+681,10.1097/MD.0000000000005585,prebiotic candidates,<Prebiotic>
+681,10.1097/MD.0000000000005585,prebiotics prediction,<Prebiotic>
+681,10.1097/MD.0000000000005585,carbohydrates,<Carbohydrate>
+687,10.1093/ijnp/pyv114,gut microbiota,<Gut microbiota>
+687,10.1093/ijnp/pyv114,brain function,<Brain function>
+687,10.1093/ijnp/pyv114,neuroscience,<Neuroscience>
+687,10.1093/ijnp/pyv114,health,<Health>
+687,10.1093/ijnp/pyv114,disease,<Disease>
+687,10.1093/ijnp/pyv114,sequencing technology,<Sequencing>
+687,10.1093/ijnp/pyv114,microbiota,<Microbiota>
+687,10.1093/ijnp/pyv114,health disorders,<Disorder>
+687,10.1093/ijnp/pyv114,obesity,<Obesity>
+687,10.1093/ijnp/pyv114,behavior,<Behavior>
+687,10.1093/ijnp/pyv114,mental health,<Mental health>
+687,10.1093/ijnp/pyv114,neuroscientists,<Neuroscientist>
+687,10.1093/ijnp/pyv114,psychiatrists,<Psychiatrist>
+687,10.1093/ijnp/pyv114,psychiatric disorders,<Psychiatric disorder>
+687,10.1093/ijnp/pyv114,neuroendocrine function,<Neuroendocrine function>
+687,10.1093/ijnp/pyv114,probiotics,<Probiotic>
+687,10.1093/ijnp/pyv114,brain,<Brain>
+687,10.1093/ijnp/pyv114,gut-brain axis,<Gut-brain axis>
+687,10.1093/ijnp/pyv114,humans,<Human>
+703,10.3402/mehd.v26.26309,human gut microbiota,<Human>
+703,10.3402/mehd.v26.26309,human gut microbiota,<Gut microbiota>
+703,10.3402/mehd.v26.26309,autism spectrum disorder,<Autism spectrum disorder>
+703,10.3402/mehd.v26.26309,microbial ecosystem,<Microbial ecosystem>
+703,10.3402/mehd.v26.26309,health,<Health>
+703,10.3402/mehd.v26.26309,host,<Host>
+703,10.3402/mehd.v26.26309,ecosystem,<Ecosystem>
+703,10.3402/mehd.v26.26309,gut microbiota function,<Gut microbiota function>
+703,10.3402/mehd.v26.26309,gut microbiota,<Gut microbiota>
+703,10.3402/mehd.v26.26309,brain,<Brain>
+703,10.3402/mehd.v26.26309,microbiota,<Microbiota>
+703,10.3402/mehd.v26.26309,gut,<Gut>
+703,10.3402/mehd.v26.26309,behavior,<Behavior>
+703,10.3402/mehd.v26.26309,mental health,<Mental health>
+703,10.3402/mehd.v26.26309,organ,<Organ>
+703,10.3402/mehd.v26.26309,microbes,<Microorganism>
+95,10.3390/ijms242216459,microbiota,<Microbiota>
+95,10.3390/ijms242216459,depressive disorder,<Depressive disorder>
+95,10.3390/ijms242216459,gut-brain axis,<Gut-brain axis>
+95,10.3390/ijms242216459,gut microbiota,<Gut microbiota>
+95,10.3390/ijms242216459,human nervous system,<Human>
+95,10.3390/ijms242216459,human nervous system,<Nervous system>
+95,10.3390/ijms242216459,mental health,<Mental health>
+95,10.3390/ijms242216459,major depressive disorder,<Major depressive disorder>
+95,10.3390/ijms242216459,biomarkers,<Biomarker>
+95,10.3390/ijms242216459,depression,<Depression>
+95,10.3390/ijms242216459,microbiome samples,<Microbiome sample>
+95,10.3390/ijms242216459,disorder status,<Disorder status>
+95,10.3390/ijms242216459,patients,<Patient>
+95,10.3390/ijms242216459,metagenomic samples,<Metagenomic sample>
+95,10.3390/ijms242216459,Faecalibacterium prausnitzii,<Faecalibacterium prausnitzii>
+95,10.3390/ijms242216459,diagnostic and therapeutic strategies,<Diagnostic strategy>
+95,10.3390/ijms242216459,diagnostic and therapeutic strategies,<Therapeutic strategy>
+95,10.3390/ijms242216459,taxonomic and functional changes,<Taxonomic change>
+95,10.3390/ijms242216459,taxonomic and functional changes,<Functional change>
+95,10.3390/ijms242216459,molecular interplay,<Molecule>

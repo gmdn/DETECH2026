@@ -1,0 +1,9 @@
+64. J Alzheimers Dis. 2022;87(2):519-528. doi: 10.3233/JAD-215224.
+
+Relationship Between the Gut Microbiota and Alzheimer's Disease: A Systematic Review.
+
+BACKGROUND: In recent years, scientific research on the gut microbiota and their relationship with some diseases, including neurological ones, has notably increased. As a result of these investigations, the so-called gut-brain axis arises. Despite its influence on the evolution and development of cognitive impairment, the gut-brain axis is little defined and demonstrated.
+OBJECTIVE: To provide the best scientific evidence available on the relationship between the gut microbiota and Alzheimer's disease.
+METHOD: Systematic and narrative review of the information generated in the last 5 years in national and international databases, in English and Spanish.
+RESULTS: Eight observational studies were selected, carried out in humans and, therefore, suitable for inclusion in this review.
+CONCLUSION: The results of these studies support the hypothesis that there is a relationship between the gut microbiota and cognitive disorders through the gut-brain axis. However, today, there is a substantial lack of human studies, especially clinical trials, which makes it difficult to formulate clinical recommendations on this topic.

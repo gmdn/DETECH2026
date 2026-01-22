@@ -1,0 +1,393 @@
+num_article,doi,mention,concept
+335,10.1016/j.bbapap.2024.141018,human and bacterial amyloids,<Human>
+335,10.1016/j.bbapap.2024.141018,human and bacterial amyloids,<Amyloid>
+335,10.1016/j.bbapap.2024.141018,human and bacterial amyloids,<Bacterial amyloid>
+335,10.1016/j.bbapap.2024.141018,neurodegenerative diseases,<Neurodegenerative disease>
+335,10.1016/j.bbapap.2024.141018,neurodegenerative disorders,<Neurodegenerative disorder>
+335,10.1016/j.bbapap.2024.141018,Parkinson's (PD) and Alzheimer's diseases,<Parkinson's disease>
+335,10.1016/j.bbapap.2024.141018,Parkinson's (PD) and Alzheimer's diseases,<Alzheimer's disease>
+335,10.1016/j.bbapap.2024.141018,AD,<Alzheimer's disease>
+335,10.1016/j.bbapap.2024.141018,proteins,<Protein>
+335,10.1016/j.bbapap.2024.141018,scaffold,<Scaffold>
+335,10.1016/j.bbapap.2024.141018,amyloids,<Amyloid>
+335,10.1016/j.bbapap.2024.141018,diseases,<Disease>
+335,10.1016/j.bbapap.2024.141018,endogenous amyloids,<Amyloid>
+335,10.1016/j.bbapap.2024.141018,bacterial amyloids,<Bacterial amyloid>
+335,10.1016/j.bbapap.2024.141018,disorders,<Disorder>
+335,10.1016/j.bbapap.2024.141018,gut-brain axis,<Gut-brain axis>
+335,10.1016/j.bbapap.2024.141018,communication pathway,<Pathway>
+335,10.1016/j.bbapap.2024.141018,bacterial and human amyloids,<Bacterial amyloid>
+335,10.1016/j.bbapap.2024.141018,bacterial and human amyloids,<Human>
+335,10.1016/j.bbapap.2024.141018,bacterial and human amyloids,<Amyloid>
+335,10.1016/j.bbapap.2024.141018,mechanism,<Mechanism>
+335,10.1016/j.bbapap.2024.141018,human amyloid formation,<Human>
+335,10.1016/j.bbapap.2024.141018,human amyloid formation,<Amyloid>
+335,10.1016/j.bbapap.2024.141018,PD,<Parkinson's disease>
+138,10.1515/revneuro-2020-0078,ketogenic diet,<Ketogenic diet>
+138,10.1515/revneuro-2020-0078,KD,<Ketogenic diet>
+138,10.1515/revneuro-2020-0078,CNS disorders,<Central nervous system disorder>
+138,10.1515/revneuro-2020-0078,gut microbiota,<Gut microbiota>
+138,10.1515/revneuro-2020-0078,neurological diseases,<Neurological disease>
+138,10.1515/revneuro-2020-0078,gut-brain axis,<Gut-brain axis>
+138,10.1515/revneuro-2020-0078,diet,<Diet>
+138,10.1515/revneuro-2020-0078,antibiotic therapy,<Antibiotic therapy>
+138,10.1515/revneuro-2020-0078,stress,<Stress>
+138,10.1515/revneuro-2020-0078,metabolism,<Metabolism>
+138,10.1515/revneuro-2020-0078,genetics,<Genetics>
+138,10.1515/revneuro-2020-0078,colonization pattern,<Colonization>
+138,10.1515/revneuro-2020-0078,microbiota,<Microbiota>
+138,10.1515/revneuro-2020-0078,carbohydrate,<Carbohydrate>
+138,10.1515/revneuro-2020-0078,protein,<Protein>
+138,10.1515/revneuro-2020-0078,fat,<Fat>
+138,10.1515/revneuro-2020-0078,gut microbiome,<Gut microbiome>
+138,10.1515/revneuro-2020-0078,protective effects,<Protective effect>
+138,10.1515/revneuro-2020-0078,central nervous system (CNS) disorders,<Central nervous system>
+138,10.1515/revneuro-2020-0078,central nervous system (CNS) disorders,<Central nervous system disorder>
+138,10.1515/revneuro-2020-0078,gut microbes,<Gut microorganism>
+138,10.1515/revneuro-2020-0078,pathogenesis,<Pathogenesis>
+138,10.1515/revneuro-2020-0078,epilepsy,<Epilepsy>
+138,10.1515/revneuro-2020-0078,Parkinson's disease,<Parkinson's disease>
+138,10.1515/revneuro-2020-0078,PD,<Parkinson's disease>
+138,10.1515/revneuro-2020-0078,Alzheimer's disease,<Alzheimer's disease>
+138,10.1515/revneuro-2020-0078,AD,<Alzheimer's disease>
+138,10.1515/revneuro-2020-0078,autism spectrum disorders,<Autism spectrum disorder>
+138,10.1515/revneuro-2020-0078,ASDs,<Autism spectrum disorder>
+138,10.1515/revneuro-2020-0078,multiple sclerosis,<Multiple sclerosis>
+138,10.1515/revneuro-2020-0078,MS,<Multiple sclerosis>
+138,10.1515/revneuro-2020-0078,amyotrophic lateral sclerosis,<Amyotrophic lateral sclerosis>
+138,10.1515/revneuro-2020-0078,ALS,<Amyotrophic lateral sclerosis>
+138,10.1515/revneuro-2020-0078,stress,<Stress>
+138,10.1515/revneuro-2020-0078,anxiety,<Anxiety>
+138,10.1515/revneuro-2020-0078,depression,<Depression>
+138,10.1515/revneuro-2020-0078,in vivo study,<In vivo study>
+138,10.1515/revneuro-2020-0078,microbes,<Microorganism>
+138,10.1515/revneuro-2020-0078,probiotics,<Probiotic>
+138,10.1515/revneuro-2020-0078,in vivo CNS disease models,<In vivo CNS disease model>
+138,10.1515/revneuro-2020-0078,gut-brain bidirectional axis,<Gut>
+138,10.1515/revneuro-2020-0078,gut-brain bidirectional axis,<Brain>
+138,10.1515/revneuro-2020-0078,gut-brain bidirectional axis,<Axis>
+138,10.1515/revneuro-2020-0078,mechanism,<Mechanism>
+138,10.1515/revneuro-2020-0078,KD-based therapy,<Ketogenic diet>
+138,10.1515/revneuro-2020-0078,KD-based therapy,<Therapy>
+138,10.1515/revneuro-2020-0078,in vivo animal models,<In vivo animal model>
+138,10.1515/revneuro-2020-0078,clinical studies,<Clinical study>
+138,10.1515/revneuro-2020-0078,gut-brain axis functions,<Gut-brain axis function>
+138,10.1515/revneuro-2020-0078,therapies,<Therapy>
+138,10.1515/revneuro-2020-0078,gut ,<Gut>
+138,10.1515/revneuro-2020-0078,treat,<Treat>
+138,10.1515/revneuro-2020-0078,neurologic disorders,<Neurological disorder>
+138,10.1515/revneuro-2020-0078,microbiota composition,<Microbiota>
+120,10.1038/s41531-021-00156-z,Parkinson's disease gut microbiome,<Parkinson's disease>
+120,10.1038/s41531-021-00156-z,Parkinson's disease gut microbiome,<Gut microbiome>
+120,10.1038/s41531-021-00156-z,alterations,<Alteration>
+120,10.1038/s41531-021-00156-z,intestinal inflammation,<Intestinal inflammation>
+120,10.1038/s41531-021-00156-z,gut microbiota,<Gut microbiota>
+120,10.1038/s41531-021-00156-z,neurodegenerative diseases,<Neurodegenerative disease>
+120,10.1038/s41531-021-00156-z,gut microbes,<Gut microorganism>
+120,10.1038/s41531-021-00156-z,Parkinson's disease (PD) symptomatology and pathophysiology,<Parkinson's disease>
+120,10.1038/s41531-021-00156-z,Parkinson's disease (PD) symptomatology and pathophysiology,<Symptomatology>
+120,10.1038/s41531-021-00156-z,Parkinson's disease (PD) symptomatology and pathophysiology,<Pathophysiology>
+120,10.1038/s41531-021-00156-z,PD,<Parkinson's disease>
+120,10.1038/s41531-021-00156-z,gastrointestinal symptoms,<Gastrointestinal symptom>
+120,10.1038/s41531-021-00156-z,enteric nervous system,<Enteric nervous system>
+120,10.1038/s41531-021-00156-z,disease,<Disease>
+120,10.1038/s41531-021-00156-z,gut microbiome,<Gut microbiome>
+120,10.1038/s41531-021-00156-z,PD-specific microbiota,<Parkinson's disease>
+120,10.1038/s41531-021-00156-z,PD-specific microbiota,<Microbiota>
+120,10.1038/s41531-021-00156-z,PD patients,<Parkinson's disease>
+120,10.1038/s41531-021-00156-z,PD patients,<Patient>
+120,10.1038/s41531-021-00156-z,cohorts,<Cohort>
+120,10.1038/s41531-021-00156-z,PD-associated microbiome,<Parkinson's disease>
+120,10.1038/s41531-021-00156-z,PD-associated microbiome,<Microbiome>
+120,10.1038/s41531-021-00156-z,microbiome structure,<Microbiome>
+120,10.1038/s41531-021-00156-z,controls,<Control>
+120,10.1038/s41531-021-00156-z,genera,<Genus>
+120,10.1038/s41531-021-00156-z,Lactobacillus,<Lactobacillus>
+120,10.1038/s41531-021-00156-z,Akkermansia,<Akkermansia>
+120,10.1038/s41531-021-00156-z,Bifidobacterium,<Bifidobacterium>
+120,10.1038/s41531-021-00156-z,bacteria,<Bacterium>
+120,10.1038/s41531-021-00156-z,Lachnospiraceae,<Lachnospiraceae>
+120,10.1038/s41531-021-00156-z,family,<Family>
+120,10.1038/s41531-021-00156-z,Faecalibacterium,<Faecalibacterium>
+120,10.1038/s41531-021-00156-z,genus,<Genus>
+120,10.1038/s41531-021-00156-z,short-chain fatty acids producers,<Short-chain fatty acid>
+120,10.1038/s41531-021-00156-z,PD gut microbiome alterations,<Parkinson's disease>
+120,10.1038/s41531-021-00156-z,PD gut microbiome alterations,<Gut microbiome alteration>
+120,10.1038/s41531-021-00156-z,dysbiosis,<Dysbiosis>
+120,10.1038/s41531-021-00156-z,pro-inflammatory status,<Pro-inflammatory status>
+369,10.2174/1570159X20666221003085508,gut dysbiosis,<Gut dysbiosis>
+369,10.2174/1570159X20666221003085508,microbiome metabolites,<Microbiome metabolite>
+369,10.2174/1570159X20666221003085508,therapeutic modalities,<Therapeutic modality>
+369,10.2174/1570159X20666221003085508,neurological disorders,<Neurological disorder>
+369,10.2174/1570159X20666221003085508,gut microbiota,<Gut microbiota>
+369,10.2174/1570159X20666221003085508,species,<Species>
+369,10.2174/1570159X20666221003085508,microbes,<Microorganism>
+369,10.2174/1570159X20666221003085508,organ systems,<Organ system>
+369,10.2174/1570159X20666221003085508,body,<Body>
+369,10.2174/1570159X20666221003085508,health,<Health>
+369,10.2174/1570159X20666221003085508,gut microbiome,<Gut microbiome>
+369,10.2174/1570159X20666221003085508,metabolism,<Metabolism>
+369,10.2174/1570159X20666221003085508,nutrients,<Nutrient>
+369,10.2174/1570159X20666221003085508,complex carbohydrates,<Complex carbohydrate>
+369,10.2174/1570159X20666221003085508,vitamins,<Vitamin>
+369,10.2174/1570159X20666221003085508,central nervous system,<Central nervous system>
+369,10.2174/1570159X20666221003085508,CNS,<Central nervous system>
+369,10.2174/1570159X20666221003085508,host genetics,<Host>
+369,10.2174/1570159X20666221003085508,host genetics,<Genetics>
+369,10.2174/1570159X20666221003085508,genes,<Gene>
+369,10.2174/1570159X20666221003085508,single nucleotide polymorphisms,<Single nucleotide polymorphism>
+369,10.2174/1570159X20666221003085508,SNPs,<Single nucleotide polymorphism>
+369,10.2174/1570159X20666221003085508,pathophysiology,<Pathophysiology>
+369,10.2174/1570159X20666221003085508,Parkinson's disease,<Parkinson's disease>
+369,10.2174/1570159X20666221003085508,PD,<Parkinson's disease>
+369,10.2174/1570159X20666221003085508,Alzheimer's disease,<Alzheimer's disease>
+369,10.2174/1570159X20666221003085508,AD,<Alzheimer's disease>
+369,10.2174/1570159X20666221003085508,autism spectrum disorder,<Autism spectrum disorder>
+369,10.2174/1570159X20666221003085508,ASD,<Autism spectrum disorder>
+369,10.2174/1570159X20666221003085508,gut microbiome dysbiosis,<Gut microbiome dysbiosis>
+369,10.2174/1570159X20666221003085508,pathogenesis,<Pathogenesis>
+369,10.2174/1570159X20666221003085508,neurodegenerative disorders,<Neurodegenerative disorder>
+369,10.2174/1570159X20666221003085508,gut-brain axis,<Gut-brain axis>
+369,10.2174/1570159X20666221003085508,metabolites,<Metabolite>
+369,10.2174/1570159X20666221003085508,synthesized,<Synthesize>
+369,10.2174/1570159X20666221003085508,short-chain fatty acids,<Short-chain fatty acid>
+369,10.2174/1570159X20666221003085508,SCFAs,<Short-chain fatty acid>
+369,10.2174/1570159X20666221003085508,p-cresyl sulfate,<P-cresyl sulfate>
+369,10.2174/1570159X20666221003085508,microglial function,<Microglial function>
+369,10.2174/1570159X20666221003085508,misfolding,<Misfolding>
+369,10.2174/1570159X20666221003085508,alpha-synuclein protein,<α-synuclein>
+369,10.2174/1570159X20666221003085508,neurons,<Neuron>
+369,10.2174/1570159X20666221003085508,damage,<Damage>
+369,10.2174/1570159X20666221003085508,diseases,<Disease>
+369,10.2174/1570159X20666221003085508,preventive and treatment modalities,<Preventive modality>
+369,10.2174/1570159X20666221003085508,preventive and treatment modalities,<Treatment modality>
+369,10.2174/1570159X20666221003085508,absorption,<Absorption>
+275,10.4103/1673-5374.373673,gut-microbiome-brain axis,<Gut-microbiome-brain axis>
+275,10.4103/1673-5374.373673,vagus nerve,<Vagus nerve>
+275,10.4103/1673-5374.373673,alpha-synuclein,<α-synuclein>
+275,10.4103/1673-5374.373673,brain,<Brain>
+275,10.4103/1673-5374.373673,Parkinson's disease,<Parkinson's disease>
+275,10.4103/1673-5374.373673,microbiome,<Microbiome>
+275,10.4103/1673-5374.373673,gut,<Gut>
+275,10.4103/1673-5374.373673,brain,<Brain>
+275,10.4103/1673-5374.373673,parasympathetic nervous system,<Parasympathetic nervous system>
+275,10.4103/1673-5374.373673,immune response,<Immune response>
+275,10.4103/1673-5374.373673,digestion,<Digestion>
+275,10.4103/1673-5374.373673,heart rate,<Heart rate>
+275,10.4103/1673-5374.373673,mood,<Mood>
+275,10.4103/1673-5374.373673,microbiota metabolites,<Microbiota metabolite>
+275,10.4103/1673-5374.373673,afferents,<Afferent>
+275,10.4103/1673-5374.373673,central nervous system,<Central nervous system>
+275,10.4103/1673-5374.373673,preclinical and clinical studies,<Preclinical study>
+275,10.4103/1673-5374.373673,preclinical and clinical studies,<Clinical study>
+275,10.4103/1673-5374.373673,gut microbiome,<Gut microbiome>
+275,10.4103/1673-5374.373673,disease development and progression,<Disease>
+275,10.4103/1673-5374.373673,gut-related factors,<Gut>
+275,10.4103/1673-5374.373673,treatment responses,<Treatment response>
+275,10.4103/1673-5374.373673,therapeutic strategies,<Therapeutic strategy>
+275,10.4103/1673-5374.373673,biology,<Biology>
+275,10.4103/1673-5374.373673,axis,<Axis>
+275,10.4103/1673-5374.373673,patient,<Patient>
+275,10.4103/1673-5374.373673,benefit,<Benefit>
+272,10.1055/s-0043-1771463,gut microbiome,<Gut microbiome>
+272,10.1055/s-0043-1771463,gastrointestinal tract,<Gastrointestinal tract>
+272,10.1055/s-0043-1771463,microorganisms,<Microorganism>
+272,10.1055/s-0043-1771463,host,<Host>
+272,10.1055/s-0043-1771463,microbes,<Microorganism>
+272,10.1055/s-0043-1771463,microbiome community structure,<Microbiome>
+272,10.1055/s-0043-1771463,microbiome,<Microbiome>
+272,10.1055/s-0043-1771463,host physiological processes,<Host>
+272,10.1055/s-0043-1771463,host physiological processes,<Physiological process>
+272,10.1055/s-0043-1771463,neurodevelopment,<Neurodevelopment>
+272,10.1055/s-0043-1771463,effects,<Effect>
+272,10.1055/s-0043-1771463,brain,<Brain>
+272,10.1055/s-0043-1771463,behavior,<Behavior>
+272,10.1055/s-0043-1771463,inflammatory changes,<Inflammatory change>
+272,10.1055/s-0043-1771463,susceptibility,<Susceptibility>
+272,10.1055/s-0043-1771463,neurological disease,<Neurological disease>
+272,10.1055/s-0043-1771463,gut dysbiosis,<Gut dysbiosis>
+272,10.1055/s-0043-1771463,age-related neurological diseases,<Neurological disease>
+272,10.1055/s-0043-1771463,Parkinson's disease,<Parkinson's disease>
+272,10.1055/s-0043-1771463,Alzheimer's disease,<Alzheimer's disease>
+272,10.1055/s-0043-1771463,multiple sclerosis,<Multiple sclerosis>
+272,10.1055/s-0043-1771463,amyotrophic lateral sclerosis,<Amyotrophic lateral sclerosis>
+272,10.1055/s-0043-1771463,microbiome manipulation,<Microbiome>
+272,10.1055/s-0043-1771463,animal models,<Animal model>
+272,10.1055/s-0043-1771463,disease development and progression,<Disease>
+272,10.1055/s-0043-1771463,patient populations,<Patient population>
+272,10.1055/s-0043-1771463,gut microbiome composition,<Gut microbiome>
+272,10.1055/s-0043-1771463,therapeutic targets,<Therapeutic target>
+272,10.1055/s-0043-1771463,symbiotic relationship,<Symbiosis>
+241,10.1101/2023.12.01.569645,microbes,<Microorganism>
+241,10.1101/2023.12.01.569645,disease,<Diseease>
+241,10.1101/2023.12.01.569645,gut microbiome,<Gut microbiome>
+241,10.1101/2023.12.01.569645,host-microbe interactions,<Host>
+241,10.1101/2023.12.01.569645,host-microbe interactions,<Microbe>
+241,10.1101/2023.12.01.569645,host-microbe interactions,<Interaction>
+241,10.1101/2023.12.01.569645,genes,<Gene>
+241,10.1101/2023.12.01.569645,metabolites,<Metabolite>
+241,10.1101/2023.12.01.569645,disease phenotypes,<Disease phenotype>
+241,10.1101/2023.12.01.569645,inflammatory bowel disease,<Inflammatory bowel disease>
+241,10.1101/2023.12.01.569645,Parkinson's disease,<Parkinson's disease>
+241,10.1101/2023.12.01.569645,interactions,<Interaction>
+241,10.1101/2023.12.01.569645,gut microbes,<Gut microorganism>
+152,10.1016/bs.irn.2022.07.006,microbiome influences,<Microbiome>
+152,10.1016/bs.irn.2022.07.006,neuro-immune interactions,<Neuro-immune interaction>
+152,10.1016/bs.irn.2022.07.006,neurodegenerative disease,<Neurodegenerative disease>
+152,10.1016/bs.irn.2022.07.006,gut microbiome,<Gut microbiome>
+152,10.1016/bs.irn.2022.07.006,central nervous system diseases and disorders,<Central nervous system disease>
+152,10.1016/bs.irn.2022.07.006,central nervous system diseases and disorders,<Central nervous system disorder>
+152,10.1016/bs.irn.2022.07.006,depression,<Depression>
+152,10.1016/bs.irn.2022.07.006,multiple sclerosis,<Multiple sclerosis>
+152,10.1016/bs.irn.2022.07.006,Alzheimer's disease,<Alzheimer's disease>
+152,10.1016/bs.irn.2022.07.006,Parkinson's disease,<Parkinson's disease>
+152,10.1016/bs.irn.2022.07.006,autism spectrum disorder,<Autism spectrum disorder>
+152,10.1016/bs.irn.2022.07.006,immune system involvement,<Immune system>
+152,10.1016/bs.irn.2022.07.006,diseases,<Disease>
+152,10.1016/bs.irn.2022.07.006,inflammation,<Inflammation>
+152,10.1016/bs.irn.2022.07.006,pathogenesis,<Pathogenesis>
+152,10.1016/bs.irn.2022.07.006,immune states,<Immune state>
+152,10.1016/bs.irn.2022.07.006,neurological diseases,<Neurological disease>
+152,10.1016/bs.irn.2022.07.006,microbiome,<Microbiome>
+152,10.1016/bs.irn.2022.07.006,immune system,<Immune system>
+152,10.1016/bs.irn.2022.07.006,disease onset and progression,<Disease>
+152,10.1016/bs.irn.2022.07.006,gut microbiome-derived mediators,<Gut microbiome>
+152,10.1016/bs.irn.2022.07.006,gut microbiome-derived mediators,<Mediator>
+152,10.1016/bs.irn.2022.07.006,short-chain fatty acids,<Short-chain fatty acid>
+152,10.1016/bs.irn.2022.07.006,metabolites,<Metabolite>
+152,10.1016/bs.irn.2022.07.006,lipopolysaccharide,<Lipopolysaccharide>
+152,10.1016/bs.irn.2022.07.006,neurotransmitters,<Neurotransmitter>
+152,10.1016/bs.irn.2022.07.006,interactions,<Interaction>
+152,10.1016/bs.irn.2022.07.006,gut microbiome composition,<Gut microbiome>
+151,10.1016/S0074-7742(22)00138-6,microbes,<Microorganism>
+151,10.1016/S0074-7742(22)00138-6,neurological health and disease,<Neurological health>
+151,10.1016/S0074-7742(22)00138-6,neurological health and disease,<Neurological disease>
+151,10.1016/S0074-7742(22)00138-6,interactions,<Interaction>
+151,10.1016/S0074-7742(22)00138-6,homan body,<Human>
+151,10.1016/S0074-7742(22)00138-6,human body,<Body>
+151,10.1016/S0074-7742(22)00138-6,mediators,<Mediator>
+151,10.1016/S0074-7742(22)00138-6,neurological health,<Neurological health>
+151,10.1016/S0074-7742(22)00138-6,alterations,<Alteration>
+151,10.1016/S0074-7742(22)00138-6,gut microbiome,<Gut microbiome>
+151,10.1016/S0074-7742(22)00138-6,neurological diseases,<Neurological disease>
+151,10.1016/S0074-7742(22)00138-6,microbiome-mediated contributions,<Microbiome>
+151,10.1016/S0074-7742(22)00138-6,human health,<Human>
+151,10.1016/S0074-7742(22)00138-6,human health,<Health>
+151,10.1016/S0074-7742(22)00138-6,effect,<Effect>
+151,10.1016/S0074-7742(22)00138-6,conditions,<Medical condition>
+151,10.1016/S0074-7742(22)00138-6,neurological conditions,<Neurological condition>
+151,10.1016/S0074-7742(22)00138-6,neurodevelopmental disorders,<Neurodevelopmental disorder>
+151,10.1016/S0074-7742(22)00138-6,Parkinson's disease,<Parkinson's disease>
+151,10.1016/S0074-7742(22)00138-6,Alzheimer's disease,<Alzheimer's disease>
+151,10.1016/S0074-7742(22)00138-6,epilepsy,<Epilepsy>
+151,10.1016/S0074-7742(22)00138-6,traumatic injury,<Traumatic injury>
+151,10.1016/S0074-7742(22)00138-6,amyotrophic lateral sclerosis,<Amyotrophic lateral sclerosis>
+151,10.1016/S0074-7742(22)00138-6,therapeutic benefits,<Therapeutic benefit>
+151,10.1016/S0074-7742(22)00138-6,diseases,<Disease>
+205,10.3233/JAD-215224,gut microbiota,<Gut microbiota>
+205,10.3233/JAD-215224,Alzheimer's disease,<Alzheimer's disease>
+205,10.3233/JAD-215224,diseases,<Disease>
+205,10.3233/JAD-215224,neurological ones,<Neurological disease>
+205,10.3233/JAD-215224,gut-brain axis,<Gut-brain axis>
+205,10.3233/JAD-215224,cognitive impairment,<Cognitive impairment>
+205,10.3233/JAD-215224,observational studies,<Observational study>
+205,10.3233/JAD-215224,humans,<Human>
+205,10.3233/JAD-215224,cognitive disorders,<Cognitive disorder>
+205,10.3233/JAD-215224,human studies,<Human study>
+205,10.3233/JAD-215224,clinical trials,<Clinical trial>
+270,10.1016/j.lfs.2023.122022,gut-brain axis,<Gut-brain axis>
+270,10.1016/j.lfs.2023.122022,neurodegenerative diseases,<Neurodegenerative disease>
+270,10.1016/j.lfs.2023.122022,gut microbiota,<Gut microbiota>
+270,10.1016/j.lfs.2023.122022,brain functions,<Brain function>
+270,10.1016/j.lfs.2023.122022,molecular mechanisms,<Molecular mechanism>
+270,10.1016/j.lfs.2023.122022,gut,<Gut>
+270,10.1016/j.lfs.2023.122022,brain,<Brain>
+270,10.1016/j.lfs.2023.122022,brain homeostasis,<Brain homeostasis>
+270,10.1016/j.lfs.2023.122022,neurological diseases,<Neurological disease>
+270,10.1016/j.lfs.2023.122022,Alzheimer's disease,<Alzheimer's disease>
+270,10.1016/j.lfs.2023.122022,Parkinson's disease,<Parkinson's disease>
+270,10.1016/j.lfs.2023.122022,multiple sclerosis,<Multiple sclerosis>
+270,10.1016/j.lfs.2023.122022,amyotrophic lateral sclerosis,<Amyotrophic lateral sclerosis>
+270,10.1016/j.lfs.2023.122022,gut-microbiome-derived exosomes,<Gut microbiome>
+270,10.1016/j.lfs.2023.122022,gut-microbiome-derived exosomes,<Exosome>
+270,10.1016/j.lfs.2023.122022,pharmacological interventions,<Pharmacological intervention>
+270,10.1016/j.lfs.2023.122022,antibiotics,<Antibiotic>
+270,10.1016/j.lfs.2023.122022,prebiotics,<Prebiotic>
+270,10.1016/j.lfs.2023.122022,probiotics,<Probiotic>
+270,10.1016/j.lfs.2023.122022,gut microbiome-mediated management,<Gut microbiome>
+270,10.1016/j.lfs.2023.122022,neurological diseases,<Neurological disease>
+270,10.1016/j.lfs.2023.122022,gut microbiome,<Gut microbiome>
+270,10.1016/j.lfs.2023.122022,neurological health,<Neurological health>
+270,10.1016/j.lfs.2023.122022,aging,<Aging>
+270,10.1016/j.lfs.2023.122022,therapeutic target,<Therapeutic target>
+334,10.1134/S0006297924030118,gut microbiome,<Gut microbiome>
+334,10.1134/S0006297924030118,bacterial amyloids,<Bacterial amyloid>
+334,10.1134/S0006297924030118,synucleinopathies,<Synucleinopathy>
+334,10.1134/S0006297924030118,gut microbiota,<Gut microbiota>
+334,10.1134/S0006297924030118,human synucleinopathies,<Human>
+334,10.1134/S0006297924030118,human synucleinopathies,<Synucleinopathy>
+334,10.1134/S0006297924030118,Parkinson's disease,<Parkinson's disease>
+334,10.1134/S0006297924030118,bacteria,<Bacterium>
+334,10.1134/S0006297924030118,microorganisms,<Microorganism>
+334,10.1134/S0006297924030118,patients,<Patient>
+334,10.1134/S0006297924030118,molecular mechanisms,<Molecular mechanism>
+334,10.1134/S0006297924030118,α-synuclein aggregation ,<α-synuclein aggregation>
+334,10.1134/S0006297924030118,inflammatory processes,<Inflammation>
+334,10.1134/S0006297924030118,microbiome,<Microbiome>
+334,10.1134/S0006297924030118,bacterial proteins,<Bacterial protein>
+334,10.1134/S0006297924030118,amyloids,<Amyloid>
+334,10.1134/S0006297924030118,curli,<Curli>
+334,10.1134/S0006297924030118,metabolites,<Metabolite>
+88,10.3390/ijms221810028,gut microbiota,<Gut microbiota>
+88,10.3390/ijms221810028,gut-brain interplay,<Gut>
+88,10.3390/ijms221810028,gut-brain interplay,<Brain>
+88,10.3390/ijms221810028,diseases,<Disease>
+88,10.3390/ijms221810028,central nervous system,<Central nervous system>
+88,10.3390/ijms221810028,gut microbiome,<Gut microbiome>
+88,10.3390/ijms221810028,microbiota,<Microbiota>
+88,10.3390/ijms221810028,host,<Host>
+88,10.3390/ijms221810028,CNS,<Central nervous system>
+88,10.3390/ijms221810028,gut-brain axis,<Gut-brain axis>
+88,10.3390/ijms221810028,gut,<Gut>
+88,10.3390/ijms221810028,intestinal microbiota,<Gut microbiota>
+88,10.3390/ijms221810028,brain,<Brain>
+88,10.3390/ijms221810028,secretion,<Secretion>
+88,10.3390/ijms221810028,metabolites,<Metabolite>
+88,10.3390/ijms221810028,short-chain fatty acids,<Short-chain fatty acid>
+88,10.3390/ijms221810028,SCFAs,<Short-chain fatty acid>
+88,10.3390/ijms221810028,bacteria,<Bacterium>
+88,10.3390/ijms221810028,signaling molecules,<Signaling molecule>
+88,10.3390/ijms221810028,imbalance,<Imbalance>
+88,10.3390/ijms221810028,immune system,<Immune system>
+88,10.3390/ijms221810028,tissue barriers,<Tissue barrier>
+88,10.3390/ijms221810028,blood-brain barrier,<Blood-brain barrier>
+88,10.3390/ijms221810028,BBB,<Blood-brain barrier>
+88,10.3390/ijms221810028,neurological disorders,<Neurological disorder>
+88,10.3390/ijms221810028,gastroenterology,<Gastroenterology>
+88,10.3390/ijms221810028,neuroscience,<Neuroscience>
+88,10.3390/ijms221810028,effect,<Effect>
+88,10.3390/ijms221810028,neurodegeneration,<Neurodegeneration>
+88,10.3390/ijms221810028,neuroinflammation,<Neuroinflammation>
+88,10.3390/ijms221810028,Alzheimer's and Parkinson's diseases,<Alzheimer's disease>
+88,10.3390/ijms221810028,Alzheimer's and Parkinson's diseases,<Parkinson's disease>
+88,10.3390/ijms221810028,multiple sclerosis,<Multiple sclerosis>
+88,10.3390/ijms221810028,pathological shift,<Pathological shift>
+88,10.3390/ijms221810028,neuropsychological disorders,<Neuropsychological disorder>
+88,10.3390/ijms221810028,major depressive disorders,<Major depressive disorder>
+88,10.3390/ijms221810028,MDD,<Major depressive disorder>
+88,10.3390/ijms221810028,autism spectrum disorder,<Autism spectrum disorder>
+88,10.3390/ijms221810028,ASD,<Autism spectrum disorder>
+88,10.3390/ijms221810028,therapeutic interventions,<Therapeutic intervention>
+88,10.3390/ijms221810028,gut microbiota composition,<Gut microbiota>
+41,10.1016/j.cmet.2019.07.005,drug metabolism,<Drug metabolism>
+41,10.1016/j.cmet.2019.07.005,levodopa,<Levodopa>
+41,10.1016/j.cmet.2019.07.005,L-dopa,<Levodopa>
+41,10.1016/j.cmet.2019.07.005,treatment ,<Treatment>
+41,10.1016/j.cmet.2019.07.005,Parkinson's disease,<Parkinson's disease>
+41,10.1016/j.cmet.2019.07.005,gut microbiome,<Gut microbiome>
+41,10.1016/j.cmet.2019.07.005,metabolize,<Metabolize>
+41,10.1016/j.cmet.2019.07.005,side effects,<Side effect>
+41,10.1016/j.cmet.2019.07.005,bacteria,<Bacterium>
+41,10.1016/j.cmet.2019.07.005,enzymes,<Enzyme>
+41,10.1016/j.cmet.2019.07.005,gut bacteria,<Gut bacterium>
+41,10.1016/j.cmet.2019.07.005,inhibitor,<Inhibitor>
