@@ -1,0 +1,5 @@
+24. Genome Biol. 2020 Feb 24;21(1):47. doi: 10.1186/s13059-020-1933-7.
+
+Carnelian uncovers hidden functional patterns across diverse study populations from whole metagenome sequencing reads.
+
+Microbial populations exhibit functional changes in response to different ambient environments. Although whole metagenome sequencing promises enough raw data to study those changes, existing tools are limited in their ability to directly compare microbial metabolic function across samples and studies. We introduce Carnelian, an end-to-end pipeline for metabolic functional profiling uniquely suited to finding functional trends across diverse datasets. Carnelian is able to find shared metabolic pathways, concordant functional dysbioses, and distinguish Enzyme Commission (EC) terms missed by existing methodologies. We demonstrate Carnelian's effectiveness on type 2 diabetes, Crohn's disease, Parkinson's disease, and industrialized and non-industrialized gut microbiome cohorts.

@@ -1,0 +1,7 @@
+349. Expert Rev Gastroenterol Hepatol. 2022 Apr;16(4):321-332. doi: 10.1080/17474124.2022.2056017
+
+Anorexia nervosa and gut microbiome: implications for weight change and novel treatments.
+
+INTRODUCTION: Host-microbiota interactions may be involved in many physical and psychological functions ranging from the digestion of food, maintenance of immune homeostasis, to the regulation of mood and cognition. Microbiome dysbiosis has been consistently described in many diseases. The pathogenesis and weight regulation mechanism in anorexia nervosa (AN) also seem to be implicated in the dynamic bidirectional adjustment of the microbiota-gut-brain axis. This review aims at elucidating this relationship.
+AREA COVERED: This review starts with a description of pathogenic gut-brain pathways. Next, we focus on the latest research on the associations between gut microbiota and weight change in the condition of AN. The strategies to alter the intestinal microbiome for the treatment of this disorder are discussed, including dietary, probiotics, prebiotics, synbiotics, and fecal microbiota transplantation.
+EXPERT OPINION: Gut microbiome is inextricably linked to AN. It may regulate weight gain in the process of refeeding via the microbiota-gut-brain axis, while the specific mechanism has yet to be clearly established. In the future, a better understanding of gut microbiome could have implications for developing microbiome-based prevention, diagnostics and therapies.

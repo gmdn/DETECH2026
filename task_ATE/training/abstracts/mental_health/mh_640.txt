@@ -1,0 +1,8 @@
+640. Eur Psychiatry. 2018 Sep;53:37-45. doi: 10.1016/j.eurpsy.2018.05.011. Epub 2018 Jun 2.
+
+Gut microbiome and magnetic resonance spectroscopy study of subjects at ultra-high risk for psychosis may support the membrane hypothesis.
+
+BACKGROUND: The microbiota-gut-brain axis and membrane dysfunction in the brain has attracted increasing attention in the field of psychiatric research. However, the possible interactive role of gut microbiota and brain function in the prodromal stage of schizophrenia has not been studied yet.
+METHODS: To explore this, we collected fecal samples and performed Magnetic Resonance Spectroscopy (MRS) scans in 81 high risk (HR) subjects, 19 ultra-high risk (UHR) subjects and 69 health controls (HC). Then we analyzed the differences in gut microbiota and choline concentrations in the anterior cingulate cortex (ACC).
+RESULTS: Presences of the orders Clostridiales, Lactobacillales and Bacteroidales were observed at increase levels in fecal samples of UHR subjects compared to the other two groups. The composition changes of gut microbiota indicate the increased production of Short Chain Fatty Acids (SCFAs), which could activate microglia and then disrupt membrane metabolism. Furthermore, this was confirmed by an increase of choline levels, a brain imaging marker of membrane dysfunction, which is also significantly elevated in UHR subjects compared to the HR and HC groups.
+CONCLUSION: Both gut microbiome and imaging studies of UHR subjects suggest the membrane dysfunction in the brain and hence might support the membrane hypothesis of schizophrenia.

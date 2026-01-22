@@ -1,0 +1,5 @@
+472. Psychiatr Genet. 2021 Apr 1;31(2):39-49. doi: 10.1097/YPG.0000000000000270.
+
+Understanding the role of gut microbiota in the pathogenesis of schizophrenia.
+
+Schizophrenia is a chronic mental disorder with marked symptoms of hallucination, delusion, and impaired cognitive behaviors. Although multidimensional factors have been associated with the development of schizophrenia, the principal cause of the disorder remains debatable. Microbiome involvement in the etiology of schizophrenia has been widely researched due to the advancement in sequencing technologies. This review describes the contribution of the gut microbiome in the development of schizophrenia that is facilitated by the gut-brain axis. The gut microbiota is connected to the gut-brain axis via several pathways and mechanisms, that are discussed in this review. The role of the oral microbiota, probiotics and prebiotics in shaping the gut microbiota are also highlighted. Lastly, future perspectives for microbiome research in schizophrenia are addressed.

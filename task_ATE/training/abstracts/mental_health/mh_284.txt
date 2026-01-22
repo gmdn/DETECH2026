@@ -1,0 +1,8 @@
+284. Nutrients. 2022 Sep 23;14(19):3946. doi: 10.3390/nu14193946.
+
+Circulating Levels of Short-Chain Fatty Acids during Pregnancy and Infant Neurodevelopment.
+
+BACKGROUND: Short-chain fatty acids (SCFA) play a key role in the gut microbiota-brain crosstalk regulating the main neurodevelopmental processes during pregnancy. The aim of this study is to investigate the longitudinal relationship between prenatal levels of the main SCFAs in maternal serum and infant cognitive development and temperament on day 40 postpartum after adjusting for several pre-, peri- and post-natal confounders.
+METHODS: A sample of 357 healthy mother-infant pairs were followed from the beginning of pregnancy to 40 days after birth. Serum SCFA concentrations were assessed in the first and third trimester of pregnancy by LC-MS/MS; and socio-demographic, nutritional, and psychological variables were collected. At 40 days, the Bayley Scales of Infant Development-III and the Early Infancy Temperament Questionnaire were administered.
+RESULTS: Lower serum levels of acetic, butyric and isobutyric acid, mainly during the first trimester, were related to better language and psychomotor development and, in the case of butyric acid, better intensity behavior in infants. Medium levels of propionic acid were related to better scores for development, mood and temperament.
+CONCLUSIONS: These findings suggest that in a community sample of healthy pregnant women from a Mediterranean region of northern Spain, lower serum levels of SCFAs, especially in the first trimester of pregnancy, seem to be related to better infant neurodevelopment.

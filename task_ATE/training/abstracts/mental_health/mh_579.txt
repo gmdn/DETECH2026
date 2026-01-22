@@ -1,0 +1,8 @@
+579. Brain Behav. 2019 Nov;9(11):e01408. doi: 10.1002/brb3.1408. Epub 2019 Sep 30.
+
+The role of the brain-gut-microbiota axis in psychology: The importance of considering gut microbiota in the development, perpetuation, and treatment of psychological disorders.
+
+INTRODUCTION: The prevalence of psychological disorders remains stable despite steady increases in pharmacological treatments suggesting the need for auxiliary treatment options. Consideration of the brain-gut-microbiota axis (BGMA) has made inroads into reconceptualizing psychological illness from a more holistic perspective. While our understanding of the precise role of gut microbiota (GM) in psychological illness is in its infancy, it represents an attractive target for novel interventions.
+METHOD: An extensive review of relevant literature was undertaken.
+RESULTS: Gut microbiota are proposed to directly and indirectly influence mood, cognition, and behavior which are key components of mental health. This paper outlines how GM may be implicated in psychological disorders from etiology through to treatment and prevention using the Four P model of case formulation.
+CONCLUSION: Moving forward, integration of GM into the conceptualization and treatment of psychological illness will require the discipline of psychology to undergo a significant paradigm shift. While the importance of the GM in psychological well-being must be respected, it is not proposed to be a panacea, but instead, an additional arm to a multidisciplinary approach to treatment and prevention.

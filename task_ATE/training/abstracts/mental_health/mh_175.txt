@@ -1,0 +1,8 @@
+175. CNS Neurosci Ther. 2023 Jun;29 Suppl 1(Suppl 1):18-30. doi: 10.1111/cns.14066. Epub 2022 Dec 22.
+
+Oxymatrine ameliorates white matter injury by modulating gut microbiota after intracerebral hemorrhage in mice.
+
+INTRODUCTION: White matter injury (WMI) significantly affects neurobehavioral recovery in intracerebral hemorrhage (ICH) patients. Gut dysbiosis plays an important role in the pathogenesis of neurological disorders. Oxymatrine (OMT) has therapeutic effects on inflammation-mediated diseases. Whether OMT exerts therapeutic effects on WMI after ICH and the role of gut microbiota involved in this process is largely unknown.
+METHODS: Neurological deficits, WMI, gut microbial composition, intestinal barrier function, and systemic inflammation were investigated after ICH. Fecal microbiota transplantation (FMT) was performed to elucidate the role of gut microbiota in the pathogenesis of ICH.
+RESULTS: OMT promoted long-term neurological function recovery and ameliorated WMI in the peri-hematoma region and distal corticospinal tract (CST) region after ICH. ICH induced significant and persistent gut dysbiosis, which was obviously regulated by OMT. In addition, OMT alleviated intestinal barrier dysfunction and systemic inflammation. Correlation analysis revealed that gut microbiota alteration was significantly correlated with inflammation, intestinal barrier permeability, and neurological deficits after ICH. Moreover, OMT-induced gut microbiota alteration could confer protection against neurological deficits and intestinal barrier disruption.
+CONCLUSIONS: Our study demonstrates that OMT ameliorates ICH-induced WMI and neurological deficits by modulating gut microbiota.

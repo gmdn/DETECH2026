@@ -1,0 +1,5 @@
+149. Mol Neurobiol. 2023 Jul 27. doi: 10.1007/s12035-023-03512-7. Online ahead of print.
+
+The Role of Gut Microbiota in Blood-Brain Barrier Disruption after Stroke.
+
+Growing evidence has proved that alterations in the gut microbiota have been linked to neurological disorders including stroke. Structural and functional disruption of the blood-brain barrier (BBB) is observed after stroke. In this context, there is pioneering evidence supporting that gut microbiota may be involved in the pathogenesis of stroke by regulating the BBB function. However, only a few experimental studies have been performed on stroke models to observe the BBB by altering the structure of gut microbiota, which warrant further exploration. Therefore, in order to provide a novel mechanism for stroke and highlight new insights into BBB modification as a stroke intervention, this review summarizes existing evidence of the relationship between gut microbiota and BBB integrity and discusses the mechanisms of gut microbiota on BBB dysfunction and its role in stroke.

@@ -1,0 +1,9 @@
+10. World J Gastrointest Oncol. 2024 Apr 15;16(4):1319-1333. doi: 10.4251/wjgo.v16.i4.1319.
+
+Causal roles of gut microbiota in cholangiocarcinoma etiology suggested by genetic study.
+
+BACKGROUND: Cholangiocarcinoma (CCA) is a highly malignant biliary tract cancer with poor prognosis. Previous studies have implicated the gut microbiota in CCA, but evidence for causal mechanisms is lacking.
+AIM: To investigate the causal relationship between gut microbiota and CCA risk.
+METHODS: We performed a two-sample mendelian randomization study to evaluate potential causal associations between gut microbiota and CCA risk using genome-wide association study summary statistics for 196 gut microbial taxa and CCA. Genetic variants were used as instrumental variables. Multiple sensitivity analyses assessed result robustness.
+RESULTS: Fifteen gut microbial taxa showed significant causal associations with CCA risk. Higher genetically predicted abundance of genus Eubacteriumnodatum group, genus Ruminococcustorques group, genus Coprococcus, genus Dorea, and phylum Actinobacteria were associated with reduced risk of gallbladder cancer and extrahepatic CCA. Increased intrahepatic CCA risk was associated with higher abundance of family Veillonellaceae, genus Alistipes, order Enterobacteriales, and phylum Firmicutes. Protective effects against CCA were suggested for genus Collinsella, genus Eisenbergiella, genus Anaerostipes, genus Paraprevotella, genus Parasutterella, and phylum Verrucomicrobia. Sensitivity analyses indicated these findings were reliable without pleiotropy.
+CONCLUSION: This pioneering study provides novel evidence that specific gut microbiota may play causal roles in CCA risk. Further experimental validation of these candidate microbes is warranted to consolidate causality and mechanisms.

@@ -1,0 +1,5 @@
+41. Cell Metab. 2019 Aug 6;30(2):235-237. doi: 10.1016/j.cmet.2019.07.005.
+
+Drug Metabolism as a Community Effort.
+
+Levodopa (L-dopa) is the primary treatment for Parkinson’s disease. The gut microbiome can metabolize levodopa, potentially leading to decreased efficacy and side effects, but responsible bacteria were unknown. Maini Rekdal et al. (2019) characterize enzymes in two gut bacteria that sequentially metabolize L-dopa and identify a novel inhibitor that may improve outcomes.

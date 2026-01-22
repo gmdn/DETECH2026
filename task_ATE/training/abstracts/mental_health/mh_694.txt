@@ -1,0 +1,5 @@
+694. Curr Opin Pharmacol. 2015 Dec;25:13-22. doi: 10.1016/j.coph.2015.09.003. Epub 2015 Sep 29.
+
+Neuroimmune pharmacological approaches.
+
+Intestinal inflammation is a major health problem which impairs the quality of life, impacts mental health and is exacerbated by stress and psychiatric disturbances which, in turn, can affect disease prognosis and response to treatment. Accumulating evidence indicates that the immune system is an important interface between intestinal inflammation and the enteric, sensory, central and autonomic nervous systems. In addition, the neuroimmune interactions originating from the gastrointestinal tract are orchestrated by the gut microbiota. This article reviews some major insights into this complex homeostatic network that have been achieved during the past two years and attempts to put these advances into perspective with novel opportunities of pharmacological intervention.

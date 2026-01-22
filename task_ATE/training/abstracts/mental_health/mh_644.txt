@@ -1,0 +1,5 @@
+644. Int J Mol Sci. 2018 May 29;19(6):1592. doi: 10.3390/ijms19061592.
+
+Recognizing Depression from the Microbiota⁻Gut⁻Brain Axis.
+
+Major depression is one of the leading causes of disability, morbidity, and mortality worldwide. The brain⁻gut axis functions are disturbed, revealed by a dysfunction of the brain, immune system, endocrine system, and gut. Traditional depression treatments all target the brain, with different drugs and/or psychotherapy. Unfortunately, most of the patients have never received any treatment. Studies indicate that gut microbiota could be a direct cause for the disorder. Abnormal microbiota and the microbiota⁻gut⁻brain dysfunction may cause mental disorders, while correcting these disturbance could alleviate depression. Nowadays, the gut microbiota modulation has become a hot topic in treatment research of mental disorders. Depression is closely related with the health condition of the brain⁻gut axis, and maintaining/restoring the normal condition of gut microbiota helps in the prevention/therapy of mental disorders.

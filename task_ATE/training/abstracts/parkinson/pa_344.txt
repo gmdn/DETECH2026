@@ -1,0 +1,9 @@
+18. Neurol Sci. 2024 Mar 19. doi: 10.1007/s10072-024-07467-y. Online ahead of print.
+
+The role of HLA-DR on plasmacytoid dendritic cells in mediating the effects of Butyrivibrio gut microbiota on Parkinson's disease.
+
+BACKGROUND: Parkinson's disease (PD) is viewed as a progressively deteriorating neurodegenerative disorder, the exact etiology of which remains not fully deciphered to this date. The gut microbiota could play a crucial role in PD development by modulating the human immune system.
+OBJECTIVE: This study aims to explore the relationship between gut microbiota and PD, focusing on how immune characteristics may both directly and indirectly influence their interaction.
+METHODS: Utilizing cumulative data from genome-wide association studies (GWAS), our research conducted a two-sample Mendelian randomization (MR) analysis to clarify the association between the gut microbiome and PD. Additionally, by employing a two-step MR approach, we assessed the impact of gut microbiota on PD development via immune characteristics and quantified HLA-DR mediation effect on plasmacytoid dendritic cells (pDCs).
+RESULTS: We discovered significant associations between PD and microbiota, comprising one class, one order, two families, and two genera. Furthermore, we explored the extent to which HLA-DR on pDCs mediates the effect of Butyrivibrio gut microbiota on PD.
+CONCLUSION: Our study emphasizes the complex interactions between the gut microbiota, immune characteristics, and PD. The relationships and intermediary roles identified in our research provide important insights for developing potential therapies that target the gut microbiome to alleviate symptoms in PD patients.

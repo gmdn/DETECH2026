@@ -1,0 +1,9 @@
+172. J Affect Disord. 2023 Jun 1;330:355-366. doi: 10.1016/j.jad.2023.02.071. Epub 2023 Mar 4.
+
+The effect of exercise on suicidal ideation and behaviors: A systematic review and meta-analysis of randomized controlled trials.
+
+BACKGROUND: Although exercise may positively impact those with mental or other medical illnesses, there is a lack of understanding on how it influences suicidal ideation or risk.
+METHODS: We conducted a PRISMA 2020-compliant systematic review searching MEDLINE, EMBASE, Cochrane, and PsycINFO from inception to June 21, 2022. Randomized controlled trials (RCTs) investigating exercise and suicidal ideation in subjects with mental or physical conditions were included. Random-effects meta-analysis was conducted. The primary outcome was suicidal ideation. We assessed bias of studies with risk of bias 2 tool.
+RESULTS: We identified 17 RCTs encompassing 1021 participants. Depression was the most included condition (71 %, k = 12). Mean follow up was 10.0 weeks (SD = 5.2). Post-intervention suicidal ideation (SMD = -1.09, CI -3.08-0.90, p = 0.20, k = 5) was not significantly different between exercise and control groups. Suicide attempts were significantly reduced in participants randomized to exercise interventions as compared to inactive controls (OR = 0.23, CI 0.09-0.67, p = 0.04, k = 2). Fourteen studies (82 %) were at high risk of bias.
+LIMITATIONS: This meta-analysis is limited by few, underpowered and heterogenous studies.
+CONCLUSION: Overall, our meta-analysis did not find a significant decrease in suicidal ideation or mortality between exercise and control groups. However, exercise did significantly decrease suicide attempts. Results should be considered preliminary, and more and larger studies assessing suicidality in RCTs testing exercise are needed.

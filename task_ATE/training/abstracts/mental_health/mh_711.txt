@@ -1,0 +1,5 @@
+711. Nutrition. 2014 Mar;30(3):245-51. doi: 10.1016/j.nut.2013.05.011. Epub 2013 Oct 6.
+
+Excess body weight during pregnancy and offspring obesity: potential mechanisms.
+
+The rates of child and adult obesity have increased in most developed countries over the past several decades. The health consequences of obesity affect both physical and mental health, and the excess body weight can be linked to an elevated risk for developing type 2 diabetes, cardiovascular problems, and depression. Among the factors that can influence the development of obesity are higher infant weights and increased weight gain, which are associated with higher risk for excess body weight later in life. In turn, mother's excess body weight during and after pregnancy can be linked to the risk for offspring overweight and obesity through dietary habits, mode of delivery and feeding, breast milk composition, and through the influence on infant gut microbiota. This review considers current knowledge of these potential mechanisms that threaten to create an intergenerational cycle of obesity.

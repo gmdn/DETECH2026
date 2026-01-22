@@ -1,0 +1,8 @@
+331. Clin Psychopharmacol Neurosci. 2022 May 31;20(2):389-393. doi: 10.9758/cpn.2022.20.2.389.
+
+Effects of Subdiaphragmatic Vagotomy in the MPTP-induced Neurotoxicity in the Striatum and Colon of Mice.
+
+OBJECTIVE: Gut-microbiota-brain axis plays a role in the pathogenesis of Parkinson's disease (PD). The subdiaphragmatic vagus nerve serves as a major modulatory pathway between the gut microbiota and the brain. However, the role of subdiaphragmatic vagus nerve in PD pathogenesis are unknown. Here, we investigated the effects of subdiaphragmatic vagotomy (SDV) on the neurotoxicity in the mouse striatum and colon after administration of 1-methyl-4-phenyl-1,2,3,6- tetrahydropyridine (MPTP).
+METHODS: Sham or SVD was performed. Subsequently, saline or MPTP (10 mg/kg × 3, 2-hour interval) was administered to mice. Western blot analysis of tyrosine hydroxylase (TH) and dopamine transporter (DAT) in the striatum and phosphorylated α-synuclein (p-α-Syn) in the colon was performed.
+RESULTS: Repeated administration of MPTP significantly caused reduction of TH and DAT in the striatum and increase of p-α-Syn in the colon of mice. However, SDV did not affect the reduction of TH and DAT in the striatum and increases in p-α-Syn in the colon after repeated MPTP administration.
+CONCLUSION: These data suggest that subdiaphragmatic vagus nerve doses not play a role in the MPTP-induced neurotoxicity in the brain and colon.

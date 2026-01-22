@@ -1,0 +1,6 @@
+61. Evid Based Complement Alternat Med. 2021 Jan 12;2021:1416236. doi: 10.1155/2021/1416236. eCollection 2021.
+
+Acupoint Massage Therapy Alters the Composition of Gut Microbiome in Functional Constipation Patients.
+
+RESULTS: Results showed the overall structure of gut microbiome has no significant difference between experimental and control groups. In the genus level, the abundance of Pseudobutyrivibrio and Ruminiclostridium is higher in the experiment group than in the control, whereas that of Fusicatenibacter is less. The 16S KEGG function prediction suggested that Parkinson disease, retinol metabolism, and arachidonic acid metabolism could explain the biological function of different gut microbiome. Furthermore, cytokines in the serum showed a correlation with the abundance of Pseudobutyrivibrio in CFC.
+CONCLUSION: AMT could change the composition of gut microbiome which is associated with cytokines in CFC patients.

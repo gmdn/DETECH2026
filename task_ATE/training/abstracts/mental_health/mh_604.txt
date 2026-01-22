@@ -1,0 +1,9 @@
+604. Metabolomics. 2019 May 3;15(5):74. doi: 10.1007/s11306-019-1536-z.
+
+Gender specific decrease of a set of circulating N-acylphosphatidyl ethanolamines (NAPEs) in the plasma of Parkinson's disease patients.
+
+INTRODUCTION: Current markers of Parkinson's disease (PD) fail to detect the early progression of disease state. Conversely, current omics techniques allow the investigation of hundreds of molecules potentially altered by disease conditions. Based on evidence previously collected by our group in a mouse model of PD, we speculated that a particular set of circulating lipids might be significantly altered by the pathology.
+OBJECTIVES: The aim of current study was to evaluate the potential of a particular set of N-acyl-phosphatidylethanolamines (NAPEs) as potential non-invasive plasma markers of ongoing neurodegeneration from Parkinson's disease in human subjects.
+METHODS: A panel of seven NAPEs were quantified by LC-MS/MS in the plasma of 587 individuals (healthy controls, n = 319; Parkinson's disease, n = 268); Random Forest classification and statistical modeling was applied to compare Parkinson's disease versus controls. All p-values obtained in different tests were corrected for multiplicity by controlling the false discovery rate (FDR).
+RESULTS: The results indicate that this panel of NAPEs is able to distinguish female PD patients from the corresponding healthy controls. Further to this, the observed downregulation of these NAPEs is in line with the results in plasma of a mouse model of Parkinson's (6-OHDA).
+CONCLUSIONS: In the current study we have shown the downregulation of NAPEs in plasma of PD patients and we thus speculate that these lipids might serve as candidate biomarkers for PD. We also suggest a molecular mechanism, explaining our findings, which involves gut microbiota.

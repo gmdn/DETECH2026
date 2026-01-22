@@ -1,0 +1,5 @@
+65. J Exp Med. 2021 Feb 1;218(2):e20190086. doi: 10.1084/jem.20190086.
+
+Effects of dietary restriction on neuroinflammation in neurodegenerative diseases.
+
+Recent and accumulating work in experimental animal models and humans shows that diet has a much more pervasive and prominent role than previously thought in modulating neuroinflammatory and neurodegenerative mechanisms leading to some of the most common chronic central nervous system (CNS) diseases. Chronic or intermittent food restriction has profound effects in shaping brain and peripheral metabolism, immunity, and gut microbiome biology. Interactions among calorie intake, meal frequency, diet quality, and the gut microbiome modulate specific metabolic and molecular pathways that regulate cellular, tissue, and organ homeostasis as well as inflammation during normal brain aging and CNS neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and multiple sclerosis, among others. This review discusses these findings and their potential application to the prevention and treatment of CNS neuroinflammatory diseases and the promotion of healthy brain aging.

@@ -1,0 +1,9 @@
+573. J Affect Disord. 2020 Jan 1;260:448-457. doi: 10.1016/j.jad.2019.09.064. Epub 2019 Sep 13.
+
+Antibiotic-induced microbiome depletion is associated with resilience in mice after chronic social defeat stress.
+
+BACKGROUND: The brain-gut axis plays a role in the pathogenesis of stress-related disorders such as depression. However, the role of brain-gut axis in the resilience versus susceptibility after stress remains unclear. Here, we examined the effects of antibiotic-induced microbiome depletion on an anhedonia-like phenotype in adult mice subjected to chronic social defeat stress (CSDS).
+METHODS: Using CSDS paradigm, we investigated the effects of antibiotic-induced microbiome depletion on the resilience versus susceptibility in mice.
+RESULTS: Treatment with an antibiotic cocktail for 14 days significantly decreased the diversity and composition of the microbiota in the host gut. Proteobacteria were markedly increased after treatment with the antibiotic cocktail. At the genus and species levels, the antibiotic-treated group exhibited marked alterations in the microbiota compared with a control group. CSDS was shown to significantly improve the abnormal composition of gut microbiota in the antibiotic-treated group. CSDS did not produce an anhedonia-like phenotype in the antibiotic-treated mice, but did induce an anhedonia-like phenotype in control mice, suggesting that gut bacteria are essential for the development of CSDS-induced anhedonia. CSDS treatment did not alter the plasma levels of interleukin-6 or the expression of synaptic proteins, such as PSD-95 and GluA1, in the prefrontal cortex of antibiotic-treated mice.
+LIMITATIONS: Specific microbiome were not determined.
+CONCLUSIONS: These findings suggest that antibiotic-induced microbiome depletion contributed to resilience to anhedonia in mice subjected to CSDS. Therefore, it is likely that the brain-gut axis plays a role in resilience versus susceptibility to stress.

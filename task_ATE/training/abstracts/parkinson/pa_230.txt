@@ -1,0 +1,9 @@
+89. J Neurol. 2022 Feb;269(2):780-795. doi: 10.1007/s00415-021-10657-9. Epub 2021 Jun 15.
+
+The impact of device-assisted therapies on the gut microbiome in Parkinson's disease.
+
+BACKGROUND: Microbiome feedbacks are proposed to influence Parkinson's disease (PD) pathophysiology. A number of studies have evaluated the impact of oral medication on the gut microbiome (GM) in PD. However, the influence of PD device-assisted therapies (DATs) on the GM remains to be investigated.
+OBJECTIVES: To profile acute gut microbial community alterations in response to PD DAT initiation.
+METHODS: Clinical data and stool samples were collected from 21 PD patients initiating either deep brain stimulation (DBS) or levodopa-carbidopa intestinal gel (LCIG) and ten spousal healthy control (HC) subjects. 16S amplicon sequencing of stool DNA enabled comparison of temporal GM stability between groups and with clinical measures, including disease alterations relative to therapy initiation.
+RESULTS: We assessed GM response to therapy in the PD group by comparing pre-therapy (- 2 and 0 weeks) with post-therapy initiation timepoints (+ 2 and + 4 weeks) and HCs at baseline (0 weeks). Altered GM compositions were noted between the PD and HC groups at various taxonomic levels, including specific differences for DBS (overrepresentation of Clostridium_XlVa, Bilophila, Parabacteroides, Pseudoflavonifractor and underrepresentation of Dorea) and LCIG therapy (overrepresentation of Pseudoflavonifractor, Escherichia/Shigella, and underrepresentation of Gemmiger). Beta diversity changes were also found over the 4 week post-treatment initiation period.
+CONCLUSIONS: We report on initial short-term GM changes in response to the initiation of PD DATs. Prior to the introduction of the DAT, a PD-associated GM was observed. Following initiation of DAT, several DAT-specific changes in GM composition were identified, suggesting DATs can influence the GM in PD.

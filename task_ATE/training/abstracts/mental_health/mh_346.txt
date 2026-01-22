@@ -1,0 +1,9 @@
+346. J Affect Disord. 2022 Apr 15;303:187-195. doi: 10.1016/j.jad.2022.02.024. Epub 2022 Feb 12.
+
+Stressful events induce long-term gut microbiota dysbiosis and associated post-traumatic stress symptoms in healthcare workers fighting against COVID-19.
+
+OBJECTIVE: The microbiota-gut-brain axis is a key pathway perturbed by prolonged stressors to produce brain and behavioral disorders. Frontline healthcare workers (FHWs) fighting against COVID-19 typically experience stressful event sequences and manifest some mental symptoms; however, the role of gut microbiota in such stress-induced mental problems remains unclear. We investigated the association between the psychological stress of FHW and gut microbiota.
+METHODS: We used full-length 16S rRNA gene sequencing to characterize the longitudinal changes in gut microbiota and investigated the impact of microbial changes on FHWs' mental status.
+RESULTS: Stressful events induced significant depression, anxiety, and stress in FHWs and disrupted the gut microbiome; gut dysbiosis persisted for at least half a year. Different microbes followed discrete trajectories during the half-year of follow-up. Microbes associated with mental health were mainly Faecalibacterium spp. and [Eubacterium] eligens group spp. with anti-inflammatory effects. Of note, the prediction model indicated that low abundance of [Eubacterium] hallii group uncultured bacterium and high abundance of Bacteroides eggerthii at Day 0 (immediately after the two-month frontline work) were significant determinants of the reappearance of post-traumatic stress symptoms in FHWs.
+LIMITATIONS: The lack of metabolomic evidence and animal experiments result in the unclear mechanism of gut dysbiosis-related stress symptoms.
+CONCLUSION: The stressful event sequences of fighting against COVID-19 induce characteristic longitudinal changes in gut microbiota, which underlies dynamic mental state changes.

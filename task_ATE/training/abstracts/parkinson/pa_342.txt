@@ -1,0 +1,8 @@
+16. J Oral Microbiol. 2024 Mar 21;16(1):2331264. doi: 10.1080/20002297.2024.2331264. eCollection 2024.
+
+Oral and gut microbial profiling in periodontitis and Parkinson's disease.
+
+OBJECTIVES: We tested the hypothesis that Parkinson's disease (PA) alters the periodontitis-associated oral microbiome.
+METHOD: Patients with periodontitis with Parkinson's disease (PA+P) and without PA (P) and systemically and periodontally healthy individuals (HC) were enrolled. Clinical, periodontal and neurological parameters were recorded. The severity of PA motor functions was measured. Unstimulated saliva samples and stool samples were collected. Next-generation sequencing of 16S ribosomal RNA (V1-V3 regions) was performed.
+RESULTS: PA patients had mild-to-moderate motor dysfunction and comparable plaque scores as those without, indicating that oral hygiene was efficient in the PA+P group. In saliva, there were statistically significant differences in beta diversity between HC and PA+P (p = 0.001), HC and P (p = 0.001), and P and PA+P (p = 0.028). The microbial profiles of saliva and fecal samples were distinct. Mycoplasma faucium, Tannerella forsythia, Parvimonas micra, and Saccharibacteria (TM7) were increased in P; Prevotella pallens, Prevotella melaninogenica, Neisseria multispecies were more abundant in PA+P group, Ruthenibacterium lactatiformans, Dialister succinatiphilus, Butyrivibrio crossotus and Alloprevotella tannerae were detected in fecal samples in P groups compared to healthy controls.
+CONCLUSIONS: No significant differences were detected between Parkinson's and non-Parkinson's gut microbiomes, suggesting that Parkinson's disease modifies the oral microbiome in periodontitis subjects independent of the gut microbiome.

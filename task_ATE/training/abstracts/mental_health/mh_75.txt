@@ -1,0 +1,8 @@
+75. PLoS One. 2023 Dec 20;18(12):e0296047. doi: 10.1371/journal.pone.0296047. eCollection 2023.
+
+The relationship between sleep, gut microbiota, and metabolome in patients with depression and anxiety: A secondary analysis of the observational study.
+
+BACKGROUND: Growing attention is paid to the association between alterations in the gut microbiota and their metabolites in patients with psychiatric disorders. Our study aimed to determine how gut microbiota and metabolomes are related to the sleep quality among patients with depression and anxiety disorders by analyzing the datasets of our previous study.
+METHODS: Samples were collected from 40 patients (depression: 32 patients [80.0%]); anxiety disorders: 8 patients [20.0%]) in this study. Gut microbiomes were analyzed using 16S rRNA gene sequencing and gut metabolomes were analyzed by a mass spectrometry approach. Based on the Pittsburgh Sleep Quality Index (PSQI), patients were categorized into two groups: the insomnia group (PSQI score ≥ 9, n = 20) and the non-insomnia group (PSQI score < 9, n = 20).
+RESULTS: The insomnia group showed a lower alpha diversity in the Chao1 and Shannon indices than the non-insomnia group after the false discovery rate (FDR) correction. The relative abundance of genus Bacteroides showed a positive correlation with PSQI scores in the non-insomnia group. The concentrations of glucosamine and N-methylglutamate were significantly higher in the insomnia group than in the non-insomnia group.
+CONCLUSIONS: Our findings suggest that specific taxa could affect the sleep quality among patients with depression and anxiety disorders. Further studies are needed to elucidate the impact of sleep on specific gut microbiota and metabolomes in depression and anxiety disorders.

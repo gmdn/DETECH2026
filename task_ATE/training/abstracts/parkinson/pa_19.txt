@@ -1,0 +1,7 @@
+19. Expert Rev Neurother. 2020 Jul;20(7):673-686. doi: 10.1080/14737175.2020.1775585. Epub 2020 Jun 27.
+
+The dichotomous role of the gut microbiome in exacerbating and ameliorating neurodegenerative disorders.
+
+INTRODUCTION: Age related neurodegenerative disorders affect millions of people around the world. The role of the gut microbiome (GM) in neurodegenerative disorders has been elucidated over the past few years. Dysbiosis of the gut microbiome ultimately results in neurodegeneration. However, the gut microbiome can be modulated to promote neuro-resilience.
+AREAS COVERED: This review is focused on demonstrating the role of the gut microbiome in host physiology in Parkinson's disease (PD) and other neurodegenerative disorders. We will discuss how the microbiome will impact neurodegeneration in PD, Alzheimer's Disease (AD), Multiple sclerosis (MS), Amyotrophic Lateral Sclerosis (ALS), and finally discuss how the gut microbiome can be influenced through diet and lifestyle.
+EXPERT OPINION: Currently, much of the focus has been to study the mechanisms by which the microbiome induces neuroinflammation and neurodegeneration in PD, AD, MS, ALS. In particular, the role of certain dietary flavonoids in regulation of gut microbiome to promote neuro-resilience. Polyphenol prebiotics delivered in combination with probiotics (synbiotics) present an exciting new avenue to harness the microbiome to attenuate immune inflammatory responses which ultimately may influence brain cascades associated with promotion of neurodegeneration across the lifespan.

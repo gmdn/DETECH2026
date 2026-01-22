@@ -1,0 +1,5 @@
+81. Nutrients. 2022 Jan 17;14(2):380. doi: 10.3390/nu14020380.
+
+Are We What We Eat? Impact of Diet on the Gut-Brain Axis in Parkinson's Disease.
+
+Parkinson's disease is characterized by motor and non-motor symptoms, such as defects in the gut function, which may occur before the motor symptoms. To date, there are therapies that can improve these symptoms, but there is no cure to avoid the development or exacerbation of this disorder. Dysbiosis of gut microbiota could have a crucial role in the gut-brain axis, which is a bidirectional communication between the central nervous system and the enteric nervous system. Diet can affect the microbiota composition, impacting gut-brain axis functionality. Gut microbiome restoration through probiotics, prebiotics, synbiotics or other dietary means could have the potential to slow PD progression. In this review, we will discuss the influence of diet on the bidirectional communication between gut and brain, thus supporting the hypothesis that this disorder could begin in the gut. We also focus on how food-based therapies might then have an influence on PD and could ameliorate non-motor as well as motor symptoms.

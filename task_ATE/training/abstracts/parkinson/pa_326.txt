@@ -1,0 +1,12 @@
+92. Gut. 2023 Jan;72(1):73-89. doi: 10.1136/gutjnl-2021-326023. Epub 2021 Nov 26.
+
+Footprints of a microbial toxin from the gut microbiome to mesencephalic mitochondria.
+
+OBJECTIVE: Idiopathic Parkinson's disease (PD) is characterised by alpha-synuclein (aSyn) aggregation and death of dopaminergic neurons in the midbrain. Recent evidence posits that PD may initiate in the gut by microbes or their toxins that promote chronic gut inflammation that will ultimately impact the brain. In this work, we sought to demonstrate that the effects of the microbial toxin β-N-methylamino-L-alanine (BMAA) in the gut may trigger some PD cases, which is especially worrying as this toxin is present in certain foods but not routinely monitored by public health authorities.
+DESIGN: To test the hypothesis, we treated wild-type mice, primary neuronal cultures, cell lines and isolated mitochondria with BMAA, and analysed its impact on gut microbiota composition, barrier permeability, inflammation and aSyn aggregation as well as in brain inflammation, dopaminergic neuronal loss and motor behaviour. To further examine the key role of mitochondria, we also determined the specific effects of BMAA on mitochondrial function and on inflammasome activation.
+RESULTS: BMAA induced extensive depletion of segmented filamentous bacteria (SFB) that regulate gut immunity, thus triggering gut dysbiosis, immune cell migration, increased intestinal inflammation, loss of barrier integrity and caudo-rostral progression of aSyn. Additionally, BMAA induced in vitro and in vivo mitochondrial dysfunction with cardiolipin exposure and consequent activation of neuronal innate immunity. These events primed neuroinflammation, dopaminergic neuronal loss and motor deficits.
+CONCLUSION: Taken together, our results demonstrate that chronic exposure to dietary BMAA can trigger a chain of events that recapitulate the evolution of the PD pathology from the gut to the brain, which is consistent with 'gut-first' PD.
+
+
+
+2024

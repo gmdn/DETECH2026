@@ -1,0 +1,5 @@
+342. Brain Res Bull. 2022 May;182:130-140. doi: 10.1016/j.brainresbull.2022.02.008. Epub 2022 Feb.
+
+Brain-spleen axis in health and diseases: A review and future perspective.
+
+The spleen, an important tissue for the immune system, acts as a filter for blood within the immune system. Accumulating evidence suggests that the spleen affects a number of brain functions in health and diseases via immune modulation. Systemic inflammation or chronic social defeat stress (CSDS) can cause splenomegaly in rodents. Interestingly, the new antidepressant arketamine could normalize splenomegaly and depression-like behaviors in CSDS-susceptible mice. A recent study strongly supports the direct connection pathway between the brain and spleen, whereby the spleen can regulate the humoral immune defense by the two brain regions, such as corticotropin-related neurons in the paraventricular nucleus (PVN) and the central nucleus of the amygdala (CeA). Furthermore, afferent and efferent vagus nerve signaling may contribute to brain and spleen communication. In this article, we review recent findings of the brain-spleen axis in health and diseases.

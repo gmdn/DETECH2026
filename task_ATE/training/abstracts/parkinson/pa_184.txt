@@ -1,0 +1,5 @@
+43. Int J Mol Sci. 2022 Jun 14;23(12):6626. doi: 10.3390/ijms23126626.
+
+PARK7/DJ-1 as a Therapeutic Target in Gut-Brain Axis Diseases.
+
+It is increasingly known that Parkinson's (PD) and Alzheimer's (AD) diseases occur more frequently in patients with inflammatory gastrointestinal diseases including inflammatory bowel (IBD) or celiac disease, indicating a pathological link between them. Although epidemiological observations suggest the existence of the gut-brain axis (GBA) involving systemic inflammatory and neural pathways, little is known about the exact molecular mechanisms. Parkinson's disease 7 (PARK7/DJ-1) is a multifunctional protein whose protective role has been widely demonstrated in neurodegenerative diseases, including PD, AD, or ischemic stroke. Recent studies also revealed the importance of PARK7/DJ-1 in the maintenance of the gut microbiome and also in the regulation of intestinal inflammation. All these findings suggest that PARK7/DJ-1 may be a link and also a potential therapeutic target in gut and brain diseases. In this review, therefore, we discuss our current knowledge about PARK7/DJ-1 in the context of GBA diseases.

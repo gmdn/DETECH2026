@@ -1,0 +1,5 @@
+11. Cell Host Microbe. 2020 Aug 12;28(2):201-222. doi: 10.1016/j.chom.2020.06.008.
+
+The Microbiome as a Modifier of Neurodegenerative Disease Risk.
+
+The gut microbiome is increasingly implicated in modifying susceptibility to and progression of neurodegenerative diseases (NDs). In this review, we discuss roles for the microbiome in aging and in NDs. In particular, we summarize findings from human studies on microbiome alterations in Parkinson's disease, Alzheimer's disease, amyotrophic lateral sclerosis, and Huntington's disease. We assess animal studies of genetic and environmental models for NDs that investigate how manipulations of the microbiome causally impact the development of behavioral and neuropathological endophenotypes of disease. We additionally evaluate the likely immunological, neuronal, and metabolic mechanisms for how the gut microbiota may modulate risk for NDs. Finally, we speculate on cross-cutting features for microbial influences across multiple NDs and consider the potential for microbiome-targeted interventions for NDs.

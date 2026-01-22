@@ -1,0 +1,8 @@
+178. Front Psychiatry. 2023 May 25;14:1139992. doi: 10.3389/fpsyt.2023.1139992. eCollection 2023.
+
+Altered gut microbiota profile in patients with perimenopausal panic disorder.
+
+INTRODUCTION: Females in the perimenopausal period are susceptible to mood disorders. Perimenopausal panic disorder (PPD) is characterized by repeated and unpredictable panic attacks during perimenopause, and it impacts the patient's physical and mental health and social function. Pharmacotherapy is limited in the clinic, and its pathological mechanism is unclear. Recent studies have demonstrated that gut microbiota is strongly linked to emotion; however, the relation between PPD and microbiota is limitedly known.
+METHODS: This study aimed to discover specific microbiota in PPD patients and the intrinsic connection between them. Gut microbiota was analyzed in PPD patients (n = 40) and healthy controls (n = 40) by 16S rRNA sequencing.
+RESULTS: The results showed reduced α-diversity (richness) in the gut microbiota of PPD patients. β-diversity indicated that PPD and healthy controls had different intestinal microbiota compositions. At the genus level, 30 species of microbiota abundance had significantly different between the PPD and healthy controls. In addition, HAMA, PDSS, and PASS scales were collected in two groups. It was found that Bacteroides and Alistipes were positively correlated with PASS, PDSS, and HAMA.
+DISCUSSION: Bacteroides and Alistipes dysbiosis dominate imbalanced microbiota in PPD patients. This microbial alteration may be a potential pathogenesis and physio-pathological feature of PPD. The distinct gut microbiota can be a potential diagnostic marker and a new therapeutic target for PPD.

@@ -1,0 +1,8 @@
+127. Front Cell Infect Microbiol. 2023 Sep 21;13:1233687. doi: 10.3389/fcimb.2023.1233687. eCollection 2023.
+
+Characterization of gut microbiota profile in Iranian patients with bipolar disorder compared to healthy controls.
+
+INTRODUCTION: The human gut microbiota plays a crucial role in mental health through the gut-brain axis, impacting central nervous system functions, behavior, mood, and anxiety. Consequently, it is implicated in the development of neuropsychiatric disorders. This study aimed to assess and compare the gut microbiota profiles and populations of individuals with bipolar disorder and healthy individuals in Iran.
+METHODS: Fecal samples were collected from 60 participants, including 30 bipolar patients (BPs) and 30 healthy controls (HCs), following rigorous entry criteria. Real-time quantitative PCR was utilized to evaluate the abundance of 10 bacterial genera/species and five bacterial phyla.
+RESULTS: Notably, Actinobacteria and Lactobacillus exhibited the greatest fold change in BPs compared to HCs at the phylum and genus level, respectively, among the bacteria with significant population differences. Ruminococcus emerged as the most abundant genus in both groups, while Proteobacteria and Bacteroidetes showed the highest abundance in BPs and HCs, respectively, at the phylum level. Importantly, our investigation revealed a lower Firmicutes/Bacteroidetes ratio, potentially serving as a health indicator, in HCs compared to BPs.
+CONCLUSION: This study marks the first examination of an Iranian population and provides compelling evidence of significant differences in gut microbiota composition between BPs and HCs, suggesting a potential link between brain functions and the gut microbial profile and population.

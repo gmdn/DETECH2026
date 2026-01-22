@@ -1,0 +1,5 @@
+15. Nutrients. 2024 Apr 7;16(7):1081. doi: 10.3390/nu16071081.
+
+Mapping Treatment Advances in the Neurobiology of Binge Eating Disorder: A Concept Paper.
+
+Binge eating disorder (BED) is a complex and heritable mental health disorder, with genetic, neurobiological, neuroendocrinological, environmental and developmental factors all demonstrated to contribute to the aetiology of this illness. Although psychotherapy is the gold standard for treating BED, a significant subgroup of those treated do not recover. Neurobiological research highlights aberrances in neural regions associated with reward processing, emotion processing, self-regulation and executive function processes, which are clear therapeutic targets for future treatment frameworks. Evidence is emerging of the microbiota-gut-brain axis, which may mediate energy balance, high-lighting a possible underlying pathogenesis factor of BED, and provides a potential therapeutic strategy.

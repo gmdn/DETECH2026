@@ -1,0 +1,8 @@
+334. Nutrients. 2022 May 18;14(10):2111. doi: 10.3390/nu14102111.
+
+Medicinal Plants and Their Impact on the Gut Microbiome in Mental Health: A Systematic Review.
+
+BACKGROUND: Various neurocognitive and mental health-related conditions have been associated with the gut microbiome, implicating a microbiome-gut-brain axis (MGBA). The aim of this systematic review was to identify, categorize, and review clinical evidence supporting medicinal plants for the treatment of mental disorders and studies on their interactions with the gut microbiota.
+METHODS: This review included medicinal plants for which clinical studies on depression, sleeping disorders, anxiety, or cognitive dysfunction as well as scientific evidence of interaction with the gut microbiome were available. The studies were reported using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement.
+RESULTS: Eighty-five studies met the inclusion criteria and covered thirty mental health-related medicinal plants with data on interaction with the gut microbiome.
+CONCLUSION: Only a few studies have been specifically designed to assess how herbal preparations affect MGBA-related targets or pathways. However, many studies provide hints of a possible interaction with the MGBA, such as an increased abundance of health-beneficial microorganisms, anti-inflammatory effects, or MGBA-related pathway effects by gut microbial metabolites. Data for Panax ginseng, Schisandra chinensis, and Salvia rosmarinus indicate that the interaction of their constituents with the gut microbiota could mediate mental health benefits. Studies specifically assessing the effects on MGBA-related pathways are still required for most medicinal plants.

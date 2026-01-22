@@ -1,0 +1,5 @@
+13. Front Microbiol. 2024 Apr 8;15:1383199. doi: 10.3389/fmicb.2024.1383199. eCollection 2024.
+
+The emerging roles of microbiota-derived extracellular vesicles in psychiatric disorders.
+
+Major depressive disorder, schizophrenia, and bipolar disorder are three major psychiatric disorders that significantly impact the well-being and overall health of patients. Some researches indicate that abnormalities in the gut microbiota can trigger certain psychiatric diseases. Microbiota-derived extracellular vesicles have the ability to transfer bioactive compounds into host cells, altering signaling and biological processes, ultimately influencing the mental health and illness of the host. This review aims to investigate the emerging roles of microbiota-derived extracellular vesicles in these three major psychiatric disorders and discusses their roles as diagnostic biomarkers and therapies for these psychiatric disorders.

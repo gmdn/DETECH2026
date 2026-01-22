@@ -1,0 +1,5 @@
+67. Comput Struct Biotechnol J. 2022 Feb 26;20:1097-1110. doi: 10.1016/j.csbj.2022.02.024. eCollection 2022.
+
+Analysis methods for the gut microbiome in neuropsychiatric and neurodegenerative disorders.
+
+For a long time, the central nervous system was believed to be the only regulator of cognitive functions. However, accumulating evidence suggests that the composition of the microbiome is strongly associated with brain functions and diseases. Indeed, the gut microbiome is involved in neuropsychiatric diseases (e.g., depression, autism spectrum disorder, and anxiety) and neurodegenerative diseases (e.g., Parkinson's disease and Alzheimer's disease). In this review, we provide an overview of the link between the gut microbiome and neuropsychiatric or neurodegenerative disorders. We also introduce analytical methods used to assess the connection between the gut microbiome and the brain. The limitations of the methods used at present are also discussed. The accurate translation of the microbiome information to brain disorder could promote better understanding of neuronal diseases and aid in finding alternative and novel therapies.

@@ -1,0 +1,8 @@
+369. Nutrients. 2022 Jan 30;14(3):621. doi: 10.3390/nu14030621.
+
+Effect of Probiotics on Psychiatric Symptoms and Central Nervous System Functions in Human Health and Disease: A Systematic Review and Meta-Analysis.
+
+BACKGROUND: The gut microbiota impacts on central nervous system (CNS) function via the microbiota-gut-brain axis. Thus, therapeutics targeting the gut microbiota such as probiotics have the potential for improving mental health. This meta-analysis synthesizes the evidence regarding the impacts of probiotics on psychological well-being, psychiatric symptoms and CNS functioning.
+METHODS: The Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines were applied for executing this review using the databases PubMed, Web of Science and Cochrane Library. The data were summarized at qualitative and quantitative level.
+RESULTS: Fifty-four randomized placebo-controlled studies were included, of which 30 were eligible for meta-analysis. If investigated, the probiotics mostly exerted effects on CNS function. Most probiotics did not affect mood, stress, anxiety, depression and psychiatric distress when compared to placebo at the qualitative level. At quantitative level, depression and psychiatric distress improved slightly in the probiotic condition (depression: mean difference -0.37 (95% CI: -0.55, -0.20); p ≤ 0.0001; psychiatric distress: mean difference -0.33 (95% CI: -0.53, -0.13); p = 0.001).
+CONCLUSIONS: To date it is unclear to which extent and in which specific areas next generation probiotics selected and developed for their ability to improve psychiatric condition and potentially other CNS functions are promising.

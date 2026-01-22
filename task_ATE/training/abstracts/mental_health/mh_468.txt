@@ -1,0 +1,5 @@
+468. Nutrients. 2021 Apr 14;13(4):1282. doi: 10.3390/nu13041282.
+
+Nutritional Psychiatry: How Diet Affects Brain through Gut Microbiota.
+
+Nutritional sciences have been recognized as being of paramount importance for the prevention of non-communicable diseases. Among others, mental health disorders have been hypothesized to be influenced by dietary risk through a variety of molecular mechanisms. The improvements in the technology and implementation of-omics sciences in terms of nutrition have created the possibility of studying the relation between diet, gut microbiota and mental health. The gut-brain-axis represents the core rationale setting the stage for a relatively new discipline of study defined as "nutritional psychiatry". Research on this matter will help to better understand the relation between food and mood, sleep quality, cognition, and mental health in general.

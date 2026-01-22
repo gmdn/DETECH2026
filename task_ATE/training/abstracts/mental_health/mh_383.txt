@@ -1,0 +1,7 @@
+383. Curr Opin Psychiatry. 2022 Jan 1;35(1):3-9. doi: 10.1097/YCO.0000000000000758.
+
+Microbiota-targeted interventions for mental health.
+
+PURPOSE OF REVIEW: The gut microbiota has emerged as a key conduit in mental health and is a promising target for interventions. This review provides an update on recent advances in using microbiota-targeted approaches for the management of mental health.
+RECENT FINDINGS: Approaches that have emerged as microbiota-targeted interventions in the management of mental health include probiotics, prebiotics, synbiotics, fecal microbiota transplant as well as diet. Among these approaches, probiotic supplementation has been investigated most prominently, providing promising evidence for its use in improving mood and anxiety. There is also growing interest in the use of multistrain probiotics, whole dietary interventions or combined approaches, with encouraging results emerging from recent studies.
+SUMMARY: Although the current literature preliminarily supports targeting the microbiota to manage mental health and use as adjuvant therapies for certain brain disorders, large gaps remain and especially data including clinical cohorts remains scarce. Research studies including larger cohorts, well-characterized clinical populations and defined duration and dosage of the intervention are required to develop evidence-based guidelines for microbiota-targeted strategies.

@@ -1,0 +1,5 @@
+72. Brain Sci. 2022 Jan 21;12(2):143. doi: 10.3390/brainsci12020143.
+
+Parkinson's Disease in Light of the COVID-19 Pandemic.
+
+In this review we attempt to collate the existing scientific evidence regarding the possible role of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the pathophysiology of Parkinson's disease (PD), as well as to investigate the impact of PD/parkinsonism on the clinical course of the viral infection itself. Since etiology of PD is not completely understood, various studies suggest different potential links between coronavirus disease 2019 (COVID-19) and PD. Suggested connections include, among others, similar prodromal symptoms, renin-angiotensin-aldosterone system involvement, or gut microbiome dysbiosis participation. Despite the initial assumptions that, as a mainly elderly population suffering from rigidity of respiratory muscles, impairment of cough reflex, and dyspnea, PD patients would be more susceptible to viral infection, and would experience a more aggressive course of COVID-19, the published scientific reports contain mutually exclusive data that require further investigation and meta-analysis.

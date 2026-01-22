@@ -1,0 +1,5 @@
+25. Nutrients. 2022 Oct 3;14(19):4108. doi: 10.3390/nu14194108.
+
+Dietary Restriction against Parkinson's Disease: What We Know So Far.
+
+Dietary restriction (DR) is defined as a moderate reduction in food intake while avoiding malnutrition. The beneficial effects of DR are being increasingly acknowledged in aging and in a series of age-related neurodegenerative disorders, for example, Parkinson's disease (PD). To date, the pathogenesis of PD remains elusive and there is no cure for it in spite of intensive research over decades. In this review, we summarize the current knowledge on the efficacy of DR on PD, focusing on the underlying mechanisms involving general metabolism, neuroendocrinolgy, neuroinflammation, gut microbiome, and so on. We anticipate that this review will provide future perspectives for PD prevention and treatment.

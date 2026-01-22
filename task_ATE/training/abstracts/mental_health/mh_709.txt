@@ -1,0 +1,5 @@
+709. Trends Mol Med. 2014 Sep;20(9):509-18. doi: 10.1016/j.molmed.2014.05.002. Epub 2014 Jun 20.
+
+Microbiota and neurodevelopmental windows: implications for brain disorders.
+
+Gut microbiota is essential to human health, playing a major role in the bidirectional communication between the gastrointestinal tract and the central nervous system. The microbiota undergoes a vigorous process of development throughout the lifespan and establishes its symbiotic rapport with the host early in life. Early life perturbations of the developing gut microbiota can impact neurodevelopment and potentially lead to adverse mental health outcomes later in life. This review compares the parallel early development of the intestinal microbiota and the nervous system. The concept of parallel and interacting microbial-neural critical windows opens new avenues for developing novel microbiota-modulating based therapeutic interventions in early life to combat neurodevelopmental deficits and brain disorders.

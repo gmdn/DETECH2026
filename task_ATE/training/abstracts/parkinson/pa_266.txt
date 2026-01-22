@@ -1,0 +1,9 @@
+32. Nervenarzt. 2023 Oct;94(10):885-891. doi: 10.1007/s00115-023-01537-w. Epub 2023 Sep 6.
+
+[Relationships between microbiome and neurodegeneration].
+
+BACKGROUND: Neurodegenerative diseases are often associated with changes in the (gut) microbiome.
+OBJECTIVE: Based on studies in Parkinson's disease (PD) and Alzheimer's disease (AD), an overview of the current evidence of microbial changes and their possible role in the development of these diseases is given.
+METHODS: Analysis, summary, and evaluation of the current literature on (gut) microbiome and neurodegeneration.
+RESULTS: Numerous studies have shown dysbiotic changes in the gut microbiome of PD and AD patients compared to healthy individuals, some of which might occur even in the prodromal phase. Specifically, these patients show a reduction in bacteria involved in the synthesis of short-chain fatty acids. These microbial alterations have been associated with systemic inflammation and a compromised integrity of the intestinal barrier and blood-brain barrier. Bacterial molecules such as lipopolysaccharides may play an important role in these changes. Additionally, the bacterial protein curli, found on the surface of e.g., Escherichia coli, has been shown in vitro and in animal models to promote the misfolding of α-synuclein, thus suggesting a crucial pathomechanism. Moreover, certain oral bacteria appear to be more prevalent in AD patients and may contribute to the pathogenesis of AD.
+CONCLUSION: Neurodegenerative diseases are associated with dysbiosis of the (gut) microbiome, which can have diverse systemic effects; however, it remains unclear whether this dysbiosis is a cause or a consequence of the diseases. Further investigation of this (prodromal) microbial imbalance could reveal new approaches for targeted therapeutic manipulation of the microbiome to modify and prevent these diseases.

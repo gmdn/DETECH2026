@@ -1,0 +1,7 @@
+679. Curr Dev Disord Rep. 2017;4(2):28-36. doi: 10.1007/s40474-017-0111-4. Epub 2017 May 12.
+
+Using Animal Models to Study the Role of the Gut-Brain Axis in Autism.
+
+PURPOSE OF REVIEW: Individuals with autism spectrum disorders (ASD) commonly also suffer from gastrointestinal (GI) dysfunction; however, few animal model studies have systematically examined both ASD and GI dysfunction. In this review, we highlight studies investigating GI dysfunction and alterations in gut microbiota in animal models of ASD with the aim of determining if routinely used microbiology and enteric neurophysiology assays could expand our understanding of the link between the two.
+RECENT FINDINGS: Gut-brain axis research is expanding, and several ASD models demonstrate GI dysfunction. The integration of well-established assays for detecting GI dysfunction into standard behavioural testing batteries is needed.
+SUMMARY: Advances in understanding the role of the gut-brain axis in ASD are emerging; however, we outline standard assays for investigating gut-brain axis function in rodents to strengthen future phenotyping studies. Integrating these findings to the field of animal behaviour is one of the next major challenges in autism research.
