@@ -2,17 +2,19 @@
 
 This repository contains the datasets prepared for the [**DETECH 2026 Evaluation Challenge**](https://detech2026.dei.unipd.it/), organized into two tasks:
 
-The **DETECH 2026** edition explores the **gut–brain interplay**, a domain at the crossroads of **gastroenterology**, **neuroscience**, and **genetics**. The shared task provides a realistic testbed for evaluating automatic methods that can (i) identify specialized terminology and (ii) produce useful definitions, as required in complex medical communication.
+The **DETECH 2026** edition explores the **gut–brain interplay**, a domain at the crossroads of **gastroenterology**, **neuroscience**, and **genetics**. The shared task provides a realistic testbed for evaluating automatic methods that can (i) identify and extract specialized terms and (ii) produce natural language definitions for medical concepts.
 
 ## Tasks
 
 ### Task A — Term Extraction
 Identify relevant **single-word** and **multi-word** terms from English texts concerning the gut–brain interplay.  
-The objective is to detect domain-specific expressions as they occur in context, capturing both recurring mentions (token-level instances) and the overall domain terminology (type-level inventory). Systems may rely on linguistic processing, statistical methods, or neural models, and may optionally use external terminological resources.
+The objective is to extract domain-specific terms from the corpus, capturing both repeated mentions in the documents and the list of distinct terms overall (where a mention is an in-text occurrence of a term in a specific document).
+Systems may rely on linguistic processing, statistical methods, or neural models, and may optionally use external terminology resources. 
 
 ### Task B — Definition Generation
 Produce **natural language definitions** for the **concepts designated by the extracted terms**, using corpus-based evidence and/or automatic text generation methods.  
-The goal is to generate definitions that are not only fluent, but also **informative and conceptually accurate**, reflecting the meaning of the term within the gut–brain interplay domain. Approaches can include retrieval-based definition induction, prompting large language models with evidence snippets, or hybrid pipelines that ground generation in the training corpus.
+The goal is to generate terminological definitions in the form of intensional definitions, following the guidelines provided in ISO 1087 (2019) and ISO 704 (2022) for concepts relevant within the gut–brain interplay domain.
+Approaches can include retrieval-based definition induction, prompting large language models with evidence snippets, or hybrid pipelines that ground generation in the training corpus.
 
 ## Participation
 
@@ -31,7 +33,7 @@ Each run will be evaluated according to the following measures:
 
 - **Task A — Term Extraction**
   - **Micro-F1**: measures how consistently a system detects **every instance** of a term across the corpus.
-  - **Type-F1**: measures how well the system identifies the **distinct terminology** of the domain.
+  - **Type-F1**: evaluates precision and recall across **unique term types**, disregarding frequency.
 
 - **Task B — Definition Generation**
   - **BLEU score**
