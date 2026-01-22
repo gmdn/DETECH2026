@@ -54,7 +54,7 @@ Each task uses **document-level identifiers** (`num_article`) that correspond to
 
 ### Annotation protocol and data preparation
 
-In the annotation protocol document, **[DETECH 2026 Data Preparation and Annotation Manual](Annotation_Protocol/DETECH_Annotation_Protocol-final-2201.pdf)**, we describe the annotation protocol adopted to create the DETECH dataset. 
+In the annotation protocol document, **[DETECH 2026 Evaluation Task Annotation Protocol](Annotation_Protocol/DETECH_Annotation_Protocol-final-2201.pdf)**, we describe the annotation protocol adopted to create the DETECH dataset. 
 
 ---
 
