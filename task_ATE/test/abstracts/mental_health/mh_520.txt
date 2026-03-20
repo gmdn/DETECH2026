@@ -1,0 +1,10 @@
+520. Front Cell Infect Microbiol. 2020 Oct 29;10:580980. doi:
+
+10.3389/fcimb.2020.580980. eCollection 2020.
+
+Multiomics Study of Gut Bacteria and Host Metabolism in Irritable Bowel Syndrome and Depression Patients.
+
+BACKGROUND AND AIMS: Irritable bowel syndrome (IBS) and depression have high tendencies of comorbidity. In particular, diarrhea-predominant IBS (IBS-D) and depression exhibit similar fecal microbiota signatures, yet little is known about their pathogenic mechanism. Here, we propose that the differences in structure and composition of IBS-D and depression gut microbiota give rise to different downstream functions, which lead to distinct clinical phenotypes via host metabolism and further influence the interaction of brain-gut axis.
+METHODS: We performed multiomics study, including fecal metagenome-wide sequencing and serum metabolomics profiling in 65 individuals with IBS-D (n=22), depression (n=15), comorbid patients (n=13), and healthy controls (n=15). We analyzed functional genes contributed by the primary genus and evaluated their correlations with clinical indices and host metabolites.
+RESULTS: Metagenomic analysis revealed 26 clusters of orthologous groups of protein (COG) categories consisting of a total of 4,631 functional genes. Trehalose and maltose hydrolase (COG1554) and fucose permease (COG0738) were the most relevant and enriched functional genes in the IBS-D patients; urease accessory proteins UreE (COG2371) was that in the depression patients. Context based genome annotation suggest that an alteration of Escherichia coli and Enterobacter cloacae in IBS-D and depression respectively may be responsible for the enrichment described above. Correlation with host metabolites, such as maltotriose and isomaltose in carbohydrate metabolism and anandamide in neuroactive metabolism, drew further connections between these findings.
+CONCLUSIONS: These changes led us to propose a connection between genomic signatures and clinical differences observed in IBS-D and depression. Our findings provide further insights into the involvement of gut microbiota in diseases related to brain-gut disorder.

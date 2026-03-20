@@ -1,0 +1,5 @@
+20. bioRxiv [Preprint]. 2024 Feb 29:2024.02.27.582333. doi: 10.1101/2024.02.27.582333.
+
+Meta-analysis of the human gut microbiome uncovers shared and distinct microbial signatures between diseases.
+
+Microbiome studies have revealed gut microbiota's potential impact on complex diseases. However, many studies often focus on one disease per cohort. We developed a meta-analysis workflow for gut microbiome profiles and analyzed shotgun metagenomic data covering 11 diseases. Using interpretable machine learning and differential abundance analysis, our findings reinforce the generalization of binary classifiers for Crohn's disease (CD) and colorectal cancer (CRC) to hold-out cohorts and highlight the key microbes driving these classifications. We identified high microbial similarity in disease pairs like CD vs ulcerative colitis (UC), CD vs CRC, Parkinson's disease vs type 2 diabetes (T2D), and schizophrenia vs T2D. We also found strong inverse correlations in Alzheimer's disease vs CD and UC. These findings detected by our pipeline provide valuable insights into these diseases.

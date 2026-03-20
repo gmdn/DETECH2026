@@ -1,0 +1,9 @@
+243. J Affect Disord. 2023 Jan 1;320:595-604. doi: 10.1016/j.jad.2022.10.001. Epub 2022 Oct 7.
+
+An exploratory study of the gut microbiota in major depression with anxious distress.
+
+OBJECTIVES: To explore differences in the diversity and composition of the gut microbiome between major depressive disorder (MDD) with and without anxious distress.
+METHODS: The study comprised 117 participants (79 female, 36 male, 2 other, mean age 38.2 ± 13.4 years) with a current major depressive episode (MDE) with (n = 63) and without (n = 54) the anxious distress specifier. A clinical psychologist administered the structured clinical interview for the DSM-5-RV to confirm a diagnosis of depression. Participants provided stool samples which were immediately frozen and stored at -80 °C. These samples were analysed using the Illumina 16S Metagenomics sequencing protocol in which the sequencing primers target the V3 and V4 regions of the 16S rRNA gene. Participants also completed mental health questionnaires to assess severity of depression (BDI-II), generalized anxiety (GAD-7), and stress (PSS).
+RESULTS: There were no significant group differences in α-diversity (Shannon's diversity Index; Simpson Index), richness (ACE; Chao1), (Pielou's) evenness, or beta diversity (Bray-Curtis dissimilarity index and weighted UniFrac distance) of gut bacteria. Significant group differences in the relative abundance of gut microbiota however were observed at each taxonomical level, including across 15 genera and 18 species.
+LIMITATIONS: This was an exploratory study that needs to be replicated across larger samples and compared with a healthy control group.
+CONCLUSIONS: The research contributes to knowledge of the depressive gut microbial profile unique to the anxious distress subtype of MDD.

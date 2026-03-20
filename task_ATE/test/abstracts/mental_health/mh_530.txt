@@ -1,0 +1,9 @@
+530. J Affect Disord. 2020 Sep 1;274:73-75. doi: 10.1016/j.jad.2020.05.115. Epub 2020 May 23.
+
+The human gut microbiota and depression: widely reviewed, yet poorly understood.
+
+BACKGROUND: A large number of existing reviews have discussed the role of the gut microbiota in affective disorders, though syntheses have been overwhelmingly narrative in their focus.
+METHOD: In this correspondence, we compliment Sanada et al. (2020) on their recent systematic review of the gut microbiota in Major Depressive Disorder (MDD), the first to incorporate a meta-analysis. We also comment on how this synthesis should be extended in future research.
+RESULTS: Sanada et al. (2020) conducted a meta-analysis of alpha diversity in participants with MDD compared to controls, whereby they unexpectedly observed no significant difference between groups. A meta-analysis was only able to be performed on alpha diversity indices. Future research should consider research quality, other forms of depression, incorporate comprehensive meta-analyses, where possible, as well as investigate associations between anxiety/depression symptom measures and the gut microbiota.
+LIMITATIONS: Further consideration of papers which incorporate functional analyses (e.g., metabolomics) is required to integrate this body of literature.
+CONCLUSIONS: Research investigating the microbiota-gut-brain axis in affective disorders has been met with great enthusiasm, offering promising direction for novel therapeutics in conditions such as depression. We encourage further systematic reviews in this space, particularly which consider research quality and incorporate comprehensive meta-analyses.

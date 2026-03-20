@@ -1,0 +1,8 @@
+373. Nat Sci Sleep. 2022 Jan 25;14:121-133. doi: 10.2147/NSS.S334985. eCollection 2022.
+
+Alterations of the Gut Microbiota in Response to Total Sleep Deprivation and Recovery Sleep in Rats.
+
+INTRODUCTION: Accumulating evidence suggests that both sleep loss and gut dysbiosis can lead to metabolic disorders. However, less is known about the impact of total sleep deprivation (SD) and sleep recovery on the composition, function, and metabolic dynamics of the gut microbiota.
+METHODS: Specific-pathogen free Sprague-Dawley rats were subjected to 48 h of SD with gentle handling and then allowed to recover for 1 week. Taxonomic profiles of fecal microbiota were obtained at baseline, 24 h of SD, 48 h of SD, and 1 week of recovery. We used 16S rRNA gene sequencing to analyze the gut microbial composition and function and further characterize microbiota-derived metabolites in rats.
+RESULTS: The microbiota composition analysis revealed that gut microbial composition and metabolites did not change in the rats after 24 h of SD but were significantly altered after 48 h of SD. These changes were reversible after 1 week of sleep recovery. A functional analysis was performed based on Kyoto Encyclopedia of Genes and Genomes (KEGG) annotations, indicating that 19 KEGG pathways were significantly altered in the gut microbiota in SD rats. These functional changes occurred within 24 h of SD, were more apparent after 48 h of SD, and did not fully recover after 1 week of sleep recovery.
+CONCLUSION: These results indicate that acute total SD leads to significant compositional and functional changes in the gut microbiota, and these changes are reversible.

@@ -1,0 +1,10 @@
+550. Nutr Rev. 2020 Jun 1;78(6):437-450. doi: 10.1093/nutrit/nuz080.
+
+Probiotics and prebiotics: focus on psychiatric disorders - a systematic review.
+
+CONTEXT: The gut-brain axis and microbial dysbiosis may play a role in psychiatric diseases. In this view, the gut microbiota has been considered a potential therapeutic target using probiotics and prebiotics.
+OBJECTIVE: This systematic review aims to find the existing clinical evidence that may justify the use of probiotics or prebiotics in psychiatric patients.
+DATA SOURCES: PRISMA guidelines were followed for a systematic literature review of randomized controlled trials that assessed the effect of prebiotics or probiotics in patients diagnosed with a classified psychiatric disorder.
+DATA EXTRACTION: From a total of 212 studies screened, 11 were included in the final systematic review. Quality assessment of the included trials was assessed by the Jadad scale.
+RESULTS: Probiotics seem to offer some benefit in major depressive disorder and Alzheimer's disease. One study showed that probiotics reduced rehospitalization in patients with acute mania. In autism spectrum disorders, the results were controversial; however a single study found that early administration of probiotics showed a preventive role. No benefits were found for patients with schizophrenia. In most studies, no major adverse effects were reported.
+CONCLUSIONS: Although recent findings in specific psychiatric disorders are encouraging, the use of prebiotics and probiotics in clinical practice stills lacks sufficiently robust evidence.

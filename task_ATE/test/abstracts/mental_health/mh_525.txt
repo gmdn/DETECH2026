@@ -1,0 +1,6 @@
+525. Curr Psychiatry Rep. 2020 Sep 12;22(11):61. doi: 10.1007/s11920-020-01186-9.
+
+Early Life Stress and the Development of the Infant Gut Microbiota: Implications for Mental Health and Neurocognitive Development.
+
+PURPOSE OF REVIEW: We review the state of the literature examining associations between early life stress (ELS), gut microbiota, and neurocognitive development and mental health in animals and humans. We identify gaps in current models and areas for future research.
+RECENT FINDINGS: ELS is associated with changes in gut microbiota, which correspond to changes in affective and cognitive functioning in both animals and humans. Some of these ELS-induced psychological changes can be remedied by supplementation with probiotics in early life, suggesting a potential area for intervention for ELS-exposed children. Prenatal stress exposure is rarely studied in humans in relation to gut microbiota, but animal work has suggested important associations between prenatal stress and fetal programming that should be tested in humans. The gut microbiota plays an important role in the association between ELS, neurocognitive development, and mental health. More work is needed to fully understand these associations in humans.

@@ -1,0 +1,8 @@
+527. Psychiatr Danub. 2020 Sep;32(Suppl 1):158-163.
+
+From Family Surroundings to Intestinal Flora, A Literature Review Concerning Epigenetic Processes in Psychiatric Disorders.
+
+BACKGROUND: Some behaviors or psychiatric conditions seem to be inherited from parents or explain by family environment. We hypothesized interactions between epigenetic processes, inflammatory response and gut microbiota with family surroundings or environmental characteristics.
+SUBJECTS AND METHODS: We searched in literature interactions between epigenetic processes and psychiatric disorders with a special interest for environmental factors such as traumatic or stress events, family relationships and also gut microbiota. We searched on Pubmed, PsycINFO, PsycARTICLES and Sciencedirect articles with the keywords psychiatric disorders, epigenome, microbiome and family relationships.
+RESULTS: Some gene polymorphisms interact with negative environment and lead to psychiatric disorders. Negative environment is correlated with different epigenetic modifications in genes implicated in mental health. Gut microbiota diversity affect host epigenetic. Animal studies showed evidences for a transgenerational transmission of epigenetic characteristics.
+CONCLUSIONS: Our findings support the hypothesis that epigenetic mediate gene-environment interactions and psychiatric disorders. Several environmental characteristics such as traumatic life events, family adversity, psychological stress or internal environment such as gut microbiota diversity and diet showed an impact on epigenetic. These epigenetic modifications are also correlated with neurophysiological, inflammatory or hypothalamic-pituitary-adrenal axis dysregulations.

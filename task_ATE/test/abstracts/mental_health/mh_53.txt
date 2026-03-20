@@ -1,0 +1,5 @@
+53. Cells. 2024 Jan 17;13(2):177. doi: 10.3390/cells13020177.
+
+Psychiatric Comorbidities of Inflammatory Bowel Disease: It Is a Matter of Microglia's Gut Feeling.
+
+Inflammatory bowel disease (IBD), a common term for Crohn's disease and ulcerative colitis, is a chronic, relapse-remitting condition of the gastrointestinal tract that is increasing worldwide. Psychiatric comorbidities, including depression and anxiety, are more prevalent in IBD patients than in healthy individuals. Evidence suggests that varying levels of neuroinflammation might underlie these states in IBD patients. Within this context, microglia are the crucial non-neural cells in the brain responsible for innate immune responses following inflammatory insults. Alterations in microglia's functions, such as secretory profile, phagocytic activity, and synaptic pruning, might play significant roles in mediating psychiatric manifestations of IBD. In this review, we discuss the role played by microglia in IBD-associated comorbidities.

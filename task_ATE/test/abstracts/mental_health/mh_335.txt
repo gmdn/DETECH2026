@@ -1,0 +1,5 @@
+335. Gastroenterol Rep (Oxf). 2022 May 16;10:goac017. doi: 10.1093/gastro/goac017. eCollection 2022.
+
+Convergent pathways of the gut microbiota-brain axis and neurodegenerative disorders.
+
+Recent research has been uncovering the role of the gut microbiota for brain health and disease. These studies highlight the role of gut microbiota on regulating brain function and behavior through immune, metabolic, and neuronal pathways. In this review we provide an overview of the gut microbiota axis pathways to lay the groundwork for upcoming sessions on the links between the gut microbiota and neurogenerative disorders. We also discuss how the gut microbiota may act as an intermediate factor between the host and the environment to mediate disease onset and neuropathology. Based on the current literature, we further examine the potential for different microbiota-based therapeutic strategies to prevent, to modify, or to halt the progress of neurodegeneration.

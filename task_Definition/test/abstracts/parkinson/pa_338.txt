@@ -1,0 +1,5 @@
+12. NPJ Parkinsons Dis. 2024 Apr 6;10(1):78. doi: 10.1038/s41531-024-00687-1.
+
+Gut microbiome is not associated with mild cognitive impairment in Parkinson's disease.
+
+Gut microbiome differences between people with Parkinson's disease (PD) and control subjects without Parkinsonism are widely reported, but potential alterations related to PD with mild cognitive impairment (MCI) have yet to be comprehensively explored. We compared gut microbial features of PD with MCI (n = 58) to cognitively unimpaired PD (n = 60) and control subjects (n = 90) with normal cognition. Our results did not support a specific microbiome signature related to MCI in PD.

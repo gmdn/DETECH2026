@@ -1,0 +1,5 @@
+64. Pharmacol Ther. 2016 Feb;158:52-62. doi: 10.1016/j.pharmthera.2015.11.012. Epub 2015 Nov 26.
+
+Gut microbiome in health and disease: Linking the microbiome-gut-brain axis and environmental factors in the pathogenesis of systemic and neurodegenerative diseases.
+
+The gut microbiome comprises the collective genome of the trillions of microorganisms residing in our gastrointestinal ecosystem. The interaction between the host and its gut microbiome is a complex relationship whose manipulation could prove critical to preventing or treating not only various gut disorders, like irritable bowel syndrome (IBS) and ulcerative colitis (UC), but also central nervous system (CNS) disorders, such as Alzheimer's and Parkinson's diseases. The purpose of this review is to summarize what is known about the gut microbiome, how it is connected to the development of disease and to identify the bacterial and biochemical targets that should be the focus of future research. Understanding the mechanisms behind the activity and proliferation of the gut microbiome will provide us new insights that may pave the way for novel therapeutic strategies.

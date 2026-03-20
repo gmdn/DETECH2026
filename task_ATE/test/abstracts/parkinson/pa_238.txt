@@ -1,0 +1,8 @@
+4. Ann Indian Acad Neurol. 2023 Nov-Dec;26(6):908-916. doi: 10.4103/aian.aian_460_23. Epub 2023 Oct 31.
+
+Dysbiosis of the Beneficial Gut Bacteria in Patients with Parkinson's Disease from India.
+
+OBJECTIVES: Recent advancement in understanding neurological disorders has revealed the involvement of dysbiosis of the gut microbiota in the pathophysiology of Parkinson's disease (PD). We sequenced microbial DNA using fecal samples collected from PD cases and healthy controls (HCs) to evaluate the role of gut microbiota.
+METHODS: Full-length bacterial 16S rRNA gene sequencing of fecal samples was performed using amplified polymerase chain reaction (PCR) products on the GridION Nanopore sequencer. Sequenced data were analyzed using web-based tools BugSeq and MicrobiomeAnalyst.
+RESULTS: We found that certain bacterial families like Clostridia UCG 014, Cristensenellaceae, and Oscillospiraceae are higher in abundance, and Lachinospiracea, Coriobacteriaceae and genera associated with short-chain fatty acid production, Faecalibacterium, Fusicatenibacter, Roseburia and Blautia, are lower in abundance among PD cases when compared with the HC. Genus Akkermansia, Dialister, Bacteroides, and Lachnospiraceae NK4A136 group positively correlated with constipation in PD.
+CONCLUSION: Observations from this study support the other global research on the PD gut microbiome background and provide fresh insight into the gut microbial composition of PD patients from a south Indian population. We report a higher abundance of Clostridia UCG 014 group, previously not linked to PD.

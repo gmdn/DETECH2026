@@ -1,0 +1,9 @@
+135. J Allergy Clin Immunol. 2023 Sep;152(3):667-675. doi: 10.1016/j.jaci.2023.02.034. Epub 2023 May 6.
+
+Gut microbiota maturity mediates the protective effect of siblings on food allergy.
+
+BACKGROUND: The mechanisms underlying the protective effect of older siblings on allergic disease remain unclear but may relate to the infant gut microbiota.
+OBJECTIVE: We sought to investigate whether having older siblings decreases the risk of IgE-mediated food allergy by accelerating the maturation of the infant gut microbiota.
+METHODS: In a birth cohort assembled using an unselected antenatal sampling frame (n = 1074), fecal samples were collected at 1 month, 6 months, and 1 year, and food allergy status at 1 year was determined by skin prick test and in-hospital food challenge. We used 16S rRNA gene amplicon sequencing to derive amplicon sequence variants. Among a random subcohort (n = 323), microbiota-by-age z scores at each time point were calculated using fecal amplicon sequence variants to represent the gut microbiota maturation over the first year of life.
+RESULTS: A greater number of siblings was associated with a higher microbiota-by-age z score at age 1 year (β  = 0.15 per an additional sibling; 95% CI, 0.05-0.24; P = .003), which was in turn associated with decreased odds of food allergy (odds ratio, 0.45; 95% CI, 0.33-0.61; P < .001). Microbiota-by-age z scores mediated 63% of the protective effect of siblings. Analogous associations were not observed at younger ages.
+CONCLUSIONS: The protective effect of older siblings on the risk of developing IgE-mediated food allergy during infancy is substantially mediated by advanced maturation of the gut microbiota at age 1 year.

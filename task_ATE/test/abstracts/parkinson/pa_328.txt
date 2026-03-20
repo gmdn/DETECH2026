@@ -1,0 +1,12 @@
+2. J Prev Alzheimers Dis. 2024;11(3):759-768. doi: 10.14283/jpad.2024.19.
+
+Education as Risk Factor of Mild Cognitive Impairment: The Link to the Gut Microbiome.
+
+BACKGROUND: With differences apparent in the gut microbiome in mild cognitive impairment (MCI) and dementia, and risk factors of dementia linked to alterations of the gut microbiome, the question remains if gut microbiome characteristics may mediate associations of education with MCI.
+OBJECTIVES: We sought to examine potential mediation of the association of education and MCI by gut microbiome diversity or composition.
+DESIGN: Cross-sectional study.
+SETTING: Luxembourg, the Greater Region (surrounding areas in Belgium, France, Germany).
+PARTICIPANTS: Control participants of the Luxembourg Parkinson's Study.
+MEASUREMENTS: Gut microbiome composition, ascertained with 16S rRNA gene amplicon sequencing. Differential abundance, assessed across education groups (0-10, 11-16, 16+ years of education). Alpha diversity (Chao1, Shannon and inverse Simpson indices). Mediation analysis with effect decomposition was conducted with education as exposure, MCI as outcome and gut microbiome metrics as mediators.
+RESULTS: After exclusion of participants below 50, or with missing data, n=258 participants (n=58 MCI) were included (M [SD] Age=64.6 [8.3] years). Higher education (16+ years) was associated with MCI (Odds ratio natural direct effect=0.35 [95% CI 0.15-0.81]. Streptococcus and Lachnospiraceae-UCG-001 genera were more abundant in higher education.
+CONCLUSIONS: Education is associated with gut microbiome composition and MCI risk without clear evidence for mediation. However, our results suggest signatures of the gut microbiome that have been identified previously in AD and MCI to be reflected in lower education and suggest education as important covariate in microbiome studies.

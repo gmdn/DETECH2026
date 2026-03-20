@@ -1,0 +1,5 @@
+12. J Int Med Res. 2020 Jun;48(6):300060520925930. doi: 10.1177/0300060520925930.
+
+Rapid improvement in Alzheimer's disease symptoms following fecal microbiota transplantation: a case report.
+
+Alzheimer's disease (AD), the most common form of dementia, is a leading cause of death and a major cause of morbidity in older people. The disease is characterized by progressive memory loss, cognitive impairment, and the cerebral accumulation of amyloid-β peptide. Given the health and economic impacts of AD, treatments that target the underlying etiology of AD or modify the course of the disease are of significant interest. The gut microbiome has been increasingly implicated in the pathogenesis of several neurological diseases, including multiple sclerosis and Parkinson's disease. Furthermore, emerging evidence has demonstrated that there are alterations in gut microbiome composition in patients with AD, suggesting involvement of the microbiome-gut-brain axis. We present symptom improvement in a patient with AD following fecal microbiota transplantation for a Clostridioides difficile infection.

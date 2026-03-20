@@ -1,0 +1,8 @@
+30. J Atten Disord. 2024 Mar;28(5):872-879. doi: 10.1177/10870547231225491. Epub 2024 Feb 7.
+
+Metagenomic Analysis Reveals Difference of Gut Microbiota in ADHD.
+
+OBJECTIVE: Although ADHD is highly heritable, some environmental factors contribute to its development. Given the growing evidence that gut microbiota was involved in psychiatric disorders, we aimed to identify the characteristic composition of the gut microbiota in ADHD.
+METHODS: We recruited 47 medication-naive children and adolescents with ADHD, and 60 healthy controls (HCs). We used shotgun metagenomics to measure the structure of the gut microbiota and analyzed the difference in bacterial taxa between ADHD and HCs.
+RESULTS: Significant differences were found between the ADHD and HC groups in both alpha diversity indices (Simpson index, p = .025 and Shannon index, p = .049) and beta diversity indices (Euclidean distance, Bray-Curtis distance, and JSD distance, p < 2.2e-16). Nine representative species best explain the difference.
+CONCLUSION: Patients with ADHD showed significant differences in the composition of the gut microbiota compared with HCs. These results may help identify potential biomarkers of ADHD.

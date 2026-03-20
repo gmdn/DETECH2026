@@ -1,0 +1,5 @@
+70. Brain Behav Immun. 2024 Jan;115:667-679. doi: 10.1016/j.bbi.2023.11.021. Epub 2023 Nov 19.
+
+Gut microbiota-mediated ursodeoxycholic acids regulate the inflammation of microglia through TGR5 signaling after MCAO.
+
+Ischemic stroke has been demonstrated to cause an imbalance of gut microbiota. However, the change in gut microbiota-mediated bile acids (BAs) metabolites remains unclear. Here, we observed a decrease in gut microbiota-mediated BAs, especially ursodeoxycholic acid (UDCA), in the serum of stroke patients as well as in the intestine, serum and brain of stroke mice. Restoration of UDCA could decrease the area of infarction and improve the neurological function and cognitive function in mice in association with inhibition of NLRP3-related pro-inflammatory cytokines through TGR5/PKA pathway. Furthermore, knocking out TGR5 and inhibiting PKA activity reduce the protective effect of UDCA. Taken together, our results suggest that microbiota-mediated UDCA plays an important role in alleviating inflammatory responses and might be a promising therapeutic target in ischemic stroke.

@@ -1,0 +1,8 @@
+692. PLoS One. 2015 Dec 3;10(12):e0144270. doi: 10.1371/journal.pone.0144270. eCollection 2015.
+
+Prevention of Diet-Induced Obesity Effects on Body Weight and Gut Microbiota in Mice Treated Chronically with Δ9-Tetrahydrocannabinol.
+
+OBJECTIVE: Acute administration of cannabinoid CB1 receptor agonists, or the ingestion of cannabis, induces short-term hyperphagia. However, the incidence of obesity is lower in frequent cannabis users compared to non-users. Gut microbiota affects host metabolism and altered microbial profiles are observed in obese states. Gut microbiota modifies adipogenesis through actions on the endocannabinoid system. This study investigated the effect of chronic THC administration on body weight and gut microbiota in diet-induced obese (DIO) and lean mice.
+METHODS: Adult male DIO and lean mice were treated daily with vehicle or THC (2mg/kg for 3 weeks and 4 mg/kg for 1 additional week). Body weight, fat mass, energy intake, locomotor activity, whole gut transit and gut microbiota were measured longitudinally.
+RESULTS: THC reduced weight gain, fat mass gain and energy intake in DIO but not lean mice. DIO-induced changes in select gut microbiota were prevented in mice chronically administered THC. THC had no effect on locomotor activity or whole gut transit in either lean or DIO mice.
+CONCLUSIONS: Chronic THC treatment reduced energy intake and prevented high fat diet-induced increases in body weight and adiposity; effects that were unlikely to be a result of sedation or altered gastrointestinal transit. Changes in gut microbiota potentially contribute to chronic THC-induced actions on body weight in obesity.

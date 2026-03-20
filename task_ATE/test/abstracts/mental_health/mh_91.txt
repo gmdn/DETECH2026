@@ -1,0 +1,8 @@
+91. Front Cell Infect Microbiol. 2023 Nov 28;13:1296417. doi: 10.3389/fcimb.2023.1296417. eCollection 2023.
+
+The relationship between gut microbiota and insomnia: a bi-directional two-sample Mendelian randomization research.
+
+INTRODUCTION: Insomnia is the second most common mental health issue, also is a social and financial burden. Insomnia affects the balance between sleep, the immune system, and the central nervous system, which may raise the risk of different systemic disorders. The gut microbiota, referred to as the "second genome," has the ability to control host homeostasis. It has been discovered that disruption of the gut-brain axis is linked to insomnia.
+METHODS: In this study, we conducted MR analysis between large-scale GWAS data of GMs and insomnia to uncover potential associations.
+RESULTS: Ten GM taxa were detected to have causal associations with insomnia. Among them, class Negativicutes, genus Clostridiuminnocuumgroup, genus Dorea, genus Lachnoclostridium, genus Prevotella7, and order Selenomonadalesare were linked to a higher risk of insomnia. In reverse MR analysis, we discovered a causal link between insomnia and six other GM taxa.
+CONCLUSION: It suggested that the relationship between insomnia and intestinal flora was convoluted. Our findings may offer beneficial biomarkers for disease development and prospective candidate treatment targets for insomnia.

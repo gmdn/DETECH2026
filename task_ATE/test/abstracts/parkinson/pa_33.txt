@@ -1,0 +1,9 @@
+33. Mov Disord Clin Pract. 2019 Oct 23;6(8):639-651. doi: 10.1002/mdc3.12840. eCollection 2019 Nov.
+
+Gut Vibes in Parkinson’s Disease: The Microbiota-Gut-Brain Axis.
+
+BACKGROUND: The complexity of the pathogenic mechanisms underlying neurodegenerative disorders such as Parkinson’s disease (PD) is attributable to multifactorial changes occurring at a molecular level, influenced by genetics and environmental interactions. However, what causes the main hallmarks of PD is not well understood. Recent data increasingly suggest that imbalances in the gut microbiome composition might trigger and/or exacerbate the progression of PD.
+OBJECTIVE: The present review aims to (1) report emerging literature showing changes in microbiota composition of PD patients compared to healthy individuals and (2) discuss how these changes may initiate and/or perpetuate PD pathology.
+METHODS: We analyzed 13 studies published from 2015 and included in this review. Altered microbial taxa were compiled in a detailed table summarizing bacterial changes in fecal/mucosal samples. The methodology was systematically reviewed across the articles and was also included in a table to facilitate comparisons between studies.
+RESULTS: Multiple studies found a reduction in short-chain fatty-acid-producing bacteria that can rescue neuronal damage through epigenetic mechanisms. Overall, the studies showed that changes in the gut microbiota composition might influence colonic inflammation, gut permeability, and α-synuclein aggregation, contributing to the neurogenerative process.
+CONCLUSION: Further studies with larger cohorts and high-resolution sequencing methods are required to better define gut microbiota changes in PD. Furthermore, additional longitudinal studies are required to determine the causal link between these changes and PD pathogenesis as well as to study the potential of the intestinal microbiota as a biomarker.

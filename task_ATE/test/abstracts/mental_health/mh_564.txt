@@ -1,0 +1,9 @@
+564. EBioMedicine. 2020 Feb;52:102640. doi: 10.1016/j.ebiom.2020.102640. Epub 2020 Feb 12.
+
+Gut microbiota composition during infancy and subsequent behavioural outcomes.
+
+BACKGROUND: Despite intense interest in the relationship between gut microbiota and brain development, longitudinal data from human studies are lacking. This study aimed to investigate the relationship between the composition of gut microbiota during infancy and subsequent behavioural outcomes.
+METHODS: A subcohort of 201 children with behavioural outcome measures was identified within a longitudinal, Australian birth-cohort study. The faecal microbiota were analysed at 1, 6, and 12 months of age. Behavioural outcomes were measured at 2 years of age.
+FINDINGS: In an unselected birth cohort, we found a clear association between decreased normalised abundance of Prevotella in faecal samples collected at 12 months of age and increased behavioural problems at 2 years, in particular Internalizing Problem scores. This association appeared independent of multiple potentially confounding variables, including maternal mental health. Recent exposure to antibiotics was the best predictor of decreased Prevotella.
+INTERPRETATION: Our findings demonstrate a strong association between the composition of the gut microbiota in infancy and subsequent behavioural outcomes; and support the importance of responsible use of antibiotics during early life.
+FUNDING: This study was funded by the National Health and Medical Research Council of Australia (1082307, 1147980, 1129813), The Murdoch Children's Research Institute, Barwon Health, Deakin University, Perpetual Trustees, and The Shepherd Foundation. The funders had no involvement in the data collection, analysis or interpretation, trial design, recruitment or any other aspect pertinent to the study.

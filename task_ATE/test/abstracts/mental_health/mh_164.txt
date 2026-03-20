@@ -1,0 +1,9 @@
+164. J Affect Disord. 2023 Jun 15;331:369-379. doi: 10.1016/j.jad.2023.03.073. Epub 2023 Mar 25.
+
+Abnormal compositions of gut microbiota and metabolites are associated with susceptibility versus resilience in rats to inescapable electric stress.
+
+BACKGROUND: Increasing evidence suggests the role of gut microbiota in resilience versus vulnerability after stress. However, the role of gut microbiota and microbiome-derived metabolites in resilience versus susceptibility in rodents exposed to stress remains unclear.
+METHODS: Adult male rats were exposed to inescapable electric stress under the learned helplessness (LH) paradigm. The composition of gut microbiota and metabolites in the brain and blood from control (no stress) rats, LH resilient rats, and LH susceptible rats were examined.
+RESULTS: At the genus level, the relative abundances of Asaccharobacter, Eisenbergiella, and Klebsiella in LH susceptible rats were significantly higher than that of LH resilient rats. At the species level, the relative abundances of several microbiome were significantly altered between LH susceptible rats and LH resilient rats. Furthermore, there were several metabolites in the brain and blood altered between LH susceptible rats and LH resilient rats. A network analysis showed correlations between the abundance of several microbiome and metabolites in the brain (or blood).
+LIMITATIONS: Detailed roles of microbiome and metabolites are unclear.
+CONCLUSIONS: These findings suggest that abnormal compositions of the gut microbiota and metabolites might contribute to susceptibility versus resilience in rats subjected to inescapable electric foot shock.

@@ -1,0 +1,5 @@
+69. J Parkinsons Dis. 2021;11(1):153-158. doi: 10.3233/JPD-202237.
+
+The Gut Mycobiome in Parkinson's Disease.
+
+The gut microbiome has been increasingly implicated in Parkinson's disease (PD); however, most existing studies employ bacterial-specific sequencing, and have not investigated non-bacterial microbiome constituents. Here, we use fungal-specific internal transcribed spacer (ITS)-2 amplicon sequencing in a cross-sectional PD cohort to investigate associations between the fungal gut microbiome and PD. Fungal load among participants was extremely low, and genera identified were almost exclusively of proposed dietary or environmental origin. We observed significantly lower fungal DNA relative to bacterial DNA among PD patients. No fungi differed in abundance between patients and controls, nor were any associated with motor, cognitive, or gastrointestinal features among patients.

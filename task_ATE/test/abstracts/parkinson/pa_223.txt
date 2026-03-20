@@ -1,0 +1,5 @@
+82. J Pers Med. 2022 Jan 5;12(1):49. doi: 10.3390/jpm12010049.
+
+Microbiome Changes in Humans with Parkinson's Disease after Photobiomodulation Therapy: A Retrospective Study.
+
+There is a paucity of information on the effect of photobiomodulation therapy on gut microbiome composition. Parkinson's disease is a progressive neurological disorder with few management options, although the gut microbiome has been suggested as a potential avenue of treatment. We retrospectively analysed the microbiome from human stool samples from a previously published study, which had demonstrated the efficacy of photobiomodulation to treat Parkinson's patients' symptoms. Specifically, we have observed changes in the microbiome of Parkinson's patients after a 12-week treatment regimen with photobiomodulation to the abdomen, neck, head and nose. Noted were positive changes in the Firmicutes to Bacteroidetes (F:B) ratio, which is often interpreted as a proxy for gut health.

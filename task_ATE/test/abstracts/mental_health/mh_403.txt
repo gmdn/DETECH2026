@@ -1,0 +1,5 @@
+403. Brain Behav Immun Health. 2021 Aug 4;16:100308. doi: 10.1016/j.bbih.2021.100308. eCollection 2021 Oct.
+
+Beyond the neuro-immune interplay in depression: Could gut microbes be the missing link?
+
+Accumulating evidence have positioned inflammatory signaling pathways as crucial routes by which microbes inhabiting the gastrointestinal tract (the gut microbiota) communicate with the host brain to influence behavior, with impacts on mental illnesses. In this short review, an overview of inflammatory and gut microbiota status in human depression and in rodent models of the illness are provided. Next, potential inflammatory pathways mediating the communications between the gut and the brain under stressful conditions are described. Finally, dietary interventions targeting the gut microbiota-immune-brain axis in the context of depression are briefly discussed.

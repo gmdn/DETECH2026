@@ -1,0 +1,6 @@
+609. Curr Psychiatry Rep. 2019 Mar 2;21(3):18. doi: 10.1007/s11920-019-0998-z.
+
+The Relationship Between Perinatal Mental Health and Stress: a Review of the Microbiome.
+
+PURPOSE OF REVIEW: Our current understanding of the underlying mechanisms and etiologies of perinatal mood and anxiety disorders (PMADs) is not clearly identified. The relationship of stress-induced adaptations (i.e., the hypothalamic-pituitary-adrenal (HPA) axis, the autonomic nervous system (ANS), the immune system) and the microbiota are potential contributors to psychopathology exhibited in women during pregnancy and postpartum and should be investigated.
+RECENT FINDINGS: The stress response activates the HPA axis and dysregulates the ANS, leading to the inhibition of the parasympathetic system. Sustained high levels of cortisol, reduced heart variability, and modulated immune responses increase the vulnerability to PMAD. Bidirectional communication between the nervous system and the microbiota is an important factor to alter host homeostasis and development of PMAD. Future research in the relationship between the psychoneuroimmune system, the gut microbiota, and PMAD has the potential to be integrated in clinical practice to improve screening, diagnosis, and treatment.

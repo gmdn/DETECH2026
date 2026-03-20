@@ -1,0 +1,8 @@
+686. Nutrition. 2016 May;32(5):584-9. doi: 10.1016/j.nut.2015.11.014. Epub 2015 Dec 23.
+
+Dietary fiber intake and depressive symptoms in Japanese employees: The Furukawa Nutrition and Health Study.
+
+OBJECTIVE: Dietary fiber may play a favorable role in mood through gut microbiota, but epidemiologic evidence linking mood to dietary fiber intake is scarce in free-living populations. We investigated cross-sectionally the associations of dietary intakes of total, soluble, insoluble, and sources of fiber with depressive symptoms among Japanese workers.
+METHODS: Participants were 1977 employees ages 19-69 y. Dietary intake was assessed via a validated, brief self-administered diet history questionnaire. Depressive symptoms were assessed using the Center for Epidemiologic Studies Depression Scale. Logistic regression was used to estimate odds ratios of depressive symptoms adjusted for a range of dietary and non-dietary potential confounders.
+RESULTS: Dietary fiber intake from vegetables and fruits was significantly inversely associated with depressive symptoms. The multivariable-adjusted odds ratios (95% confidence intervals) for the lowest through the highest tertile of vegetable and fruit fiber were 1.00 (reference), 0.80 (0.60-1.05), and 0.65 (0.45-0.95), respectively (P for trend = 0.03). Dietary intake of total, soluble, insoluble, and cereal fiber was not associated with depressive symptoms.
+CONCLUSIONS: Higher dietary fiber intake from vegetables and fruits may be associated with lower likelihood of having depressive symptoms.

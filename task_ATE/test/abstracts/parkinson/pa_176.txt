@@ -1,0 +1,5 @@
+35. Neurol Sci. 2022 Nov;43(11):6225-6231. doi: 10.1007/s10072-022-06316-0. Epub 2022 Aug 11.
+
+Research progress in the early diagnosis of Parkinson's disease.
+
+Parkinson's disease is the second major neurodegenerative disease with increasing incidence and population in the world year by year. The pathogenesis of Parkinson's disease is still not completely clear, and the identification of Parkinson's disease prodromal manifestations and accurate diagnosis is still facing great challenges. This review summarizes the interaction of environmental toxicants, mitochondrial dysfunction, α-synuclein, gut microbiome dysbiosis, neuroinflammation, and other pathophysiological factors in Parkinson's disease. It also discusses the prodromal manifestations of Parkinson's disease, such as olfactory dysfunction, sleep dysfunction and other non-motor symptoms, the current diagnostic challenges, and the application status of emerging neuroimaging technologies such as magnetic resonance imaging (MRI), positron emission tomography (PET), and single-photon emission tomography (SPECT).

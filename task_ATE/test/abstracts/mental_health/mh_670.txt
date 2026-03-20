@@ -1,0 +1,11 @@
+670. Early Hum Dev. 2017 Jun;109:7-14. doi: 10.1016/j.earlhumdev.2017.03.009. Epub 2017 Apr 8.
+
+The role of maternal anxiety and depressive disorders prior to and during pregnancy and perinatal psychopathological symptoms for early infant diseases and drug administration.
+
+BACKGROUND: Maternal mental health prior to and during pregnancy has been shown to be associated with inflammatory diseases and gastrointestinal complaints in the offspring. Unfortunately, many studies merely focused on perinatal distress without consideration of lifetime anxiety and depressive disorders.
+AIMS: To prospectively investigate associations of anxiety and depressive disorders prior to and during pregnancy as well as perinatal distress with infants' inflammatory diseases, gastrointestinal complaints and corresponding drug administration.
+STUDY DESIGN: Prospective-longitudinal study initiated in 2009/2010.
+SUBJECTS: N=306 (expectant) mothers with and without DSM-IV lifetime anxiety and depressive disorders (Composite International Diagnostic Interview for Women) and low vs. high severity of psychopathological symptoms during pregnancy (Brief Symptom Inventory) enrolled in early pregnancy and repeatedly assessed during peripartum period.
+OUTCOME MEASURES: Infant inflammatory diseases, gastrointestinal complaints and drug administration assessed via questionnaire (maternal report) at four months postpartum (n=279).
+RESULTS: Severe psychopathological symptoms during pregnancy were associated with inflammatory diseases and anti-infective medication, whereas anxiety and depressive disorders prior to and during pregnancy were related to gastrointestinal complaints (diarrhea, colic complaints) and corresponding medication.
+CONCLUSIONS: These results have to be discussed with caution, because information on infants' diseases were based exclusively on maternal self-reports. However, they suggest promising directions regarding our current knowledge about the relevance of maternal perinatal distress for infant inflammatory diseases (e.g. fetal programming). Moreover, the association between maternal anxiety and depressive disorders and infant gastrointestinal complaints may be explained by an anxious misinterpretation of 'normal' infant signals or a transmission of adverse gut microbiota, respectively.

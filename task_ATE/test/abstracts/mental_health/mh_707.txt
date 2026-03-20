@@ -1,0 +1,7 @@
+707. Curr Opin Psychiatry. 2015 Jan;28(1):1-6. doi: 10.1097/YCO.0000000000000117.
+
+The gut microbiome and diet in psychiatry: focus on depression.
+
+PURPOSE OF REVIEW: With depressive disorders the leading source of disability globally, the identification of new targets for prevention and management is imperative. A rapidly emerging field of research suggests that the microbiome-gut-brain axis is of substantial relevance to mood and behaviour. Similarly, unhealthy diet has recently emerged as a significant correlate of and risk factor for depression. This review provides evidence for the gut microbiota as a key factor mediating the link between diet and depressive illness.
+RECENT FINDINGS: The development of new technologies is affording a better understanding of how diet influences gut microbiota composition and activity and how this may, in turn, influence depressive illness. New interventions are also suggesting the possible utility of pre and probiotic formulations and fermented food in influencing mental health.
+SUMMARY: Although in its early stages, the emerging field of research focused on the human microbiome suggests an important role for the gut microbiota in influencing brain development, behaviour and mood in humans. The recognition that the gut microbiota interacts bidirectionally with other environmental risk factors, such as diet and stress, suggests promise in the development of interventions targeting the gut microbiota for the prevention and treatment of common mental health disorders.

@@ -1,0 +1,9 @@
+628. Neuropsychiatr Dis Treat. 2018 Dec 3;14:3329-3337. doi: 10.2147/NDT.S188340. eCollection 2018.
+
+Possible association of Firmicutes in the gut microbiota of patients with major depressive disorder.
+
+BACKGROUND: Gut microbiota can affect human behavior and mood in many ways. Several studies have shown that patients with depression were also accompanied with gut microbiota disorder, in which Firmicutes are related to the protective function of intestinal barrier. In this study, we explore the changes and effects of Firmicutes in the patients with major depressive disorder (MDD).
+METHOD: We recruited 54 subjects, including 27 patients with MDD. Fecal samples were collected for identification by 16S rRNA sequencing and bioinformatics analysis.
+RESULTS: The study shows that the alpha diversity indices of MDD patients are lower than those of the healthy controls. Firmicutes is the most significantly decreased phylum in the MDD samples. There are totally 13 taxonomic biomarkers with P-value <0.01 from Firmicutes. There are differences in 17 KEGG pathways between the two groups.
+CONCLUSION: This study found that there is a significant disorder of gut microbiota in the patients with depression, in which the Firmicutes decreased significantly. Defects of the Firmicutes may lead to the depression in short-chain fatty acids, which could account for the physiological basis of low-level inflammation of depression.
+LIMITATIONS: This is a cross-sectional study and the sample size is comparatively small. Though several diet-related factors were controlled in the study, there is no quantified assessment of it.

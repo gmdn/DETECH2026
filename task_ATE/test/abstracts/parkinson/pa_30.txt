@@ -1,0 +1,5 @@
+30. Transl Neurodegener. 2019 Dec 24;8:38. doi: 10.1186/s40035-019-0175-7. eCollection 2019.
+
+Microbiome changes: an indicator of Parkinson’s disease?
+
+Parkinson’s disease is characterized by dopaminergic neuron loss and intracellular inclusions composed mainly of alpha synuclein (α-syn), but the mechanism of pathogenesis is still obscure. In recent years, more attention has been given to the gut as a key player in the initiation and progression of PD pathology. Several studies characterizing changes in the microbiome, particularly the gut microbiome, have been conducted. Although many studies found a decrease in the bacterial family Prevotellaceae and in butyrate-producing bacterial genera such as Roseburia and Faecalibacteria, and an increase in the genera Akkermansia many of the studies reported contradictory findings. In this review, we highlight the findings from the different studies and reflect on the future of microbiome studies in PD research.

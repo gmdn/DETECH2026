@@ -1,0 +1,7 @@
+217. J Ovarian Res. 2023 Feb 18;16(1):42. doi: 10.1186/s13048-022-01072-3.
+
+Past and present: a bibliometric study on polycystic ovary syndrome.
+
+BACKGROUND: Polycystic ovary syndrome (PCOS) is a common gynecological endocrine disease that has a great impact on women's physical and mental health. It is a burden to social and patients' economy. In recent years, researchers' understanding of PCOS has reached a new level. However, many PCOS reports have different directions, and overlapping phenomena exist. Therefore, clarifying the research status of PCOS is important. This study aims to summarise the research status of PCOS and predict the hot spots of PCOS in the future by Bibliometricx.
+RESULTS: The keywords of PCOS research focused on PCOS, insulin resistance (IR), obesity and metformin. Keywords plus co-occurrence network showed that PCOS, IR and prevalence were hot spots in the recent 10 years. Moreover, we found that gut microbiota may be a carrier that can be used to study hormone levels, IR-related mechanisms, prevention and treatment in the future.
+CONCLUSIONS: This study is helpful for researchers to quickly grasp the current situation of PCOS research and enlighten researchers to explore new problems in PCOS.
