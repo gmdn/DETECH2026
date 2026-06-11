@@ -216,3 +216,284 @@ Columns (header not required):
 | `definition` | generated intensional definition for the concept |
 
 Each row contains one generated definition for a concept.
+
+
+## Participant Runs
+
+The `runs/` folder contains the submissions provided by participating teams.
+
+```text
+runs/
+├── TeamA/
+├── TeamB/
+├── TeamC/
+└── ...
+```
+
+Each team has a dedicated folder containing the runs submitted for Task A and Task B.
+
+### Folder structure
+
+```text
+runs/
+└── team_name/
+    ├── taskA/
+    └── taskB/
+```
+
+The evaluation scripts automatically scan the team folders and load all available runs.
+
+### Task A submissions
+
+Task A runs are stored as CSV files inside:
+
+```text
+runs/team_name/taskA/
+```
+
+Each file corresponds to one submitted run and contains extracted term occurrences.
+
+Expected columns:
+
+| column        | description                        |
+| ------------- | ---------------------------------- |
+| `num_article` | document identifier                |
+| `doi`         | DOI of the document (may be empty) |
+| `term`        | extracted term                     |
+
+Example:
+
+```text
+num_article,doi,term
+2,10.1016/j.nut.2024.112369,Gut microbiota
+2,10.1016/j.nut.2024.112369,Malnutrition
+```
+
+The evaluation scripts support both comma-separated (`.csv`) and semicolon-separated (`.csv`) files. Headers are optional.
+
+### Task B submissions
+
+Task B runs are stored inside:
+
+```text
+runs/team_name/taskB/
+```
+
+Each Task B run consists of two files:
+
+1. a concept identification file;
+2. a definition generation file.
+
+The filename contains the subcollection name (`mental_health` or `parkinson`) and uniquely identifies the run.
+
+#### Concept identification file
+
+Expected columns:
+
+| column        | description                        |
+| ------------- | ---------------------------------- |
+| `num_article` | document identifier                |
+| `doi`         | DOI of the document (may be empty) |
+| `mention`     | mention occurring in the document  |
+| `concept`     | predicted concept                  |
+
+Example:
+
+```text
+num_article,doi,mention,concept
+1,10.1016/j.psychres.2024.115914,antipsychotics,<Antipsychotic>
+1,10.1016/j.psychres.2024.115914,gastrointestinal microbiota,<Gastrointestinal microbiota>
+```
+
+#### Definition generation file
+
+Expected columns:
+
+| column       | description                      |
+| ------------ | -------------------------------- |
+| `concept`    | concept label                    |
+| `definition` | generated intensional definition |
+
+Example:
+
+```text
+concept,definition
+<Antipsychotic>,drug used to treat psychotic disorders
+<Gastrointestinal microbiota>,community of microorganisms inhabiting the gastrointestinal tract
+```
+
+### Multiple runs
+
+The evaluation pipeline automatically:
+
+* detects all available runs;
+* associates each run with its team and subcollection;
+* computes all evaluation measures;
+* generates per-team feedback files.
+
+Run identifiers are derived from the filenames and are preserved throughout the evaluation process, allowing participants to compare alternative system configurations.
+
+
+## Evaluation
+
+The `evaluation/` folder contains all scripts required to reproduce the official DETECH 2026 evaluation.
+
+```text
+evaluation/
+├── task_ATE/
+└── task_Definition/
+```
+
+Each subfolder contains:
+
+* scripts for loading gold standards and participant submissions;
+* scripts implementing the official evaluation measures;
+* scripts for exporting participant feedback files;
+* generated evaluation outputs.
+
+### Task A — Automatic Term Extraction
+
+The `task_ATE/` folder contains the evaluation pipeline for Task A.
+
+```text
+evaluation/task_ATE/
+├── load_data.R
+├── measures.R
+├── evaluate.R
+├── export_results_with_median.R
+├── run_all.R
+└── team-feedback/
+```
+
+The evaluation computes:
+
+* Micro Precision
+* Micro Recall
+* Micro F1
+* Type Precision
+* Type Recall
+* Type F1
+
+Term matching is performed after normalization (case-insensitive comparison and whitespace normalization), while singular/plural variants are treated as distinct terms.
+
+The generated feedback files include, for each submitted run:
+
+* all evaluation measures;
+* first quartile (Q1);
+* median;
+* third quartile (Q3).
+
+### Task B — Concept Identification and Definition Generation
+
+The `task_Definition/` folder contains the evaluation pipeline for Task B.
+
+```text
+evaluation/task_Definition/
+├── load_data.R
+├── evaluate_concept_recall.R
+├── compute_bleu.R
+├── compute_rouge.R
+├── compute_bertscore.R
+├── create_virtualenv.R
+├── run_all.R
+├── models/
+└── team-feedback/
+```
+
+Task B evaluation consists of two components.
+
+#### Concept Identification
+
+Concepts are matched using:
+
+* `num_article`
+* normalized concept label
+
+Concept normalization removes:
+
+* angle brackets (`< >`);
+* case differences;
+* leading/trailing whitespace.
+
+The primary measure is:
+
+* Concept Recall
+
+#### Definition Generation
+
+Definitions are evaluated only for concepts that are correctly identified in the corresponding document.
+
+The following automatic measures are computed:
+
+| Measure   | Description                                              |
+| --------- | -------------------------------------------------------- |
+| BLEU-1    | Unigram overlap                                          |
+| BLEU-2    | Bigram overlap                                           |
+| BLEU-3    | Trigram overlap                                          |
+| ROUGE-1   | Unigram overlap recall                                   |
+| ROUGE-2   | Bigram overlap recall                                    |
+| ROUGE-L   | Longest common subsequence overlap                       |
+| BERTScore | Semantic similarity using a biomedical transformer model |
+
+BLEU is computed using the Python package `sacrebleu`, ROUGE using `rouge-score`, and BERTScore using `bert-score` through the `reticulate` package.
+
+The generated feedback files include:
+
+* concept recall;
+* BLEU scores;
+* ROUGE scores;
+* BERTScore scores;
+* number of evaluated concept-definition pairs (`n_pairs`);
+* first quartile (Q1);
+* median;
+* third quartile (Q3).
+
+### Reproducibility
+
+All official DETECH 2026 evaluation results can be reproduced by running:
+
+```r
+source("run_all.R")
+```
+
+inside the corresponding evaluation folder.
+
+Task B additionally requires a Python environment configured through `reticulate`. The required environment can be created using:
+
+```r
+source("create_virtualenv.R")
+```
+
+
+> [!IMPORTANT]
+> Due to GitHub's file size limitations, the file `model.safetensors` used by the local PubMedBERT model is not included in this repository.
+>
+> To restore the complete model, download it from the original Hugging Face repository:
+>
+> https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+>
+> and place the downloaded `model.safetensors` file in:
+>
+> ```text
+> evaluation/task_Definition/models/pubmedbert-fixed/
+> ```
+>
+> After downloading, the folder should contain files such as:
+>
+> ```text
+> pubmedbert-fixed/
+> ├── config.json
+> ├── model.safetensors
+> ├── special_tokens_map.json
+> ├── tokenizer_config.json
+> ├── tokenizer.json
+> └── vocab.txt
+> ```
+>
+> Alternatively, the model can be recreated automatically by running:
+>
+> ```r
+> source("create_virtualenv.R")
+> ```
+>
+> and following the instructions in `compute_bertscore.R`.
