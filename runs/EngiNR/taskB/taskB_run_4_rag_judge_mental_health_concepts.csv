@@ -1,0 +1,86 @@
+num_article,doi,mention,concept
+1,https://doi.org/10.1016/j.psychres.2024.115914,antipsychotics,antipsychotics
+1,https://doi.org/10.1016/j.psychres.2024.115914,Antipsychotics,Antipsychotics
+1,https://doi.org/10.1016/j.psychres.2024.115914,psychiatric disorders,psychiatric disorders
+1,https://doi.org/10.1016/j.psychres.2024.115914,schizophrenia,schizophrenia
+1,https://doi.org/10.1016/j.psychres.2024.115914,drugs,drugs
+1,https://doi.org/10.1016/j.psychres.2024.115914,gut,gut
+1,https://doi.org/10.1016/j.psychres.2024.115914,microbiota,microbiota
+1,https://doi.org/10.1016/j.psychres.2024.115914,APs,APs
+1,https://doi.org/10.1016/j.psychres.2024.115914,patients,patients
+1,https://doi.org/10.1016/j.psychres.2024.115914,risperidone,risperidone
+1,https://doi.org/10.1016/j.psychres.2024.115914,quetiapine,quetiapine
+1,https://doi.org/10.1016/j.psychres.2024.115914,amilsupride,amilsupride
+1,https://doi.org/10.1016/j.psychres.2024.115914,olanzapine,olanzapine
+1,https://doi.org/10.1016/j.psychres.2024.115914,atypical drugs,atypical drugs
+1,https://doi.org/10.1016/j.psychres.2024.115914,abundance,abundance
+1,https://doi.org/10.1016/j.psychres.2024.115914,metabolic parameters,metabolic parameters
+1,https://doi.org/10.1016/j.psychres.2024.115914,GM composition and diversity,GM composition and diversity
+1,https://doi.org/10.1016/j.psychres.2024.115914,side effects,side effects
+13,https://doi.org/10.3389/fmicb.2024.1383199,microbiota-derived extracellular vesicles,microbiota-derived extracellular vesicles
+13,https://doi.org/10.3389/fmicb.2024.1383199,bipolar disorder,bipolar disorder
+13,https://doi.org/10.3389/fmicb.2024.1383199,psychiatric disorders,psychiatric disorders
+13,https://doi.org/10.3389/fmicb.2024.1383199,well-being,well-being
+13,https://doi.org/10.3389/fmicb.2024.1383199,health,health
+13,https://doi.org/10.3389/fmicb.2024.1383199,gut microbiota,gut microbiota
+13,https://doi.org/10.3389/fmicb.2024.1383199,Microbiota-derived extracellular vesicles,Microbiota-derived extracellular vesicles
+13,https://doi.org/10.3389/fmicb.2024.1383199,bioactive compounds,bioactive compounds
+13,https://doi.org/10.3389/fmicb.2024.1383199,host,host
+13,https://doi.org/10.3389/fmicb.2024.1383199,mental health,mental health
+13,https://doi.org/10.3389/fmicb.2024.1383199,illness,illness
+13,https://doi.org/10.3389/fmicb.2024.1383199,diagnostic biomarkers,diagnostic biomarkers
+13,https://doi.org/10.3389/fmicb.2024.1383199,therapies,therapies
+16,https://doi.org/10.3390/nu16071054,Psychobiotics,Psychobiotics
+16,https://doi.org/10.3390/nu16071054,microbiota-gut-brain,microbiota-gut-brain
+16,https://doi.org/10.3390/nu16071054,axis,axis
+16,https://doi.org/10.3390/nu16071054,health,health
+16,https://doi.org/10.3390/nu16071054,gut microbiome,gut microbiome
+16,https://doi.org/10.3390/nu16071054,MGB,MGB
+16,https://doi.org/10.3390/nu16071054,microbiota,microbiota
+16,https://doi.org/10.3390/nu16071054,psychobiotics,psychobiotics
+16,https://doi.org/10.3390/nu16071054,probiotics,probiotics
+16,https://doi.org/10.3390/nu16071054,gut-brain axis,gut-brain axis
+16,https://doi.org/10.3390/nu16071054,MGB axis,MGB axis
+16,https://doi.org/10.3390/nu16071054,microorganisms,microorganisms
+16,https://doi.org/10.3390/nu16071054,disease,disease
+24,https://doi.org/10.3389/fnins.2024.1290826,Bipolar disorder,Bipolar disorder
+24,https://doi.org/10.3389/fnins.2024.1290826,bibliometric analysis,bibliometric analysis
+24,https://doi.org/10.3389/fnins.2024.1290826,bibliometric analysis,bibliometric analysis
+24,https://doi.org/10.3389/fnins.2024.1290826,Psychiatry,Psychiatry
+24,https://doi.org/10.3389/fnins.2024.1290826,gut microbiome composition,gut microbiome composition
+24,https://doi.org/10.3389/fnins.2024.1290826,treatment,treatment
+24,https://doi.org/10.3389/fnins.2024.1290826,treatment,treatment
+27,https://doi.org/10.7759/cureus.55733,Akkermansia muciniphila,Akkermansia muciniphila
+27,https://doi.org/10.7759/cureus.55733,Treatment,Treatment
+27,https://doi.org/10.7759/cureus.55733,Second-generation antipsychotics,Second-generation antipsychotics
+27,https://doi.org/10.7759/cureus.55733,treatment,treatment
+27,https://doi.org/10.7759/cureus.55733,weight gain,weight gain
+27,https://doi.org/10.7759/cureus.55733,olanzapine,olanzapine
+27,https://doi.org/10.7759/cureus.55733,drugs,drugs
+27,https://doi.org/10.7759/cureus.55733,gut,gut
+27,https://doi.org/10.7759/cureus.55733,microbiota,microbiota
+27,https://doi.org/10.7759/cureus.55733,gut-brain axis,gut-brain axis
+27,https://doi.org/10.7759/cureus.55733,host,host
+27,https://doi.org/10.7759/cureus.55733,bacterium,bacterium
+27,https://doi.org/10.7759/cureus.55733,patients,patients
+27,https://doi.org/10.7759/cureus.55733,Probiotic administration,Probiotic administration
+27,https://doi.org/10.7759/cureus.55733,psychiatric patients,psychiatric patients
+27,https://doi.org/10.7759/cureus.55733,Multiple strain probiotics,Multiple strain probiotics
+27,https://doi.org/10.7759/cureus.55733,mice models,mice models
+27,https://doi.org/10.7759/cureus.55733,antipsychotic-induced metabolic impairment,antipsychotic-induced metabolic impairment
+27,https://doi.org/10.7759/cureus.55733,olanzapine-induced weight gain,olanzapine-induced weight gain
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,gut-brain axis,gut-brain axis
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,anxiety,anxiety
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,probiotics,probiotics
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,anxiety,anxiety
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,depressive behaviour,depressive behaviour
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,postbiotics,postbiotics
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,probiotics,probiotics
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,antidepressant and anti-anxiety drugs,antidepressant and anti-anxiety drugs
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,Depression,Depression
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,anxiety disorders,anxiety disorders
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,mental illnesses,mental illnesses
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,probiotic supplementation,probiotic supplementation
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,mental health,mental health
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,gut microbiota,gut microbiota
+6,https://doi.org/10.1016/j.jtcme.2024.03.011,host,host

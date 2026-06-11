@@ -1,0 +1,5 @@
+team,file_name,micro_tp,micro_fp,micro_fn,micro_precision,micro_recall,micro_f1,type_tp,type_fp,type_fn,type_precision,type_recall,type_f1
+UGR-TermiGenAI,taskA_parkinson_terms.csv,459,1143,8374,0.28651685393258425,0.0519642250650968,0.08797316722568281,443,1116,6289,0.2841565105837075,0.06580510992275698,0.10686286334579663
+q1,q1 values of all runs,1814,1072.5,3474,0.533,0.205,0.308,1803.5,894.5,3011.5,0.561,0.268,0.371
+median,median values of all runs,3764,1145,5069,0.626,0.426,0.456,3569,1116,3163,0.626,0.53,0.465
+q3,q3 values of all runs,5359,1994.5,7019,0.739,0.607,0.567,3720.5,1185.5,4928.5,0.804,0.553,0.652

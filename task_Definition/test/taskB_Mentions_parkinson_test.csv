@@ -1,0 +1,208 @@
+num_article;doi;mention;concept;composed concept;individual concept
+329;10.3389/fphar.2024.1372110;Antrodia camphorata;<Antrodia camphorata>;;
+329;10.3389/fphar.2024.1372110;neurological disorders;<Neurological disorder>;;
+329;10.3389/fphar.2024.1372110;Alzheimer's disease;<Alzheimer's disease>;;
+329;10.3389/fphar.2024.1372110;Parkinson's disease;<Parkinson's disease>;;
+329;10.3389/fphar.2024.1372110;stroke;<Stroke>;;
+329;10.3389/fphar.2024.1372110;degeneration;<Degeneration>;;
+329;10.3389/fphar.2024.1372110;neurons;<Neuron>;;
+329;10.3389/fphar.2024.1372110;therapies;<Therapy>;;
+329;10.3389/fphar.2024.1372110;neurological diseases;<Neurological disease>;;
+329;10.3389/fphar.2024.1372110;pharmacology;<Pharmacology>;;
+329;10.3389/fphar.2024.1372110;natural products;<Natural product>;;
+329;10.3389/fphar.2024.1372110;drugs;<Drug>;;
+329;10.3389/fphar.2024.1372110;extracts;<Extract>;;
+329;10.3389/fphar.2024.1372110;metabolites;<Metabolite>;;
+329;10.3389/fphar.2024.1372110;pharmacological activities;<Pharmacology>;;
+329;10.3389/fphar.2024.1372110;neurological symptoms;<Neurological symptom>;;
+329;10.3389/fphar.2024.1372110;cellular and molecular levels;<Cell>;;
+329;10.3389/fphar.2024.1372110;cellular and molecular levels;<Molecule>;;
+329;10.3389/fphar.2024.1372110;metabolism;<Metabolism>;;
+329;10.3389/fphar.2024.1372110;blood-brain barrier penetration;<Blood-brain barrier penetration>;1;
+329;10.3389/fphar.2024.1372110;blood-brain barrier penetration;<Blood-brain barrier>;;1
+329;10.3389/fphar.2024.1372110;blood-brain barrier penetration;<Penetration>;;1
+329;10.3389/fphar.2024.1372110;neuroprotective activities;<Neuroprotection>;;
+329;10.3389/fphar.2024.1372110;regulating;<Regulate>;;
+329;10.3389/fphar.2024.1372110;gut-microbiome-brain axis;<Gut-microbiome-brain axis>;;
+329;10.3389/fphar.2024.1372110;cerebral neuropathology;<Cerebral neuropathology>;;
+332;10.1038/s41598-024-59250-w;effects;<Effect>;;
+332;10.1038/s41598-024-59250-w;microbiome-based interventions;<Microbiome-based intervention>;1;
+332;10.1038/s41598-024-59250-w;microbiome-based interventions;<Microbiome>;;1
+332;10.1038/s41598-024-59250-w;microbiome-based interventions;<Intervention>;;1
+332;10.1038/s41598-024-59250-w;neurodegenerative diseases;<Neurodegenerative disease>;;
+332;10.1038/s41598-024-59250-w;NDDs;<Neurodegenerative disease>;;
+332;10.1038/s41598-024-59250-w;neuronal damage;<Neuronal damage>;2;
+332;10.1038/s41598-024-59250-w;neuronal damage;<Neuron>;;2
+332;10.1038/s41598-024-59250-w;neuronal damage;<Damage>;;2
+332;10.1038/s41598-024-59250-w;neuron function;<Neuron function>;3;
+332;10.1038/s41598-024-59250-w;neuron function;<Neuron>;;3
+332;10.1038/s41598-024-59250-w;neuron function;<Function>;;3
+332;10.1038/s41598-024-59250-w;dietary interventions;<Dietary intervention>;;
+332;10.1038/s41598-024-59250-w;biotics;<Biotic>;;
+332;10.1038/s41598-024-59250-w;fecal microbiome transplant;<Fecal microbiome transplant>;;
+332;10.1038/s41598-024-59250-w;symptoms;<Symptom>;;
+332;10.1038/s41598-024-59250-w;disease progression;<Disease>;;
+332;10.1038/s41598-024-59250-w;clinical trials;<Clinical trial>;;
+332;10.1038/s41598-024-59250-w;interventions;<Intervention>;;
+332;10.1038/s41598-024-59250-w;GM;<Gut microbiome>;;
+332;10.1038/s41598-024-59250-w;microbiome-modulating methods;<Microbiome-modulating method>;4;
+332;10.1038/s41598-024-59250-w;microbiome-modulating methods;<Microbiome>;;4
+332;10.1038/s41598-024-59250-w;microbiome-modulating methods;<Modulation>;;4
+332;10.1038/s41598-024-59250-w;microbiome-modulating methods;<Method>;;4
+332;10.1038/s41598-024-59250-w;microbiome-modulating interventions;<Microbiome-modulating intervention>;5;
+332;10.1038/s41598-024-59250-w;microbiome-modulating interventions;<Microbiome>;;5
+332;10.1038/s41598-024-59250-w;microbiome-modulating interventions;<Modulation>;;5
+332;10.1038/s41598-024-59250-w;microbiome-modulating interventions;<Intervention>;;5
+332;10.1038/s41598-024-59250-w;GM composition;<Gut microbiome composition>;6;
+332;10.1038/s41598-024-59250-w;GM composition;<Gut microbiome>;;6
+332;10.1038/s41598-024-59250-w;GM composition;<Composition>;;6
+332;10.1038/s41598-024-59250-w;disease burden;<Disease>;;
+332;10.1038/s41598-024-59250-w;SMD;<Standardized mean difference>;;
+332;10.1038/s41598-024-59250-w;CI;<Confidence interval>;;
+332;10.1038/s41598-024-59250-w;P;<P-value>;;
+332;10.1038/s41598-024-59250-w;constipation;<Constipation>;;
+332;10.1038/s41598-024-59250-w;microbiome;<Microbiome>;;
+338;10.1038/s41531-024-00687-1;gut microbiome;<Gut microbiome>;;
+338;10.1038/s41531-024-00687-1;mild cognitive impairment;<Mild cognitive impairment>;;
+338;10.1038/s41531-024-00687-1;Parkinson's disease;<Parkinson's disease>;;
+338;10.1038/s41531-024-00687-1;gut microbiome differences;<Gut microbiome>;;
+338;10.1038/s41531-024-00687-1;PD;<Parkinson's disease>;;
+338;10.1038/s41531-024-00687-1;control subject;<Control>;;
+338;10.1038/s41531-024-00687-1;Parkinsonism;<Parkinsonism>;;
+338;10.1038/s41531-024-00687-1;alterations;<Alteration>;;
+338;10.1038/s41531-024-00687-1;MCI;<Mild cognitive impairment>;;
+338;10.1038/s41531-024-00687-1;gut microbial features;<Gut microorganism>;;
+338;10.1038/s41531-024-00687-1;cognitively unimpaired PD;<Cognition>;;
+338;10.1038/s41531-024-00687-1;cognitively unimpaired PD;<Parkinson's disease>;;
+338;10.1038/s41531-024-00687-1;cognition;<Cognition>;;
+338;10.1038/s41531-024-00687-1;microbiome signature;<Microbiome signature>;1;
+338;10.1038/s41531-024-00687-1;microbiome signature;<Microbiome>;;1
+338;10.1038/s41531-024-00687-1;microbiome signature;<Signature>;;1
+340;10.1093/braincomms/fcae098;hospital-treated infections;<Hospital-treated infection>;1;
+340;10.1093/braincomms/fcae098;hospital-treated infections;<Hospital>;;1
+340;10.1093/braincomms/fcae098;hospital-treated infections;<Treatment>;;1
+340;10.1093/braincomms/fcae098;hospital-treated infections;<Infection>;;1
+340;10.1093/braincomms/fcae098;Parkinson's disease risk;<Parkinson's disease risk>;2;
+340;10.1093/braincomms/fcae098;Parkinson's disease risk;<Parkinson's disease>;;2
+340;10.1093/braincomms/fcae098;Parkinson's disease risk;<Risk>;;2
+340;10.1093/braincomms/fcae098;infections;<Infection>;;
+340;10.1093/braincomms/fcae098;risk;<Risk>;;
+340;10.1093/braincomms/fcae098;Parkinson's disease;<Parkinson's disease>;;
+340;10.1093/braincomms/fcae098;cohort studies;<Cohort study>;;
+340;10.1093/braincomms/fcae098;site;<Body site>;;
+340;10.1093/braincomms/fcae098;gastrointestinal infections;<Gastrointestinal infection>;;
+340;10.1093/braincomms/fcae098;gut dysbiosis;<Gut dysbiosis>;;
+340;10.1093/braincomms/fcae098;Parkinson's disease aetiology;<Parkinson's disease etiology>;3;
+340;10.1093/braincomms/fcae098;Parkinson's disease aetiology;<Parkinson's disease>;;3
+340;10.1093/braincomms/fcae098;Parkinson's disease aetiology;<Etiology>;;3
+340;10.1093/braincomms/fcae098;population-based cohort study;<Population-based cohort study>;4;
+340;10.1093/braincomms/fcae098;population-based cohort study;<Population group>;;4
+340;10.1093/braincomms/fcae098;population-based cohort study;<Cohort study>;;4
+340;10.1093/braincomms/fcae098;Parkinson's disease diagnoses;<Parkinson's disease diagnosis>;5;
+340;10.1093/braincomms/fcae098;Parkinson's disease diagnoses;<Parkinson's disease>;;5
+340;10.1093/braincomms/fcae098;Parkinson's disease diagnoses;<Diagnosis>;;5
+340;10.1093/braincomms/fcae098;Cox regression;<Cox regression>;;
+340;10.1093/braincomms/fcae098;familial genetic and environmental confounding;<Familiality>;;
+340;10.1093/braincomms/fcae098;familial genetic and environmental confounding;<Genetics>;;
+340;10.1093/braincomms/fcae098;familial genetic and environmental confounding;<Environment>;;
+340;10.1093/braincomms/fcae098;familial genetic and environmental confounding;<Confounding>;;
+340;10.1093/braincomms/fcae098;familial genetic and environmental confounding;<Familial genetic confounding>;;
+340;10.1093/braincomms/fcae098;familial genetic and environmental confounding;<Familial environmental confounding>;;
+340;10.1093/braincomms/fcae098;hazard ratios;<Hazard ratio>;;
+340;10.1093/braincomms/fcae098;confidence intervals;<Confidence interval>;;
+340;10.1093/braincomms/fcae098;infection site;<Infection site>;6;
+340;10.1093/braincomms/fcae098;infection site;<Infection>;;6
+340;10.1093/braincomms/fcae098;infection site;<Body site>;;6
+340;10.1093/braincomms/fcae098;follow-up;<Follow-up>;;
+340;10.1093/braincomms/fcae098;familial factors;<Familial factor>;;
+340;10.1093/braincomms/fcae098;confidence interval;<Confidence interval>;;
+340;10.1093/braincomms/fcae098;hospital-treated gastrointestinal and respiratory infections;<Hospital>;;
+340;10.1093/braincomms/fcae098;hospital-treated gastrointestinal and respiratory infections;<Treatment>;;
+340;10.1093/braincomms/fcae098;hospital-treated gastrointestinal and respiratory infections;<Gastrointestinal infection>;;
+340;10.1093/braincomms/fcae098;hospital-treated gastrointestinal and respiratory infections;<Respiratory infection>;;
+340;10.1093/braincomms/fcae098;hospital-treated gastrointestinal and respiratory infections;<Hospital-treated gastrointestinal infection>;;
+340;10.1093/braincomms/fcae098;hospital-treated gastrointestinal and respiratory infections;<Hospital-treated respiratory infection>;;
+340;10.1093/braincomms/fcae098;genitourinary;<Genitourinary system>;;
+340;10.1093/braincomms/fcae098;skin;<Skin>;;
+340;10.1093/braincomms/fcae098;gastrointestinal tract;<Gastrointestinal tract>;;
+340;10.1093/braincomms/fcae098;lungs;<Lung>;;
+340;10.1093/braincomms/fcae098;gut microbiome;<Gut microbiome>;;
+340;10.1093/braincomms/fcae098;risk factors;<Risk factor>;;
+352;10.1016/j.redox.2024.103092;gut microbiome;<Gut microbiome>;;
+352;10.1016/j.redox.2024.103092;short-chain fatty acids;<Short-chain fatty acid>;;
+352;10.1016/j.redox.2024.103092;alpha-synuclein;<α-synuclein>;;
+352;10.1016/j.redox.2024.103092;neuroinflammation;<Neuroinflammation>;;
+352;10.1016/j.redox.2024.103092;ROS/RNS;<Reactive oxygen species>;;
+352;10.1016/j.redox.2024.103092;ROS/RNS;<Reactive nitrogen species>;;
+352;10.1016/j.redox.2024.103092;Parkinson's disease;<Parkinson's disease>;;
+352;10.1016/j.redox.2024.103092;therapeutic implications;<Therapy>;;
+352;10.1016/j.redox.2024.103092;SCFAs;<Short-chain fatty acid>;;
+352;10.1016/j.redox.2024.103092;PD;<Parkinson's disease>;;
+352;10.1016/j.redox.2024.103092;modulatory interactions;<Modulatory interaction>;1;
+352;10.1016/j.redox.2024.103092;modulatory interactions;<Modulation>;;1
+352;10.1016/j.redox.2024.103092;modulatory interactions;<Interaction>;;1
+352;10.1016/j.redox.2024.103092;reactive oxygen and nitrogen species;<Reactive oxygen species>;;
+352;10.1016/j.redox.2024.103092;reactive oxygen and nitrogen species;<Reactive nitrogen species>;;
+352;10.1016/j.redox.2024.103092;acetate;<Acetate>;;
+352;10.1016/j.redox.2024.103092;propionate;<Propionate>;;
+352;10.1016/j.redox.2024.103092;butyrate;<Butyrate>;;
+352;10.1016/j.redox.2024.103092;gut-brain communication;<Gut>;;
+352;10.1016/j.redox.2024.103092;gut-brain communication;<Brain>;;
+352;10.1016/j.redox.2024.103092;alpha-synuclein aggregation;<α-synuclein aggregation>;;
+352;10.1016/j.redox.2024.103092;patients;<Patient>;;
+352;10.1016/j.redox.2024.103092;probiotics;<Probiotic>;;
+352;10.1016/j.redox.2024.103092;strategy;<Strategy>;;
+352;10.1016/j.redox.2024.103092;PD symptoms;<Parkinson's disease symptom>;2;
+352;10.1016/j.redox.2024.103092;PD symptoms;<Parkinson's disease>;;2
+352;10.1016/j.redox.2024.103092;PD symptoms;<Symptom>;;2
+352;10.1016/j.redox.2024.103092;mechanisms;<Mechanism>;;
+352;10.1016/j.redox.2024.103092;guts;<Gut>;;
+352;10.1016/j.redox.2024.103092;brains;<Brain>;;
+352;10.1016/j.redox.2024.103092;oxidative stress;<Oxidative stress>;;
+352;10.1016/j.redox.2024.103092;biomarker;<Biomarker>;;
+352;10.1016/j.redox.2024.103092;gut-brain axis;<Gut-brain axis>;;
+352;10.1016/j.redox.2024.103092;disease pathogenesis;<Disease pathogenesis>;3;
+352;10.1016/j.redox.2024.103092;disease pathogenesis;<Disease>;;3
+352;10.1016/j.redox.2024.103092;disease pathogenesis;<Pathogenesis>;;3
+352;10.1016/j.redox.2024.103092;alpha-synuclein-induced neuroinflammation;<α-synuclein-induced neuroinflammation>;4;
+352;10.1016/j.redox.2024.103092;alpha-synuclein-induced neuroinflammation;<α-synuclein>;;4
+352;10.1016/j.redox.2024.103092;alpha-synuclein-induced neuroinflammation;<Neuroinflammation>;;4
+352;10.1016/j.redox.2024.103092;microglia;<Microglia>;;
+352;10.1016/j.redox.2024.103092;PD pathogenesis and treatment;<Parkinson's disease pathogenesis>;;
+352;10.1016/j.redox.2024.103092;PD pathogenesis and treatment;<Parkinson's disease treatment>;;
+352;10.1016/j.redox.2024.103092;PD pathogenesis and treatment;<Parkinson's disease>;;
+352;10.1016/j.redox.2024.103092;PD pathogenesis and treatment;<Pathogenesis>;;
+352;10.1016/j.redox.2024.103092;PD pathogenesis and treatment;<Treatment>;;
+358;10.3390/nu16020308;intestinal microbiota;<Gut microbiota>;;
+358;10.3390/nu16020308;diet;<Diet>;;
+358;10.3390/nu16020308;modulating factors;<Modulation>;;
+358;10.3390/nu16020308;Alzheimer's and Parkinson's diseases;<Alzheimer's disease>;;
+358;10.3390/nu16020308;Alzheimer's and Parkinson's diseases;<Parkinson's disease>;;
+358;10.3390/nu16020308;microbiota;<Microbiota>;;
+358;10.3390/nu16020308;treat;<Treat>;;
+358;10.3390/nu16020308;diseases;<Disease>;;
+358;10.3390/nu16020308;gut-brain axis;<Gut-brain axis>;;
+358;10.3390/nu16020308;pathology;<Pathology>;;
+358;10.3390/nu16020308;human physiology;<Human>;;
+358;10.3390/nu16020308;human physiology;<Physiology>;;
+358;10.3390/nu16020308;disorders;<Disorder>;;
+358;10.3390/nu16020308;homeostasis;<Homeostasis>;;
+358;10.3390/nu16020308;dysbiosis;<Dysbiosis>;;
+358;10.3390/nu16020308;neurodegenerative diseases;<Neurodegenerative disease>;;
+358;10.3390/nu16020308;Alzheimer's ;<Alzheimer's disease>;;
+358;10.3390/nu16020308;Parkinson's;<Parkinson's disease>;;
+358;10.3390/nu16020308;modulation;<Modulation>;;
+358;10.3390/nu16020308;gut microbiome;<Gut microbiome>;;
+358;10.3390/nu16020308;treatment;<Treatment>;;
+358;10.3390/nu16020308;probiotic interventions;<Probiotic intervention>;1;
+358;10.3390/nu16020308;probiotic interventions;<Probiotic>;;1
+358;10.3390/nu16020308;probiotic interventions;<Intervention>;;1
+358;10.3390/nu16020308;synbiotic interventions;<Synbiotic intervention>;2;
+358;10.3390/nu16020308;synbiotic interventions;<Synbiotic>;;2
+358;10.3390/nu16020308;synbiotic interventions;<Intervention>;;2
+358;10.3390/nu16020308;fecal transplantation;<Fecal microbiota transplantation>;;
+358;10.3390/nu16020308;biotherapeutic process;<Biotherapeutic process>;;
+358;10.3390/nu16020308;metabolites;<Metabolite>;;
+358;10.3390/nu16020308;body;<Body>;;
+358;10.3390/nu16020308;human organism;<Human>;;
+358;10.3390/nu16020308;human organism;<Organism>;;

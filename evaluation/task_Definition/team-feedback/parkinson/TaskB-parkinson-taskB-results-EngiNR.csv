@@ -1,0 +1,8 @@
+team,subtask,run_id,n_pairs,concept_recall,mean_bleu_1,mean_bleu_2,mean_bleu_3,mean_rouge1_f1,mean_rouge2_f1,mean_rougeL_f1,bert_f1
+EngiNR,parkinson,taskb_run_3_tuned_judge_parkinson,27,0.166,21.94,11.26,6.92,0.275,0.067,0.211,0.925
+EngiNR,parkinson,taskb_run_4_rag_judge_parkinson,27,0.166,22.68,11.65,7.18,0.29,0.073,0.225,0.926
+EngiNR,parkinson,taskb_run_5_neural_judge_parkinson,27,0.166,21.94,11.26,6.92,0.275,0.067,0.211,0.925
+EngiNR,parkinson,taskb_run_6_best_rag_judge_parkinson,27,0.166,22.68,11.65,7.18,0.29,0.073,0.225,0.926
+q1,NA,NA,27,0.166,21.85,11.2725,6.984999999999999,0.275,0.0685,0.214,0.9252500000000001
+median,NA,NA,27,0.166,21.94,11.48,7.18,0.28200000000000003,0.073,0.224,0.926
+q3,NA,NA,63.75,0.391,22.494999999999997,11.65,7.4125,0.28974999999999995,0.0835,0.225,0.9275000000000001

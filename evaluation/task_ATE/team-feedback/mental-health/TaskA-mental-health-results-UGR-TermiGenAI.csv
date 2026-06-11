@@ -1,0 +1,5 @@
+team,file_name,micro_tp,micro_fp,micro_fn,micro_precision,micro_recall,micro_f1,type_tp,type_fp,type_fn,type_precision,type_recall,type_f1
+UGR-TermiGenAI,taskA_mental_health_terms.csv,1577,252,17054,0.8622197922361946,0.0846438731147013,0.15415444770283476,1575,251,11954,0.8625410733844469,0.11641658659176583,0.20514490394008467
+q1,q1 values of all runs,4730,1165,6801.5,0.741,0.254,0.386,4684.5,1158,5660,0.784,0.346,0.481
+median,median values of all runs,7858,1686,10773,0.801,0.422,0.447,7436,1545,6093,0.801,0.55,0.498
+q3,q3 values of all runs,11829.5,4126.5,13901,0.821,0.635,0.561,7869,2303.5,8844.5,0.824,0.582,0.665

@@ -1,0 +1,254 @@
+num_article;doi;mention;concept;composed concept;individual concept
+1;10.1016/j.psychres.2024.115914;effects;<Effect>;;
+1;10.1016/j.psychres.2024.115914;antipsychotics;<Antipsychotic>;;
+1;10.1016/j.psychres.2024.115914;gastrointestinal microbiota;<Gastrointestinal microbiota>;;
+1;10.1016/j.psychres.2024.115914;APs;<Antipsychotic>;;
+1;10.1016/j.psychres.2024.115914;prescribed;<Prescribe>;;
+1;10.1016/j.psychres.2024.115914;psychiatric disorders;<Psychiatric disorder>;;
+1;10.1016/j.psychres.2024.115914;schizophrenia;<Schizophrenia>;;
+1;10.1016/j.psychres.2024.115914;disruptive behavioral conditions ;<Behavior>;;
+1;10.1016/j.psychres.2024.115914;disruptive behavioral conditions ;<Medical condition>;;
+1;10.1016/j.psychres.2024.115914;disruptive behavioral conditions ;<Behavioral condition>;;
+1;10.1016/j.psychres.2024.115914;drugs;<Drug>;;
+1;10.1016/j.psychres.2024.115914;side effects;<Side effect>;;
+1;10.1016/j.psychres.2024.115914;weight gain;<Weight gain>;;
+1;10.1016/j.psychres.2024.115914;gut microbiota;<Gut microbiota>;;
+1;10.1016/j.psychres.2024.115914;GM;<Gut microbiota>;;
+1;10.1016/j.psychres.2024.115914;APs effects;<Antipsychotic effect>;1;
+1;10.1016/j.psychres.2024.115914;APs effects;<Effect>;;1
+1;10.1016/j.psychres.2024.115914;APs effects;<Antipsychotic>;;1
+1;10.1016/j.psychres.2024.115914;patients;<Patient>;;
+1;10.1016/j.psychres.2024.115914;treatment;<Treatment>;;
+1;10.1016/j.psychres.2024.115914;risperidone;<Risperidone>;;
+1;10.1016/j.psychres.2024.115914;quetiapine;<Quetiapine>;;
+1;10.1016/j.psychres.2024.115914;amilsulpride;<Amisulpride>;;
+1;10.1016/j.psychres.2024.115914;olanzapine;<Olanzapine>;;
+1;10.1016/j.psychres.2024.115914;atypical drugs;<Second-generation antipsychotic>;;
+1;10.1016/j.psychres.2024.115914;abundance;<Abundance>;;
+1;10.1016/j.psychres.2024.115914;bacterial groups;<Bacterium>;;
+1;10.1016/j.psychres.2024.115914;metabolic parameters;<Metabolic parameter>;2;
+1;10.1016/j.psychres.2024.115914;metabolic parameters;<Metabolism>;;2
+1;10.1016/j.psychres.2024.115914;metabolic parameters;<Parameter>;;2
+1;10.1016/j.psychres.2024.115914;GM composition and diversity;<Gut microbiota>;;
+1;10.1016/j.psychres.2024.115914;GM composition and diversity;<Composition>;;
+1;10.1016/j.psychres.2024.115914;GM composition and diversity;<Diversity>;;
+1;10.1016/j.psychres.2024.115914;GM composition and diversity;<Gut microbiota composition>;;
+1;10.1016/j.psychres.2024.115914;GM composition and diversity;<Gut microbiota diversity>;;
+1;10.1016/j.psychres.2024.115914;interactions;<Interaction>;;
+1;10.1016/j.psychres.2024.115914;microbiota;<Microbiota>;;
+1;10.1016/j.psychres.2024.115914;adherence;<Adherence>;;
+6;10.1016/j.jtcme.2024.03.011;gut-brain axis;<Gut-brain axis>;;
+6;10.1016/j.jtcme.2024.03.011;strategy;<Strategy>;;
+6;10.1016/j.jtcme.2024.03.011;anxiety;<Anxiety>;;
+6;10.1016/j.jtcme.2024.03.011;depression;<Depression>;;
+6;10.1016/j.jtcme.2024.03.011;probiotics;<Probiotic>;;
+6;10.1016/j.jtcme.2024.03.011;depressive behaviour;<Depressive behavior>;1;
+6;10.1016/j.jtcme.2024.03.011;depressive behaviour;<Depression>;;1
+6;10.1016/j.jtcme.2024.03.011;depressive behaviour;<Behavior>;;1
+6;10.1016/j.jtcme.2024.03.011;adverse effects;<Adverse effect>;;
+6;10.1016/j.jtcme.2024.03.011;postbiotics;<Postbiotic>;;
+6;10.1016/j.jtcme.2024.03.011;treatments;<Treatment>;;
+6;10.1016/j.jtcme.2024.03.011;antidepressant and anti-anxiety drugs;<Antidepressant drug>;;
+6;10.1016/j.jtcme.2024.03.011;antidepressant and anti-anxiety drugs;<Anti-anxiety drug>;;
+6;10.1016/j.jtcme.2024.03.011;risk;<Risk>;;
+6;10.1016/j.jtcme.2024.03.011;side effects;<Side effect>;;
+6;10.1016/j.jtcme.2024.03.011;anxiety disorders;<Anxiety disorder>;;
+6;10.1016/j.jtcme.2024.03.011;mental illnesses;<Mental illness>;;
+6;10.1016/j.jtcme.2024.03.011;mood;<Mood>;;
+6;10.1016/j.jtcme.2024.03.011;cognitive or motor dysfunction;<Cognitive dysfunction>;;
+6;10.1016/j.jtcme.2024.03.011;cognitive or motor dysfunction;<Motor dysfunction>;;
+6;10.1016/j.jtcme.2024.03.011;probiotic supplementation;<Probiotic supplementation>;2;
+6;10.1016/j.jtcme.2024.03.011;probiotic supplementation;<Probiotic>;;2
+6;10.1016/j.jtcme.2024.03.011;probiotic supplementation;<Supplementation>;;2
+6;10.1016/j.jtcme.2024.03.011;mental health;<Mental health>;;
+6;10.1016/j.jtcme.2024.03.011;diseases;<Disease>;;
+6;10.1016/j.jtcme.2024.03.011;gut microbiota;<Gut microbiota>;;
+6;10.1016/j.jtcme.2024.03.011;mood regulation;<Mood regulation>;3;
+6;10.1016/j.jtcme.2024.03.011;mood regulation;<Mood>;;3
+6;10.1016/j.jtcme.2024.03.011;mood regulation;<Regulation>;;3
+6;10.1016/j.jtcme.2024.03.011;regulating;<Regulate>;;
+6;10.1016/j.jtcme.2024.03.011;host health;<Host>;;
+6;10.1016/j.jtcme.2024.03.011;host health;<Health>;;
+6;10.1016/j.jtcme.2024.03.011;effect;<Effect>;;
+6;10.1016/j.jtcme.2024.03.011;mental well-being;<Mental well-being>;;
+6;10.1016/j.jtcme.2024.03.011;humans;<Human>;;
+13;10.3389/fmicb.2024.1383199;microbiota-derived extracellular vesicles;<Microbiota-derived extracellular vesicle>;;
+13;10.3389/fmicb.2024.1383199;psychiatric disorders;<Psychiatric disorder>;;
+13;10.3389/fmicb.2024.1383199;major depressive disorder;<Major depressive disorder>;;
+13;10.3389/fmicb.2024.1383199;schizophrenia;<Schizophrenia>;;
+13;10.3389/fmicb.2024.1383199;bipolar disorder;<Bipolar disorder>;;
+13;10.3389/fmicb.2024.1383199;well-being;<Well-being>;;
+13;10.3389/fmicb.2024.1383199;health;<Health>;;
+13;10.3389/fmicb.2024.1383199;patients;<Patient>;;
+13;10.3389/fmicb.2024.1383199;abnormalities;<Abnormality>;;
+13;10.3389/fmicb.2024.1383199;gut microbiota;<Gut microbiota>;;
+13;10.3389/fmicb.2024.1383199;psychiatric diseases;<Psychiatric disease>;;
+13;10.3389/fmicb.2024.1383199;bioactive compounds;<Bioactive compound>;;
+13;10.3389/fmicb.2024.1383199;host cells;<Host>;;
+13;10.3389/fmicb.2024.1383199;host cells;<Cell>;;
+13;10.3389/fmicb.2024.1383199;altering;<Alter>;;
+13;10.3389/fmicb.2024.1383199;signaling and biological processes;<Signaling process>;;
+13;10.3389/fmicb.2024.1383199;signaling and biological processes;<Biological process>;;
+13;10.3389/fmicb.2024.1383199;mental health;<Mental health>;;
+13;10.3389/fmicb.2024.1383199;illness;<Illness>;;
+13;10.3389/fmicb.2024.1383199;host;<Host>;;
+13;10.3389/fmicb.2024.1383199;diagnostic biomarkers;<Diagnostic biomarker>;;
+13;10.3389/fmicb.2024.1383199;therapies;<Therapy>;;
+16;10.3390/nu16071054;psychobiotics;<Psychobiotic>;;
+16;10.3390/nu16071054;depression;<Depression>;;
+16;10.3390/nu16071054;microbiota-gut-brain axis;<Microbiota-gut-brain axis>;;
+16;10.3390/nu16071054;microbiota-gut-brain (MGB) axis;<Microbiota-gut-brain axis>;1;
+16;10.3390/nu16071054;microbiota-gut-brain (MGB) axis;<Microbiota-gut-brain axis>;;1
+16;10.3390/nu16071054;microbiota-gut-brain (MGB) axis;<Axis>;;1
+16;10.3390/nu16071054;gut;<Gut>;;
+16;10.3390/nu16071054;microbiota;<Microbiota>;;
+16;10.3390/nu16071054;brain;<Brain>;;
+16;10.3390/nu16071054;health;<Health>;;
+16;10.3390/nu16071054;disease;<Disease>;;
+16;10.3390/nu16071054;dysbiosis;<Dysbiosis>;;
+16;10.3390/nu16071054;disturbance;<Disturbance>;;
+16;10.3390/nu16071054;gut microbiome equilibrium;<Gut microbiome>;;
+16;10.3390/nu16071054;MGB axis;<Microbiota-gut-brain axis>;;
+16;10.3390/nu16071054;alterations;<Alteration>;;
+16;10.3390/nu16071054;microbial composition and function;<Microorganism>;;
+16;10.3390/nu16071054;microbial composition and function;<Composition>;;
+16;10.3390/nu16071054;microbial composition and function;<Function>;;
+16;10.3390/nu16071054;microbial composition and function;<Microbial composition>;;
+16;10.3390/nu16071054;microbial composition and function;<Microbial function>;;
+16;10.3390/nu16071054;microbiota alterations;<Microbiota alteration>;2;
+16;10.3390/nu16071054;microbiota alterations;<Microbiota>;;2
+16;10.3390/nu16071054;microbiota alterations;<Alteration>;;2
+16;10.3390/nu16071054;neurological and psychiatric disorders;<Neurological disorder>;;
+16;10.3390/nu16071054;neurological and psychiatric disorders;<Psychiatric disorder>;;
+16;10.3390/nu16071054;depressive disorders;<Depressive disorder>;;
+16;10.3390/nu16071054;microbial balance;<Microorganism>;;
+16;10.3390/nu16071054;effects;<Effect>;;
+16;10.3390/nu16071054;intestinal barrier;<Gut barrier>;;
+16;10.3390/nu16071054;immune response;<Immune response>;;
+16;10.3390/nu16071054;cortisol levels;<Cortisol>;;
+16;10.3390/nu16071054;hypothalamic-pituitary-adrenal (HPA) axis;<Hypothalamic-pituitary-adrenal axis>;3;
+16;10.3390/nu16071054;hypothalamic-pituitary-adrenal (HPA) axis;<Hypothalamic-pituitary-adrenal axis>;;3
+16;10.3390/nu16071054;hypothalamic-pituitary-adrenal (HPA) axis;<Axis>;;3
+16;10.3390/nu16071054;probiotics;<Probiotic>;;
+16;10.3390/nu16071054;adjunct therapy;<Adjuvant therapy>;;
+16;10.3390/nu16071054;treatment-resistant cases;<Treatment-resistant case>;4;
+16;10.3390/nu16071054;treatment-resistant cases;<Treatment>;;4
+16;10.3390/nu16071054;treatment-resistant cases;<Treatment-resistance>;;4
+16;10.3390/nu16071054;treatment-resistant cases;<Case>;;4
+16;10.3390/nu16071054;psychobiotics interventions;<Psychobiotic intervention>;5;
+16;10.3390/nu16071054;psychobiotics interventions;<Psychobiotic>;;5
+16;10.3390/nu16071054;psychobiotics interventions;<Intervention>;;5
+16;10.3390/nu16071054;gut-brain axis;<Gut-brain axis>;;
+16;10.3390/nu16071054;mental health;<Mental health>;;
+16;10.3390/nu16071054;microorganisms;<Microorganism>;;
+16;10.3390/nu16071054;mental well-being;<Mental well-being>;;
+16;10.3390/nu16071054;microbiome;<Microbiome>;;
+16;10.3390/nu16071054;agents;<Agent>;;
+16;10.3390/nu16071054;mental health issues;<Mental health>;;
+16;10.3390/nu16071054;therapeutic interventions;<Therapeutic intervention>;;
+24;10.3389/fnins.2024.1290826;bipolar disorder;<Bipolar disorder>;;
+24;10.3389/fnins.2024.1290826;gut microbiota;<Gut microbiota>;;
+24;10.3389/fnins.2024.1290826;gut microbiome composition;<Gut microbiome composition>;1;
+24;10.3389/fnins.2024.1290826;gut microbiome composition;<Gut microbiome>;;1
+24;10.3389/fnins.2024.1290826;gut microbiome composition;<Composition>;;1
+24;10.3389/fnins.2024.1290826;BD;<Bipolar disorder>;;
+24;10.3389/fnins.2024.1290826;illness severity;<Illness severity>;2;
+24;10.3389/fnins.2024.1290826;illness severity;<Illness>;;2
+24;10.3389/fnins.2024.1290826;treatment;<Treatment>;;
+24;10.3389/fnins.2024.1290826;depression;<Depression>;;
+24;10.3389/fnins.2024.1290826;inflammation;<Inflammation>;;
+24;10.3389/fnins.2024.1290826;probiotic;<Probiotic>;;
+24;10.3389/fnins.2024.1290826;gut-brain axis;<Gut-brain axis>;;
+24;10.3389/fnins.2024.1290826;anxiety;<Anxiety>;;
+24;10.3389/fnins.2024.1290826;abundance;<Abundance>;;
+24;10.3389/fnins.2024.1290826;diversity;<Diversity>;;
+24;10.3389/fnins.2024.1290826;gut microbiome;<Gut microbiome>;;
+24;10.3389/fnins.2024.1290826;microbiome-brain connections;<Microbiome>;;
+24;10.3389/fnins.2024.1290826;microbiome-brain connections;<Brain>;;
+24;10.3389/fnins.2024.1290826;interventions;<Intervention>;;
+24;10.3389/fnins.2024.1290826;microbiota composition modification;<Microbiota composition>;;
+24;10.3389/fnins.2024.1290826;microbiota composition modification;<Microbiota>;;
+24;10.3389/fnins.2024.1290826;microbiota composition modification;<Composition>;;
+27;10.7759/cureus.55733;Akkermansia muciniphila ;<Akkermansia muciniphila>;;
+27;10.7759/cureus.55733;treatment;<Treatment>;;
+27;10.7759/cureus.55733;olanzapine-induced weight gain;<Olanzapine-induced weight gain>;1;
+27;10.7759/cureus.55733;olanzapine-induced weight gain;<Olanzapine>;;1
+27;10.7759/cureus.55733;olanzapine-induced weight gain;<Weight gain>;;1
+27;10.7759/cureus.55733;second-generation antipsychotics;<Second-generation antipsychotic>;;
+27;10.7759/cureus.55733;acute and long-term treatment;<Treatment>;;
+27;10.7759/cureus.55733;psychiatric disorders;<Psychiatric disorder>;;
+27;10.7759/cureus.55733;first-generation antipsychotic drugs;<First-generation antipsychotic>;;
+27;10.7759/cureus.55733;weight gain;<Weight gain>;;
+27;10.7759/cureus.55733;metabolic disorders;<Metabolic disorder>;;
+27;10.7759/cureus.55733;olanzapine;<Olanzapine>;;
+27;10.7759/cureus.55733;drugs;<Drug>;;
+27;10.7759/cureus.55733;side effects;<Side effect>;;
+27;10.7759/cureus.55733;gut microbiota;<Gut microbiota>;;
+27;10.7759/cureus.55733;modulating;<Modulate>;;
+27;10.7759/cureus.55733;gut-brain axis;<Gut-brain axis>;;
+27;10.7759/cureus.55733;host;<Host>;;
+27;10.7759/cureus.55733;satiety signaling pathways;<Satiety signaling pathway>;2;
+27;10.7759/cureus.55733;satiety signaling pathways;<Satiety>;;2
+27;10.7759/cureus.55733;satiety signaling pathways;<Signaling pathway>;;2
+27;10.7759/cureus.55733;food intake behavior;<Food intake behavior>;3;
+27;10.7759/cureus.55733;food intake behavior;<Food>;;3
+27;10.7759/cureus.55733;food intake behavior;<Food intake>;;3
+27;10.7759/cureus.55733;food intake behavior;<Behavior>;;3
+27;10.7759/cureus.55733;weight and metabolic regulation;<Weight regulation>;;
+27;10.7759/cureus.55733;weight and metabolic regulation;<Metabolic regulation>;;
+27;10.7759/cureus.55733;gut microbiota modification;<Gut microbiota>;;
+27;10.7759/cureus.55733;central and peripheral receptors blockade mechanism;<Central receptor blockade mechanism>;;
+27;10.7759/cureus.55733;central and peripheral receptors blockade mechanism;<Peripheral receptor blockade mechanism>;;
+27;10.7759/cureus.55733;central and peripheral receptors blockade mechanism;<Central receptor>;;
+27;10.7759/cureus.55733;central and peripheral receptors blockade mechanism;<Peripheral receptor>;;
+27;10.7759/cureus.55733;central and peripheral receptors blockade mechanism;<Receptor>;;
+27;10.7759/cureus.55733;central and peripheral receptors blockade mechanism;<Blockade>;;
+27;10.7759/cureus.55733;central and peripheral receptors blockade mechanism;<Mechanism>;;
+27;10.7759/cureus.55733;weight gain induction;<Weight gain>;;
+27;10.7759/cureus.55733;metabolic impairment;<Metabolic impairment>;;
+27;10.7759/cureus.55733;dysbiosis;<Dysbiosis>;;
+27;10.7759/cureus.55733;concentration;<Concentration>;;
+27;10.7759/cureus.55733;bacterium;<Bacterium>;;
+27;10.7759/cureus.55733;patients;<Patient>;;
+27;10.7759/cureus.55733;diabetes;<Diabetes mellitus>;;
+27;10.7759/cureus.55733;obesity;<Obesity>;;
+27;10.7759/cureus.55733;metabolic syndrome;<Metabolic syndrome>;;
+27;10.7759/cureus.55733;chronic inflammatory diseases;<Inflammatory disease>;;
+27;10.7759/cureus.55733;probiotic administration;<Probiotic administration>;4;
+27;10.7759/cureus.55733;probiotic administration;<Administration>;;4
+27;10.7759/cureus.55733;probiotic administration;<Probiotic>;;4
+27;10.7759/cureus.55733;microbiota;<Microbiota>;;
+27;10.7759/cureus.55733;modulate;<Modulate>;;
+27;10.7759/cureus.55733;psychiatric patients;<Psychiatric patient>;5;
+27;10.7759/cureus.55733;psychiatric patients;<Patient>;;5
+27;10.7759/cureus.55733;psychiatric patients;<Psychiatry>;;5
+27;10.7759/cureus.55733;antipsychotic side effects;<Antipsychotic side effect>;6;
+27;10.7759/cureus.55733;antipsychotic side effects;<Side effect>;;6
+27;10.7759/cureus.55733;antipsychotic side effects;<Antipsychotic>;;6
+27;10.7759/cureus.55733;multiple strain probiotics;<Probiotic>;;
+27;10.7759/cureus.55733;administered;<Administer>;;
+27;10.7759/cureus.55733;mice models;<Mouse model>;;
+27;10.7759/cureus.55733;clinical populations;<Population group>;;
+27;10.7759/cureus.55733;antipsychotic-induced metabolic impairment;<Antipsychotic-induced metabolic impairment>;7;
+27;10.7759/cureus.55733;antipsychotic-induced metabolic impairment;<Antipsychotic>;;7
+27;10.7759/cureus.55733;antipsychotic-induced metabolic impairment;<Metabolic impairment>;;7
+27;10.7759/cureus.55733;parameters;<Parameter>;;
+27;10.7759/cureus.55733;olanzapine administration;<Olanzapine administration>;8;
+27;10.7759/cureus.55733;olanzapine administration;<Olanzapine>;;8
+27;10.7759/cureus.55733;olanzapine administration;<Administration>;;8
+27;10.7759/cureus.55733;insulin resistance;<Insulin resistance>;;
+27;10.7759/cureus.55733;hyperglycemia;<Hyperglycemia>;;
+27;10.7759/cureus.55733;liver function;<Liver function>;;
+27;10.7759/cureus.55733;systemic inflammation;<Systemic inflammation>;;
+27;10.7759/cureus.55733;gut barrier function;<Gut barrier function>;9;
+27;10.7759/cureus.55733;gut barrier function;<Gut barrier>;;9
+27;10.7759/cureus.55733;gut barrier function;<Function>;;9
+27;10.7759/cureus.55733;trials;<Clinical trial>;;
+27;10.7759/cureus.55733;psychiatric population;<Psychiatric population>;10;
+27;10.7759/cureus.55733;psychiatric population;<Psychiatry>;;10
+27;10.7759/cureus.55733;psychiatric population;<Population group>;;10
+27;10.7759/cureus.55733;probiotic;<Probiotic>;;
+27;10.7759/cureus.55733;treating;<Treat>;;
+27;10.7759/cureus.55733;metabolic side effects;<Metabolic side effect>;11;
+27;10.7759/cureus.55733;metabolic side effects;<Side effect>;;11
+27;10.7759/cureus.55733;metabolic side effects;<Metabolism>;;11

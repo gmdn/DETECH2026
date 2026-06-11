@@ -1,0 +1,259 @@
+concept;intensional_definition
+<Antrodia camphorata>;fungus that grows in Taiwan, is a member of the Polyporaceae family, is edible, and is used as traditional medicine
+<Neurological disorder>;disorder that can be either non-neoplastic or neoplastic, affecting the nervous system
+<Alzheimer's disease>;neurodegenerative disease of the brain, involving loss of function and death of nerve cells in several brain regions, leading to loss of cognitive function such as language, impairment of memory, judgment and attention span, apraxias and the onset of dementia
+<Parkinson's disease>;synucleinopathy, characterized by the loss of dopamine-producing and melanin-containing neurons in the substantia nigra, along with the presence of Lewy bodies in both the substantia nigra and locus coeruleus, with cardinal manifestations including bradykinesia
+<Stroke>;cerebrovascular disorder characterized by a sudden loss of neurological function and tissue necrosis 
+<Degeneration>;pathologic process involving the deterioration of cells and tissues, leading to a decrease in their function
+<Neuron>;cell of the nervous system that receives, conducts, and transmits impulses
+<Therapy>;treatment aimed at addressing a physical or mental condition
+<Neurological disease>;disease that affects the functioning of the nervous system
+<Pharmacology>;discipline concerned with the study of drugs, their properties, and their effects on organisms
+<Natural product>;chemical entity produced naturally by a living organism
+<Drug>;substance that, when absorbed by a living organism, may modify its functions
+<Extract>;preparation of a substance composed of active constituents obtained from complex matter 
+<Metabolite>;molecule involved in metabolism, either as an intermediate or an end product
+<Neurological symptom>;symptom that affects the nervous system
+<Cell>;anatomical structure of living organisms, composed of cytoplasm containing various organelles, and surrounded by a membrane
+<Molecule>;polyatomic entity that is electrically neutral, held together by chemical bonds
+<Blood-brain barrier penetration>;action in which substances that cross the blood-brain barrier
+<Blood-brain barrier>;body barrier composed of specialized non-fenestrated tightly-joined endothelial cells with tight junctions that form a transport barrier for certain substances between the cerebral capillaries and the brain tissue
+<Penetration>;action consisting of entering through something
+<Neuroprotection>;therapeutic procedure aimed at preventing neuronal degeneration and damage
+<Regulate>;adjust the time, degree, amount or rate
+<Gut-microbiome-brain axis>;axis involving a two-way communication pathway between the gut microbiome, the gastrointestinal tract, and the peripheral and central nervous system
+<Strategy>;plan of action intended to accomplish a specific goal
+<Cerebral neuropathology>;subspecialty of neuropathology concerned with diseases and disorders of the cerebrum
+<Effect>;phenomenon that follows and is caused by another phenomenon
+<Microbiome-based intervention>;intervention that targets the microbiome
+<Microbiome>;biome that consists of the microorganisms, their genomes (genes), and the surrounding environment where the microorganisms reside
+<Intervention>;action, in the form of treatment, therapy or procedure, aimed at alleviating, managing, preventing or curing health conditions and diseases, at the medical, social, behavioral, and environmental level
+<Neurodegenerative disease>;nervous system disease characterized by progressive nervous system dysfunction, due to loss of function or structure of neurons
+<Neuronal damage>;damage affecting neurons
+<Damage>;harm that has a physical nature
+<Neuron function>;function performed by neurons
+<Function>;action that is normally performed by a structure
+<Dietary intervention>;nutritional intervention that has a planned goal and involves altering the diet to improve health
+<Biotic>;microbiome-modulating intervention comprising probiotics and prebiotics
+<Fecal microbiome transplant>;transplant that consists of the fecal microbiome
+<Symptom>;finding that is the subjective evidence of disease, perceived by the patient
+<Disease>;pathological process with a characteristic set of signs and symptoms
+<Clinical trial>;clinical study involving humans, performed to tests interventions such as drugs, devices and treatments to evaluate safety and efficacy, that prospectively assigns humans to one or more interventions to evaluate health outcomes
+<Gut microbiome>;microbiome that resides within the gut
+<Microbiome-modulating method>;method aimed at the modulation of the microbiome
+<Modulation>;action consisting of an adjustment to the proper measure or proportion
+<Method>;means employed to accomplish a specific goal
+<Microbiome-modulating intervention>;intervention performed to modulate the microbiome
+<Gut microbiome composition>;composition of the gut microbiome
+<Composition>;property related to the way in which something is made, especially regarding its constituents
+<Standardized mean difference>;effect size measure that is the difference between two means divided by an estimate of the within-group standard deviation
+<Confidence interval>;range of values for a variable of interest, within which there is a high probability that the true value of the variable can be found
+<P-value>;value that represents the probability of obtaining, by chance, a result at least as extreme as the observed result, assuming the null hypothesis is true
+<Constipation>;digestive symptom characterized by infrequent or difficult evacuation of feces
+<Mild cognitive impairment>;cognitive disorder characterized by minimal impairment in cognition, that does not affect the daily activities of the individual
+<Control>;subject used as a standard of comparison in a control experiment
+<Parkinsonism>;neurodegenerative disease comprising a variety of conditions characterized by impaired motor control, bradykinesia, muscle rigidity, tremor, and postural instability
+<Alteration>;biological change that concerns an organism, involving a modification from the normal state
+<Gut microorganism>;microorganism located in the gut
+<Cognition>;mental process that includes activities associated with thinking, learning, remembering, and using judgment
+<Microbiome signature>;signature of the microbiome, referring to the differentially abundant bacteria identified in it
+<Signature>;pattern of characteristics specifically identified in a given entity
+<Hospital-treated infection>;infection treated in hospital
+<Hospital>;healthcare facility where patients receive medical care and treatment from specialized medical staff
+<Treatment>;intervention that can involve the administration of drugs, surgery or therapies, aimed at relieving a medical condition
+<Infection>;pathologic process in which a host organism is invaded by microorganisms that multiply within it
+<Parkinson's disease risk>;risk of developing Parkinson's disease
+<Risk>;probability that an event or condition will occur
+<Cohort study>;epidemiologic study in which groups of individuals, some of whom are exposed to a variable of interest, are followed over time to assess differences in the health outcome
+<Body site>;anatomical entity located within the body
+<Gastrointestinal infection>;infection that affects the gastrointestinal tract
+<Gut dysbiosis>;dysbiosis of the gut
+<Parkinson's disease etiology>;etiology of Parkinson's disease
+<Etiology>;cause of a medical condition
+<Population-based cohort study>;cohort study conducted on a selected population group and intended to reflect the characteristics of the entire target population
+<Population group>;group of individuals classified according to a common attribute
+<Parkinson's disease diagnosis>;diagnosis of Parkinson's disease
+<Diagnosis>;procedure consisting of the identification of the medical condition affecting a patient
+<Cox regression>;regression model used to assess the relationship between one or more explanatory variables and the time to the occurrence of an event
+<Familiality>;tendency of a trait to be shared among family members
+<Genetics>;constitution of an individual organism, with reference to its set of genes, its genetic characteristics, and the characteristics unique to its DNA
+<Environment>;set of social and cultural conditions surrounding an organism
+<Confounding>;factor in a study that may interfere with the interpretation of the effect of an exposure on an outcome
+<Familial genetic confounding>;confounding related to genetic characteristics shared within a family
+<Familial environmental confounding>;confounding related to environmental characteristics shared within a family
+<Hazard ratio>;statistical measure that is the ratio of the hazard rate of an event occurring in one group of individuals to the hazard rate of the same event in another group
+<Infection site>;anatomic site affected by an infection 
+<Follow-up>;healthcare process that consists of monitoring the health status of an individual after the subject is no longer receiving treatment
+<Familial factor>;factor related to familiality
+<Respiratory infection>;infection that affects the respiratory system
+<Hospital-treated gastrointestinal infection>;gastrointestinal infection treated in hospital
+<Hospital-treated respiratory infection>;respiratory infection treated in hospital
+<Genitourinary system>;organ system involved in reproduction, and in the production and excretion of urine
+<Skin>;organ that forms the external surface of the body, composed of the dermis and epidermis
+<Gastrointestinal tract>;anatomical location considered as the tract that goes from the mouth to the anus (comprising the pharynx, esophagus, stomach, and gut), whose primary function is the digestion of food and absorption of nutrients
+<Lung>;organ of the respiratory system that occupies the pulmonary cavities of the thorax and performs the aeration of the blood
+<Risk factor>;factor that constitutes a risk, known to be associated with a medical condition
+<Diet>;nutrition phenomenon that consists in the regular course of eating food and drinking adopted by a person or animal
+<Inflammation>;pathological process that is a response to an injury or abnormal stimuli, characterized by injury or destruction of tissues and varying degrees of vascular and tissue reactions 
+<Schizophrenia>;psychotic disorder that lasts for at least 6 months, characterized by dysfunctions in thinking, perception, self-experience, cognition, volition, affect, and behaviour, but no single symptom is pathognomonic of the disorder
+<Depression>;feeling, that is persistent, of sadness, despair, and loss of energy
+<Probiotic>;microorganism that is live and viable, that beneficially influences the intestinal microbial balance of the host
+<Food>;substance consumed by humans and animals for nutritional purposes
+<Brain>;organ that is part of the central nervous system, contained within the skull, composed of gray and white matter
+<Antipsychotic>;drug that reduces psychotic symptoms, controls agitated psychotic behavior, and alleviates acute psychotic states
+<Antipsychotic effect>;effect produced by antipsychotics
+<Antipsychotic side effect>;side effect caused by antipsychotics
+<Gastrointestinal microbiota>;microbiota that resides in the gastrointestinal tract
+<Prescribe>;authorize for the use of a specific intervention
+<Psychiatric disorder>;mental disorder characterized by behavioral and/or psychological abnormalities, and significant disturbances in thinking and emotional regulation
+<Behavior>;psychological response of a human or animal, in form of actions or reactions, usually in relation to the environment or surrounding stimuli
+<Medical condition>;phenomenon, intended as any kind of illness, disease, or disorder, that requires medical monitoring
+<Behavioral condition>;medical condition specifically characterized by altered behavior
+<Side effect>;effect of medical interventions, treatments, or pharmaceutical products that is unintended, usually negative but sometimes positive
+<Weight gain>;sign that manifests as an increase in body weight
+<Gut microbiota>;microbiota that resides within the gut
+<Patient>;human receiving medical attention, care, or treatment
+<Risperidone>;second-generation antipsychotic that inhibits serotonin 5-HT2 and dopamine D2 receptors
+<Quetiapine>;second-generation antipsychotic that derives from dibenzothiazepines, and targets the serotonin 5-HT2 receptor, histamine H1 receptor, adrenergic alpha1 and alpha2 receptors, dopamine D1 and D2 receptors
+<Amisulpride>;second-generation antipsychotic that derives from benzamides, and antagonizes dopamine D2 and D3 receptors
+<Olanzapine>;second-generation antipsychotic that derives from thienobenzodiazepine, and binds serotonin receptors, dopamine receptors, muscarinic receptors, histamine H1 receptors, and adrenergic alpha-1 receptors
+<Second-generation antipsychotic>;antipsychotic generally associated with a reduced risk of extrapyramidal symptoms 
+<Abundance>;measure indicating the number of specific types of microorganisms within a sample
+<Metabolic parameter>;parameter that concerns the metabolism
+<Metabolism>;biochemical process encompassing chemical reactions in living organisms by which energy is provided for vital processes and activities, and new material is assimilated
+<Parameter>;indicator used to evaluate the health status of an individual
+<Diversity>;variety of the components of a microbiome or microbiota, referring to the type, number, and abundance distribution of its components
+<Gut microbiota composition>;composition of the gut microbiota
+<Gut microbiota diversity>;diversity of the gut microbiota
+<Interaction>;medical process characterized by two entities acting on each other
+<Microbiota>;biota composed of microorganisms, including bacteria, virus, archaea and fungi, that exist in an organism
+<Adherence>;health-related behavior of a patient, who voluntarily follows through with an intervention as prescribed
+<Gut-brain axis>;axis involving a communication linking the gut and the brain
+<Anxiety>;emotional state characterized by apprehensiveness or anticipation of future danger accompanied by a feeling of worry, dread, or somatic symptoms of tension
+<Depressive behavior>;behavior characteristic of depression
+<Adverse effect>;effect caused by a medical product, intervention, or procedure that is unintended, and negatively impacts health
+<Postbiotic>;preparation of inanimate microorganisms and/or their components that confers a health benefit on the host
+<Antidepressant drug>;drug that exerts an antidepressant effect, used to treat depression
+<Anti-anxiety drug>;drug used to treat anxiety
+<Anxiety disorder>;mental disorder constituting a category of disorders, characterized by anxiety and fear
+<Mental illness>;illness of a mental nature
+<Mood>;affective state that is believed to have a pervasive influence on cognitive function and behavior
+<Cognitive dysfunction>;dysfunction affecting cognitive processes
+<Motor dysfunction>;dysfunction characterized by loss of movement function
+<Probiotic supplementation>;supplementation of probiotics
+<Supplementation>;nutritional intervention involving the intake of elements to complement the diet
+<Mental health>;state concerning health, referring to the emotional, psychological, and social well-being of an individual
+<Mood regulation>;process that consists of the regulation of mood
+<Regulation>;action that consists of the adjustment of the time, amount, degree, or rate of an entity
+<Host>;organism that nourishes, provides shelter and supports another organism
+<Health>;state of complete well-being of an organism, without evidence of disease
+<Mental well-being>;mental state that is positive, experienced by an individual, characterized by well-being that specifically concerns the mental level
+<Human>;organism of the species Homo sapiens
+<Microbiota-derived extracellular vesicle>;extracellular vesicle secreted by the microbiota
+<Major depressive disorder>;depressive disorder marked by at least one major depressive episode lasting a minimum of two weeks, involving clinically significant distress or impairment in relevant areas of functioning, with symptoms present nearly every day for at least two consecutive weeks
+<Bipolar disorder>;mood disorder marked by a tendency to remission and recurrence, characterized by severe mood swings (manic depressive episodes or major depressive episodes) and shifts in energy
+<Well-being>;state experienced by an individual, characterized by happiness, as well as physical health and mental health
+<Abnormality>;condition that constitutes a marked deviation from a normal state
+<Psychiatric disease>;mental disease that involves psychiatric abnormalities
+<Bioactive compound>;compound that occurs in nature, found in plants and foods, and performs a biological activity
+<Signaling process>;cellular process that involves the transfer of information through a signal pathway
+<Biological process>;activity occurring within, between, and among organisms, accomplished by a particular set of molecular functions
+<Illness>;medical condition subjectively experienced by an individual and characterized by poor health 
+<Illness severity>;finding related to the severity of an illness
+<Diagnostic biomarker>;biomarker used to detect or confirm the presence of a medical condition
+<Psychobiotic>;probiotic that, when administered in adequate amounts, confers mental health benefits to the host
+<Microbiota-gut-brain axis>;axis involving a bidirectional signaling mechanism between the gastrointestinal tract and the central nervous system
+<Axis>;network involving an interaction or communication among entities that can be microbiotas, microbiomes, or anatomical locations
+<Gut>;gastrointestinal tract segment, constituted of the small intestine and the large intestine
+<Dysbiosis>;alteration consisting of a change in the quantitative and qualitative composition of the microbiota or microbiome
+<Disturbance>;manifestation that consists of a departure or divergence from what is considered normal
+<Microorganism>;organism that is microscopic
+<Microbial composition>;composition referring to the microorganisms present in an environment
+<Microbial function>;function performed by a microorganism
+<Microbiota alteration>;alteration of the microbiota
+<Depressive disorder>;mood disorder characterized by the presence of sad, empty, or irritable mood, and associated changes that significantly affect the capacity to function of an individual
+<Gut barrier>;mucosal barrier of the gut, that performs the functions of absorbing nutrients and preventing the penetration of harmful substances
+<Immune response>;immune system process consisting of the activity of an organism to a potential internal or invasive threat
+<Cortisol>;glucocorticoid hormone produced by the zona fasciculata of the adrenal cortex 
+<Hypothalamic-pituitary-adrenal axis>;axis involving the hypothalamus, anterior pituitary gland, and adrenal gland
+<Adjuvant therapy>;therapy that is administered to augment or stimulate a primary treatment
+<Treatment-resistant case>;case characterized by resistance to treatment
+<Treatment-resistance>;response to treatment that is diminished or failed
+<Case>;instance of a disease
+<Psychobiotic intervention>;intervention that involves the administration of psychobiotics
+<Agent>;entity that has a causal nature and produces an effect
+<Therapeutic intervention>;intervention of a therapeutic nature
+<Treat>;implementing a treatment to manage or cure a medical condition
+<Disorder>;condition that is abnormal, that affects the function of the body
+<Pathology>;condition involving a structural or functional deviation from normal, that constitutes disease or characterizes a particular disease
+<Physiology>;set of functions and processes of living organisms and their parts
+<Homeostasis>;regulatory processes whereby the internal environment of an organism tends to remain balanced and stable
+<Synbiotic>;mixture comprising live microorganisms and substrate(s) selectively utilized by host microorganisms, that confers a health benefit on the host
+<Biotherapeutic process>;therapeutic process carried out using biotherapeutics
+<Body>;physical object that is the entire physical structure of an organism
+<Organism>;physical system that is living
+<Akkermansia muciniphila>;species of Gram-negative, anaerobic bacterium in the genus Akkermansia, that resides predominantly in the gastrointestinal tract
+<Olanzapine-induced weight gain>;weight gain induced by olanzapine
+<First-generation antipsychotic>;antipsychotic that antagonizes dopamine receptors
+<Mechanism>;means by which an effect is obtained
+<Bacterium>;microorganism that is unicellular, prokaryotic, and reproduces by cell division
+<Diabetes mellitus>;metabolic disease characterized by chronic hyperglycaemia and disturbances of carbohydrate, fat, and protein metabolism 
+<Obesity>;nutritional disorder defined by excessive adiposity, that can impair health
+<Metabolic disorder>;disorder that results from an abnormal metabolic process
+<Satiety signaling pathway>;signaling pathway that transmits satiety signals
+<Satiety>;sensation of fullness after eating
+<Signaling pathway>;biochemical pathway that is a chain of molecular interactions involved in a signal transduction pathway 
+<Food intake behavior>;behavior associated with food intake, including modes of feeding, patterns of eating and time intervals
+<Food intake>;nutrition process that involves the consumption of edible substances
+<Weight regulation>;process that consists of the regulation of weight
+<Metabolic regulation>;process that consists of the regulation of metabolism
+<Central receptor blockade mechanism>;mechanism that involves the blockade of a central receptor
+<Peripheral receptor blockade mechanism>;mechanism that involves the blockade of a peripheral receptor
+<Central receptor>;receptor located in the central nervous system
+<Peripheral receptor>;receptor located in the blood vessels, walls of hollow organs, parenchyma of visceral organs, and serosae 
+<Receptor>;binding protein that binds to a signaling factor, causing a conformational and functional change in the receptor molecule
+<Blockade>;action that consists in the interruption of normal functions, the hindering of processes, as well as the interference with and prevention of signal reception
+<Metabolic impairment>;impairment that involves abnormality in metabolism activity
+<Concentration>;measure of the amount of substance present in a unit volume or weight of another substance
+<Metabolic syndrome>;syndrome that has a metabolic nature, and constitutes a risk factor for cardiovascular diseases and type 2 diabetes mellitus
+<Inflammatory disease>;disease characterized by inflammation
+<Probiotic administration>;procedure that involves the administration of a probiotic
+<Psychiatry>;medical specialty that deals with the management and treatment of mental diseases and disorders
+<Psychiatric patient>;patient affected by a psychiatric condition
+<Administer>;dispense, apply, or tender something to another
+<Mouse model>;animal model in which the organism used is a mouse
+<Antipsychotic-induced metabolic impairment>;metabolic impairment induced by antipsychotics
+<Olanzapine administration>;procedure that consists of the administration of olanzapine
+<Administration>;procedure that involves the dispensing, applying, or tendering of something to another
+<Insulin resistance>;metabolic disorder characterized by reduced effectiveness of insulin in lowering blood sugar levels
+<Hyperglycemia>;glucose metabolism disorder characterized by abnormally high level of glucose in the blood
+<Liver function>;function performed by the liver
+<Systemic inflammation>;inflammation that affects the whole body
+<Gut barrier function>;function performed by the gut barrier
+<Psychiatric population>;patient population, composed of psychiatric patients
+<Metabolic side effect>;side effect that concerns metabolism
+<Alter>;change and modify from the normal state
+<Microbiota composition>;composition of the microbiota
+<Modulate>;adjust to a proper measure or proportion
+<Probiotic intervention>;intervention that involves the administration of a probiotic
+<Synbiotic intervention>;intervention that involves the administration of a synbiotic
+<Fecal microbiota transplantation>;transplantation of fecal microbiota from a healthy individual to a recipient
+<Short-chain fatty acid>;dietary fatty acid that is a metabolite produced by bacterial fermentation of dietary fibre in the gastrointestinal tract
+<α-synuclein>;synuclein, encoded by the human SNCA gene, that is a major component of Lewy bodies and is involved in synucleinopathies
+<Neuroinflammation>;inflammation that functions as a response to an inflammatory challenge affecting the central nervous system
+<Reactive oxygen species>;reactive species, that easily reacts with other molecules, and is formed by the incomplete one-electron reduction of oxygen
+<Reactive nitrogen species>;reactive species, that reacts with other molecules, and is derived from nitric oxide and superoxide
+<Modulatory interaction>;interaction that involves and is aimed at modulation
+<Acetate>;monocarboxylic acid anion, resulting from the removal of a proton from the carboxy group of acetic acid
+<Propionate>;short-chain fatty acid anion that is the conjugate base of propionic acid
+<Butyrate>;short-chain fatty acid anion that is the conjugate base of butyric acid
+<α-synuclein aggregation>;molecular process involving the formation of α-synuclein aggregates
+<Parkinson's disease symptom>;symptom that characterizes Parkinson's disease
+<Oxidative stress>;cellular stress that involves a disturbance in the prooxidant-antioxidant balance in favor of the former
+<Biomarker>;marker that is biological, measurable, and quantifiable, serving as an indicator for normal biologic processes, pathogenic processes, state of health or disease, risk for disease development and/or prognosis, or responsiveness to a  therapeutic intervention
+<Disease pathogenesis>;pathological process by which a cause gives rise to a disease
+<Pathogenesis>;pathological process by which a cause gives rise to a disease or condition 
+<α-synuclein-induced neuroinflammation>;neuroinflammation caused by α-synuclein
+<Microglia>;glial cell that mediates immune responses by clearing cellular debris and dead neurons from nervous tissue through phagocytosis
+<Parkinson's disease pathogenesis>;pathogenesis of Parkinson's disease
+<Parkinson's disease treatment>;treatment of Parkinson's disease
